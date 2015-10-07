@@ -1,0 +1,95 @@
+{
+  "file": {
+    "control": {
+      "file": {
+         "daemons": {
+            "file": {
+                "testdaemon": {
+                  "file": {
+                    "argv": {
+                      "file": {
+                        "1": { 
+                          "file": "/usr/bin/python", 
+                          "deserializer": "ramfile"
+                        },
+                        "2": { 
+                          "file": "-m", 
+                          "deserializer": "ramfile"
+                        }, 
+                        "3": { 
+                          "file": "SimpleHTTPServer", 
+                          "deserializer": "ramfile"
+                        }
+                      },
+                      "deserializer": "directory"
+                    }
+                  },
+                  "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "packages": {
+          "file": {
+            "bash": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "findutils": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "mount": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libmount1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "locales": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "coreutils": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libtinfo5": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libselinux1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "net-tools": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libacl1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "python": {
+              "file": {},
+              "deserializer": "directory"
+            }
+          },
+          "deserializer": "directory"
+        }
+      },
+      "deserializer": "directory"
+    },
+    "bin": {
+      "file": {
+        "sh": {
+          "deserializer": "symlink",
+          "file": "bash"
+        }
+      },
+      "deserializer": "directory"
+    }
+  },
+  "deserializer": "directory"
+}

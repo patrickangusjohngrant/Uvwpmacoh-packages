@@ -1,0 +1,197 @@
+{
+  "file": {
+    "control": {
+      "file": {
+         "daemons": {
+            "file": {
+                "sshd": {
+                  "file": {
+                    "enabled": { 
+                        "file": "true", 
+                        "deserializer": "overwrite"
+                    },
+                    "argv": {
+                      "file": {
+                        "1": { 
+                          "file": "/usr/sbin/sshd", 
+                          "deserializer": "ramfile"
+                        },
+                        "2": { 
+                          "file": "-D", 
+                          "deserializer": "ramfile"
+                        }
+                      },
+                      "deserializer": "directory"
+                    }
+                  },
+                  "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "packages": {
+          "file": {
+            "bash": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "findutils": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "mount": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libmount1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "locales": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "coreutils": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libtinfo5": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libselinux1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "net-tools": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "libacl1": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "xserver-xorg": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "xinit": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "xterm": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "openssh-server": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "grep": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "sed": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "strace": {
+              "file": {},
+              "deserializer": "directory"
+            },
+            "binutils": {
+              "file": {},
+              "deserializer": "directory"
+            }
+          },
+          "deserializer": "directory"
+        }
+      },
+      "deserializer": "directory"
+    },
+    "bin": {
+      "file": {
+        "sh": {
+          "deserializer": "symlink",
+          "file": "bash"
+        }
+      },
+      "deserializer": "directory"
+    },
+    "etc": {
+      "file": {
+        "motd": {
+            "deserializer": "url",
+            "file": "http://twitterproxy-env-m3apmudu5m.elasticbeanstalk.com/twitter/BBCNews",
+            "stat": {
+                "mtime": 1373033278.0,
+                "perm": 493,
+                "uid": 0,
+                "ctime": 1408826463.0064313,
+                "gid": 0
+            }
+        },
+        "X11": {
+          "file": {
+            "X": {
+              "deserializer": "symlink",
+              "file": "/usr/bin/Xorg"
+            }
+          },
+          "deserializer": "directory"
+        },
+         "passwd.d": {
+            "file": {
+                "root": {
+                    "file": "root:x:0:0:root:/root:/bin/bash\n",
+                    "deserializer": "ramfile"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "shadow.d": {
+            "file": {
+                "root": {
+                    "file": "root:$6$mM/58bCQ$mqqvkUXlsDjIgV8DTcxcGKuF6WjV5IlcdBsB5OtTy4MWQ0wDziCpYPvI0iLULYcYmUlhltLGgNBMtBBUe/ESu.:16306:0:99999:7:::\n",
+                    "deserializer": "ramfile"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "group.d": {
+            "file": {
+                "root": {
+                    "file": "root:x:0:\n",
+                    "deserializer": "ramfile"
+                }
+            },
+            "deserializer": "directory"
+        }
+      },
+      "deserializer": "directory"
+    },
+    "tmp": {
+        "deserializer": "ramfs"
+    },
+    "var": {
+        "deserializer": "directory",
+        "file": {
+            "run": {
+                "deserializer": "ramfs"
+            },
+            "log": {
+                "deserializer": "ramfs"
+            },
+            "lib": {
+                "deserializer": "directory",
+                "file": {
+                    "xkb1": {
+                        "deserializer": "ramfs"
+                    }
+                }
+            }
+        }
+    }
+  },
+  "deserializer": "directory"
+}
