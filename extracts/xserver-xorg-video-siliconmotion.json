@@ -1,0 +1,291 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "man": {
+                            "deserializer": "directory",
+                            "file": {
+                                "man4": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "siliconmotion.4.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/09d847d014445e84e28a5065c0e74c93",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "ctime": 1424390254.0631962,
+                                                "mtime": 1410359703.0,
+                                                "gid": 0,
+                                                "size": 2758
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "ctime": 1424390254.0631962,
+                                        "mtime": 1410359703.0,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "ctime": 1424390254.0631962,
+                                "mtime": 1410359703.0,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-video-siliconmotion": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/076bf555be31a9e2a3a17e80beb5d5be",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "ctime": 1424390254.0631962,
+                                                "mtime": 1410359708.0,
+                                                "gid": 0,
+                                                "size": 1169
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f74ebb63cf373e4e371966e0283574f4",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "ctime": 1424390254.0631962,
+                                                "mtime": 1410359680.0,
+                                                "gid": 0,
+                                                "size": 4063
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "ctime": 1424390254.0631962,
+                                        "mtime": 1410359703.0,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "ctime": 1424390254.0631962,
+                                "mtime": 1410359703.0,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "bug": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-video-siliconmotion": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "script": {
+                                            "deserializer": "symlink",
+                                            "file": "../xserver-xorg-core/script",
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "ctime": 1424390254.0631962,
+                                                "mtime": 1424390254.0631962,
+                                                "gid": 0,
+                                                "size": 27
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "ctime": 1424390254.0631962,
+                                        "mtime": 1410359703.0,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "ctime": 1424390254.0631962,
+                                "mtime": 1410359703.0,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "ctime": 1424390254.0631962,
+                        "mtime": 1410359703.0,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xorg": {
+                            "deserializer": "directory",
+                            "file": {
+                                "modules": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "drivers": {
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "siliconmotion_drv.so": {
+                                                    "deserializer": "url",
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/5a0abd7bc5ab6bbb86ea9f7f4a21a0bc",
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "ctime": 1424390254.0631962,
+                                                        "mtime": 1410359705.0,
+                                                        "gid": 0,
+                                                        "size": 112416
+                                                    }
+                                                }
+                                            },
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "ctime": 1424390254.0631962,
+                                                "mtime": 1410359705.0,
+                                                "gid": 0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "ctime": 1424390254.0631962,
+                                        "mtime": 1410359703.0,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "ctime": 1424390254.0631962,
+                                "mtime": 1410359703.0,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "ctime": 1424390254.0631962,
+                        "mtime": 1410359703.0,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "ctime": 1424390254.0631962,
+                "mtime": 1410359703.0,
+                "gid": 0,
+                "size": 4096
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xserver-xorg-core (>= 2:1.15.99.903)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "ctime": 1424390254.055196,
+                                "mtime": 1424390254.055196,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "ctime": 1424390254.055196,
+                                "mtime": 1424390254.055196,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "xorg-video-abi-18": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "ctime": 1424390254.055196,
+                                "mtime": 1424390254.055196,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "ctime": 1424390254.055196,
+                        "mtime": 1424390254.055196,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "ctime": 1424390254.055196,
+                "mtime": 1424390254.055196,
+                "gid": 0,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "ctime": 1424390254.0631962,
+        "mtime": 1410359705.0,
+        "gid": 0,
+        "size": 4096
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "stat": {
+        "uid": 0,
+        "ctime": 1424734680.584784,
+        "gid": 0,
+        "mtime": 1405099039.0,
+        "perm": 16877,
+        "size": 4096
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "uid": 0,
+                "ctime": 1424734680.572784,
+                "gid": 0,
+                "mtime": 1424734680.572784,
+                "perm": 16893,
+                "size": 4096
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734680.572784,
+                        "gid": 0,
+                        "mtime": 1424734680.572784,
+                        "perm": 16893,
+                        "size": 4096
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libdb5.3": {
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734680.572784,
+                                "gid": 0,
+                                "mtime": 1424734680.572784,
+                                "perm": 16893,
+                                "size": 4096
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734680.572784,
+                                "gid": 0,
+                                "mtime": 1424734680.572784,
+                                "perm": 16893,
+                                "size": 4096
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "uid": 0,
+                "ctime": 1424734680.584784,
+                "gid": 0,
+                "mtime": 1405099037.0,
+                "perm": 16877,
+                "size": 4096
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734680.584784,
+                        "gid": 0,
+                        "mtime": 1405099036.0,
+                        "perm": 16877,
+                        "size": 4096
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734680.584784,
+                                "gid": 0,
+                                "mtime": 1405099036.0,
+                                "perm": 16877,
+                                "size": 4096
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "sasl2": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424734680.584784,
+                                        "gid": 0,
+                                        "mtime": 1405099046.0,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libsasldb.so.2.0.25": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1405099046.0,
+                                                "perm": 33188,
+                                                "size": 26536
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9b7b082abf14e71bc7c4f86d5ff37f16"
+                                        },
+                                        "libsasldb.so.2": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1424734680.584784,
+                                                "perm": 41471,
+                                                "size": 19
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "libsasldb.so.2.0.25"
+                                        },
+                                        "libsasldb.so": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1424734680.584784,
+                                                "perm": 41471,
+                                                "size": 19
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "libsasldb.so.2.0.25"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734680.584784,
+                        "gid": 0,
+                        "mtime": 1405099037.0,
+                        "perm": 16877,
+                        "size": 4096
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734680.584784,
+                                "gid": 0,
+                                "mtime": 1405099037.0,
+                                "perm": 16877,
+                                "size": 4096
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libsasl2-modules-db": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424734680.584784,
+                                        "gid": 0,
+                                        "mtime": 1405099040.0,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1405069178.0,
+                                                "perm": 33188,
+                                                "size": 3099
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2dd499cf271a2da00f64c86a3ae65f33"
+                                        },
+                                        "NEWS.Debian.gz": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1405069178.0,
+                                                "perm": 33188,
+                                                "size": 371
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cba810b73f30ce64df6e67ece59d3459"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424734680.584784,
+                                                "gid": 0,
+                                                "mtime": 1405099067.0,
+                                                "perm": 33188,
+                                                "size": 1732
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/504efada3796e63428050de805ea8ab6"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

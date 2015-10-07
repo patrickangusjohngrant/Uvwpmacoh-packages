@@ -1,0 +1,177 @@
+{
+    "stat": {
+        "gid": 0,
+        "size": 4096,
+        "mtime": 1413285860.0,
+        "uid": 0,
+        "perm": 16877,
+        "ctime": 1424388685.4836495
+    },
+    "file": {
+        "control": {
+            "stat": {
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1424388685.4716494,
+                "uid": 0,
+                "perm": 16893,
+                "ctime": 1424388685.4716494
+            },
+            "file": {
+                "packages": {
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1424388685.4716494,
+                        "uid": 0,
+                        "perm": 16893,
+                        "ctime": 1424388685.4716494
+                    },
+                    "file": {
+                        "libc6 (>= 2.17)": {
+                            "stat": {
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424388685.4716494,
+                                "uid": 0,
+                                "perm": 16893,
+                                "ctime": 1424388685.4716494
+                            },
+                            "file": {},
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "usr": {
+            "stat": {
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1413285855.0,
+                "uid": 0,
+                "perm": 16877,
+                "ctime": 1424388685.4836495
+            },
+            "file": {
+                "share": {
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1413285855.0,
+                        "uid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388685.4836495
+                    },
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1413285855.0,
+                                "uid": 0,
+                                "perm": 16877,
+                                "ctime": 1424388685.4836495
+                            },
+                            "file": {
+                                "libkmod2": {
+                                    "stat": {
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "mtime": 1413285871.0,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "ctime": 1424388685.4836495
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "stat": {
+                                                "gid": 0,
+                                                "size": 523,
+                                                "mtime": 1403315203.0,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424388685.4836495
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d892d3eed17188efab9d3977faef865d",
+                                            "deserializer": "url"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "gid": 0,
+                                                "size": 1122,
+                                                "mtime": 1413285871.0,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424388685.4836495
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a5307f6c1f300cd38a6722030b92bb4a",
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "lib": {
+            "stat": {
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1413285854.0,
+                "uid": 0,
+                "perm": 16877,
+                "ctime": 1424388685.4836495
+            },
+            "file": {
+                "x86_64-linux-gnu": {
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1413285859.0,
+                        "uid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388685.4836495
+                    },
+                    "file": {
+                        "libkmod.so.2": {
+                            "stat": {
+                                "gid": 0,
+                                "size": 16,
+                                "mtime": 1424388685.4836495,
+                                "uid": 0,
+                                "perm": 41471,
+                                "ctime": 1424388685.4836495
+                            },
+                            "file": "libkmod.so.2.2.8",
+                            "deserializer": "symlink"
+                        },
+                        "libkmod.so.2.2.8": {
+                            "stat": {
+                                "gid": 0,
+                                "size": 92824,
+                                "mtime": 1413285859.0,
+                                "uid": 0,
+                                "perm": 33188,
+                                "ctime": 1424388685.4836495
+                            },
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8b50bea01ef45352751099fd08d7b533",
+                            "deserializer": "url"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        }
+    },
+    "deserializer": "directory"
+}

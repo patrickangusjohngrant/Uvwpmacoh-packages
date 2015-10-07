@@ -1,0 +1,341 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "gcc-4.9-base (= 4.9.1-16ubuntu6)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "mtime": 1424387013.3270884,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3270884,
+                                "perm": 16893,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.18)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "mtime": 1424387013.3270884,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3270884,
+                                "perm": 16893,
+                                "size": 4096
+                            }
+                        },
+                        "libgcc1 (>= 1:4.1.1)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "mtime": 1424387013.3270884,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3270884,
+                                "perm": 16893,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "mtime": 1424387013.3270884,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424387013.3270884,
+                        "perm": 16893,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "mtime": 1424387013.3270884,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424387013.3270884,
+                "perm": 16893,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libstdc++.so.6": {
+                                    "deserializer": "symlink",
+                                    "file": "libstdc++.so.6.0.20",
+                                    "stat": {
+                                        "mtime": 1424387013.3630884,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424387013.3630884,
+                                        "perm": 41471,
+                                        "size": 19
+                                    }
+                                },
+                                "libstdc++.so.6.0.20": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/aed85bb25214cabe98fd0aee2ba174bf",
+                                    "stat": {
+                                        "mtime": 1413029872.0,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424387013.3630884,
+                                        "perm": 33188,
+                                        "size": 1024504
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "mtime": 1413029872.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3630884,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "mtime": 1413029856.0,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424387013.3630884,
+                        "perm": 16877,
+                        "size": 4096
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "gcc-4.9": {
+                            "deserializer": "directory",
+                            "file": {
+                                "python": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libstdcxx": {
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "v6": {
+                                                    "deserializer": "directory",
+                                                    "file": {
+                                                        "printers.py": {
+                                                            "deserializer": "url",
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ef6e2b217e933f5c82fce966c129f638",
+                                                            "stat": {
+                                                                "mtime": 1413028250.0,
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424387013.3630884,
+                                                                "perm": 33188,
+                                                                "size": 41551
+                                                            }
+                                                        },
+                                                        "__init__.py": {
+                                                            "deserializer": "url",
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/68b329da9893e34099c7d8ad5cb9c940",
+                                                            "stat": {
+                                                                "mtime": 1413028250.0,
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424387013.3630884,
+                                                                "perm": 33188,
+                                                                "size": 1
+                                                            }
+                                                        }
+                                                    },
+                                                    "stat": {
+                                                        "mtime": 1413029856.0,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424387013.3630884,
+                                                        "perm": 16877,
+                                                        "size": 4096
+                                                    }
+                                                },
+                                                "__init__.py": {
+                                                    "deserializer": "url",
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/68b329da9893e34099c7d8ad5cb9c940",
+                                                    "stat": {
+                                                        "mtime": 1413028250.0,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424387013.3630884,
+                                                        "perm": 33188,
+                                                        "size": 1
+                                                    }
+                                                }
+                                            },
+                                            "stat": {
+                                                "mtime": 1413029856.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424387013.3630884,
+                                                "perm": 16877,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "mtime": 1413029856.0,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424387013.3630884,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "mtime": 1413029856.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3630884,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libstdc++6": {
+                                    "deserializer": "symlink",
+                                    "file": "gcc-4.9-base",
+                                    "stat": {
+                                        "mtime": 1424387013.3630884,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424387013.3630884,
+                                        "perm": 41471,
+                                        "size": 12
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "mtime": 1413029856.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3630884,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        },
+                        "gdb": {
+                            "deserializer": "directory",
+                            "file": {
+                                "auto-load": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "usr": {
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "lib": {
+                                                    "deserializer": "directory",
+                                                    "file": {
+                                                        "x86_64-linux-gnu": {
+                                                            "deserializer": "directory",
+                                                            "file": {
+                                                                "libstdc++.so.6.0.20-gdb.py": {
+                                                                    "deserializer": "url",
+                                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/188abafed69fc11f781a1c6e0a837998",
+                                                                    "stat": {
+                                                                        "mtime": 1413029856.0,
+                                                                        "uid": 0,
+                                                                        "gid": 0,
+                                                                        "ctime": 1424387013.3630884,
+                                                                        "perm": 33188,
+                                                                        "size": 2307
+                                                                    }
+                                                                }
+                                                            },
+                                                            "stat": {
+                                                                "mtime": 1413029856.0,
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424387013.3630884,
+                                                                "perm": 16877,
+                                                                "size": 4096
+                                                            }
+                                                        }
+                                                    },
+                                                    "stat": {
+                                                        "mtime": 1413029856.0,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424387013.3630884,
+                                                        "perm": 16877,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "stat": {
+                                                "mtime": 1413029856.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424387013.3630884,
+                                                "perm": 16877,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "mtime": 1413029856.0,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424387013.3630884,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "mtime": 1413029856.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424387013.3630884,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "mtime": 1413029856.0,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424387013.3630884,
+                        "perm": 16877,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "mtime": 1413029856.0,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424387013.3630884,
+                "perm": 16877,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "mtime": 1413029872.0,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424387013.3630884,
+        "perm": 16877,
+        "size": 4096
+    }
+}

@@ -1,0 +1,387 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libgssapi3-heimdal (>= 1.4.0+git20110226)": {
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424734477.8756227,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.8756227
+                            },
+                            "deserializer": "directory"
+                        },
+                        "libsasl2-2": {
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424734477.8756227,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.8756227
+                            },
+                            "deserializer": "directory"
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424734477.8756227,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.8756227
+                            },
+                            "deserializer": "directory"
+                        },
+                        "libgnutls-deb0-28 (>= 3.2.10-0)": {
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424734477.8756227,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.8756227
+                            },
+                            "deserializer": "directory"
+                        },
+                        "libgcrypt20 (>= 1.6.1)": {
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424734477.8756227,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.8756227
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "stat": {
+                        "perm": 16893,
+                        "mtime": 1424734477.8756227,
+                        "gid": 0,
+                        "size": 4096,
+                        "uid": 0,
+                        "ctime": 1424734477.8756227
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "stat": {
+                "perm": 16893,
+                "mtime": 1424734477.8756227,
+                "gid": 0,
+                "size": 4096,
+                "uid": 0,
+                "ctime": 1424734477.8756227
+            },
+            "deserializer": "directory"
+        },
+        "etc": {
+            "file": {
+                "ldap": {
+                    "file": {
+                        "ldap.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0b3f4d19d88498314478273ce10b0a70",
+                            "stat": {
+                                "perm": 33188,
+                                "mtime": 1409693810.0,
+                                "gid": 0,
+                                "size": 332,
+                                "uid": 0,
+                                "ctime": 1424734477.915623
+                            },
+                            "deserializer": "url"
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1409693835.0,
+                        "gid": 0,
+                        "size": 4096,
+                        "uid": 0,
+                        "ctime": 1424734477.915623
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "stat": {
+                "perm": 16877,
+                "mtime": 1409693835.0,
+                "gid": 0,
+                "size": 4096,
+                "uid": 0,
+                "ctime": 1424734477.915623
+            },
+            "deserializer": "directory"
+        },
+        "usr": {
+            "file": {
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libldap-2.4.so.2": {
+                                    "file": "libldap_r-2.4.so.2",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "mtime": 1424734477.915623,
+                                        "gid": 0,
+                                        "size": 18,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "symlink"
+                                },
+                                "liblber-2.4.so.2.8.3": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/0c9a1f0ea8e7eac4082fe7ea32f419c3",
+                                    "stat": {
+                                        "perm": 33188,
+                                        "mtime": 1409693841.0,
+                                        "gid": 0,
+                                        "size": 59640,
+                                        "uid": 0,
+                                        "ctime": 1424734477.911623
+                                    },
+                                    "deserializer": "url"
+                                },
+                                "libldap_r-2.4.so.2.8.3": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/349136167549ce2a8cde42752010a702",
+                                    "stat": {
+                                        "perm": 33188,
+                                        "mtime": 1409693841.0,
+                                        "gid": 0,
+                                        "size": 327152,
+                                        "uid": 0,
+                                        "ctime": 1424734477.911623
+                                    },
+                                    "deserializer": "url"
+                                },
+                                "liblber-2.4.so.2": {
+                                    "file": "liblber-2.4.so.2.8.3",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "mtime": 1424734477.915623,
+                                        "gid": 0,
+                                        "size": 20,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "symlink"
+                                },
+                                "libldap_r-2.4.so.2": {
+                                    "file": "libldap_r-2.4.so.2.8.3",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "mtime": 1424734477.915623,
+                                        "gid": 0,
+                                        "size": 22,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "symlink"
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1409693841.0,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.915623
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1409693835.0,
+                        "gid": 0,
+                        "size": 4096,
+                        "uid": 0,
+                        "ctime": 1424734477.915623
+                    },
+                    "deserializer": "directory"
+                },
+                "share": {
+                    "file": {
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "libldap-2.4-2": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a21c4230e6af07b56cf328c8b16c0765",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409690186.0,
+                                                "gid": 0,
+                                                "size": 79,
+                                                "uid": 0,
+                                                "ctime": 1424734477.911623
+                                            },
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1409693839.0,
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1409693839.0,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.915623
+                            },
+                            "deserializer": "directory"
+                        },
+                        "man": {
+                            "file": {
+                                "man5": {
+                                    "file": {
+                                        "ldap.conf.5.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6410d7bbf56122374c8e916168519ab2",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409693837.0,
+                                                "gid": 0,
+                                                "size": 5848,
+                                                "uid": 0,
+                                                "ctime": 1424734477.915623
+                                            },
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1409693840.0,
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1409693837.0,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.915623
+                            },
+                            "deserializer": "directory"
+                        },
+                        "doc": {
+                            "file": {
+                                "libldap-2.4-2": {
+                                    "file": {
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4ef1d2e2f5e29c2ab2dcc748d01f525b",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409690186.0,
+                                                "gid": 0,
+                                                "size": 20267,
+                                                "uid": 0,
+                                                "ctime": 1424734477.911623
+                                            },
+                                            "deserializer": "url"
+                                        },
+                                        "README.Debian": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/542ca9165ae50bfad3f099545c392531",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409690186.0,
+                                                "gid": 0,
+                                                "size": 983,
+                                                "uid": 0,
+                                                "ctime": 1424734477.911623
+                                            },
+                                            "deserializer": "url"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2ebef4110eba4cdd0c41f62cbcda0646",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409693869.0,
+                                                "gid": 0,
+                                                "size": 984,
+                                                "uid": 0,
+                                                "ctime": 1424734477.911623
+                                            },
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1409693840.0,
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "ctime": 1424734477.915623
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1409693835.0,
+                                "gid": 0,
+                                "size": 4096,
+                                "uid": 0,
+                                "ctime": 1424734477.915623
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1409693839.0,
+                        "gid": 0,
+                        "size": 4096,
+                        "uid": 0,
+                        "ctime": 1424734477.915623
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "stat": {
+                "perm": 16877,
+                "mtime": 1409693835.0,
+                "gid": 0,
+                "size": 4096,
+                "uid": 0,
+                "ctime": 1424734477.915623
+            },
+            "deserializer": "directory"
+        }
+    },
+    "stat": {
+        "perm": 16877,
+        "mtime": 1409693839.0,
+        "gid": 0,
+        "size": 4096,
+        "uid": 0,
+        "ctime": 1424734477.915623
+    },
+    "deserializer": "directory"
+}

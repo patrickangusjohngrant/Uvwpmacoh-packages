@@ -1,0 +1,426 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "grub-gfxpayload-lists": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        },
+                        "grub2-common (= 2.02~beta2-15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        },
+                        "grub-common (= 2.02~beta2-15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        },
+                        "debconf (>= 0.5) | debconf-2.0": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        },
+                        "ucf": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        },
+                        "grub-pc-bin (= 2.02~beta2-15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3271825,
+                                "perm": 16893,
+                                "mtime": 1424305703.3271825,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3271825,
+                        "perm": 16893,
+                        "mtime": 1424305703.3271825,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424305703.3271825,
+                "perm": 16893,
+                "mtime": 1424305703.3271825,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "grub-pc": {
+                                    "file": "grub-common",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3431826,
+                                        "perm": 41471,
+                                        "mtime": 1424305703.3431826,
+                                        "size": 11
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452978.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man8": {
+                                    "file": {
+                                        "grub-bios-setup.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cad4ace14fa62645b2ef919b70fb21ab",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424305703.3391826,
+                                                "perm": 33188,
+                                                "mtime": 1413452970.0,
+                                                "size": 1019
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3431826,
+                                        "perm": 16877,
+                                        "mtime": 1413452979.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452941.0,
+                                "size": 4096
+                            }
+                        },
+                        "bug": {
+                            "file": {
+                                "grub-pc": {
+                                    "file": {
+                                        "script": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0d5ead2e5fdc1dad9283d5a770980056",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424305703.3391826,
+                                                "perm": 33261,
+                                                "mtime": 1413376083.0,
+                                                "size": 1768
+                                            }
+                                        },
+                                        "presubj": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8078b6f24767ff216eb390a997926d48",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424305703.3391826,
+                                                "perm": 33188,
+                                                "mtime": 1413376083.0,
+                                                "size": 1112
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3431826,
+                                        "perm": 16877,
+                                        "mtime": 1413452977.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452977.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3431826,
+                        "perm": 16877,
+                        "mtime": 1413452977.0,
+                        "size": 4096
+                    }
+                },
+                "sbin": {
+                    "file": {
+                        "upgrade-from-grub-legacy": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b06333c3e85cbf57464d85b39414e30b",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3391826,
+                                "perm": 33261,
+                                "mtime": 1413376083.0,
+                                "size": 1524
+                            }
+                        },
+                        "grub-bios-setup": {
+                            "file": "../lib/grub/i386-pc/grub-bios-setup",
+                            "deserializer": "symlink",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 41471,
+                                "mtime": 1424305703.3431826,
+                                "size": 35
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3431826,
+                        "perm": 16877,
+                        "mtime": 1413452978.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "grub-legacy": {
+                            "file": {
+                                "update-grub": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6ef6f4304037d1efffc9a10b5d53ed02",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3351827,
+                                        "perm": 33261,
+                                        "mtime": 1413452966.0,
+                                        "size": 30822
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452966.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3431826,
+                        "perm": 16877,
+                        "mtime": 1413452941.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "grub-ntldr-img": {
+                            "file": "../lib/grub/i386-pc/grub-ntldr-img",
+                            "deserializer": "symlink",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 41471,
+                                "mtime": 1424305703.3431826,
+                                "size": 34
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3431826,
+                        "perm": 16877,
+                        "mtime": 1413452978.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424305703.3431826,
+                "perm": 16877,
+                "mtime": 1413452978.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "kernel": {
+                    "file": {
+                        "postrm.d": {
+                            "file": {
+                                "zz-update-grub": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/269828d3b8e5bfb266c58fb0a00abcd5",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3431826,
+                                        "perm": 33261,
+                                        "mtime": 1413376083.0,
+                                        "size": 641
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452941.0,
+                                "size": 4096
+                            }
+                        },
+                        "postinst.d": {
+                            "file": {
+                                "zz-update-grub": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/269828d3b8e5bfb266c58fb0a00abcd5",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305703.3431826,
+                                        "perm": 33261,
+                                        "mtime": 1413376083.0,
+                                        "size": 641
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305703.3431826,
+                                "perm": 16877,
+                                "mtime": 1413452941.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305703.3431826,
+                        "perm": 16877,
+                        "mtime": 1413452941.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424305703.3431826,
+                "perm": 16877,
+                "mtime": 1413452941.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424305703.3431826,
+        "perm": 16877,
+        "mtime": 1413452970.0,
+        "size": 4096
+    }
+}

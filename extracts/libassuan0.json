@@ -1,0 +1,189 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305714.7072225,
+                                "perm": 16893,
+                                "mtime": 1424305714.7072225,
+                                "size": 4096
+                            }
+                        },
+                        "libgpg-error0 (>= 1.10)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305714.7072225,
+                                "perm": 16893,
+                                "mtime": 1424305714.7072225,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305714.7072225,
+                        "perm": 16893,
+                        "mtime": 1424305714.7072225,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424305714.7072225,
+                "perm": 16893,
+                "mtime": 1424305714.7072225,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libassuan0": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4dc2334822b73c0ec20b7d63d220566c",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424305714.7232225,
+                                                "perm": 33188,
+                                                "mtime": 1411402715.0,
+                                                "size": 1186
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/94d05a4c7ace7675f585714a36a06ef8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424305714.7232225,
+                                                "perm": 33188,
+                                                "mtime": 1409448440.0,
+                                                "size": 1083
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305714.7232225,
+                                        "perm": 16877,
+                                        "mtime": 1411402710.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305714.7232225,
+                                "perm": 16877,
+                                "mtime": 1411402710.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305714.7232225,
+                        "perm": 16877,
+                        "mtime": 1411402710.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libassuan.so.0.4.2": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e2bc5a578328e21c0b6c4a92d833f636",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305714.7232225,
+                                        "perm": 33188,
+                                        "mtime": 1411402711.0,
+                                        "size": 72480
+                                    }
+                                },
+                                "libassuan.so.0": {
+                                    "file": "libassuan.so.0.4.2",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424305714.7232225,
+                                        "perm": 41471,
+                                        "mtime": 1424305714.7232225,
+                                        "size": 18
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424305714.7232225,
+                                "perm": 16877,
+                                "mtime": 1411402711.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424305714.7272227,
+                        "perm": 16877,
+                        "mtime": 1411402710.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424305714.7272227,
+                "perm": 16877,
+                "mtime": 1411402710.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424305714.7272227,
+        "perm": 16877,
+        "mtime": 1411402712.0,
+        "size": 4096
+    }
+}

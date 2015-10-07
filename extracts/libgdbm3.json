@@ -1,0 +1,213 @@
+{
+    "file": {
+        "usr": {
+            "file": {
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libgdbm.so.3.0.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/b23fb9d56790de346eba10113766758a",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405617139.0,
+                                        "ctime": 1424383012.219999,
+                                        "perm": 33188,
+                                        "size": 22600,
+                                        "gid": 0
+                                    }
+                                },
+                                "libgdbm_compat.so.3.0.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/4e1e29a072269b33595062643340cb01",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405617139.0,
+                                        "ctime": 1424383012.219999,
+                                        "perm": 33188,
+                                        "size": 10112,
+                                        "gid": 0
+                                    }
+                                },
+                                "libgdbm.so.3": {
+                                    "file": "libgdbm.so.3.0.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1424383012.223999,
+                                        "ctime": 1424383012.223999,
+                                        "perm": 41471,
+                                        "size": 16,
+                                        "gid": 0
+                                    }
+                                },
+                                "libgdbm_compat.so.3": {
+                                    "file": "libgdbm_compat.so.3.0.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1424383012.223999,
+                                        "ctime": 1424383012.223999,
+                                        "perm": 41471,
+                                        "size": 23,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1405617139.0,
+                                "ctime": 1424383012.223999,
+                                "perm": 16877,
+                                "size": 4096,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1405617139.0,
+                        "ctime": 1424383012.223999,
+                        "perm": 16877,
+                        "size": 4096,
+                        "gid": 0
+                    }
+                },
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libgdbm3": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3eee5cb7c0dc57cc083ee6273844b21e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1405617144.0,
+                                                "ctime": 1424383012.219999,
+                                                "perm": 33188,
+                                                "size": 1859,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/41f90e57592b65e9b9658df6002db711",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1405617139.0,
+                                                "ctime": 1424383012.219999,
+                                                "perm": 33188,
+                                                "size": 2466,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405617143.0,
+                                        "ctime": 1424383012.223999,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1405617139.0,
+                                "ctime": 1424383012.223999,
+                                "perm": 16877,
+                                "size": 4096,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1405617139.0,
+                        "ctime": 1424383012.223999,
+                        "perm": 16877,
+                        "size": 4096,
+                        "gid": 0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "mtime": 1405617139.0,
+                "ctime": 1424383012.223999,
+                "perm": 16877,
+                "size": 4096,
+                "gid": 0
+            }
+        },
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "dpkg (>= 1.15.4) | install-info": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1424383012.211999,
+                                "ctime": 1424383012.211999,
+                                "perm": 16893,
+                                "size": 4096,
+                                "gid": 0
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1424383012.211999,
+                                "ctime": 1424383012.211999,
+                                "perm": 16893,
+                                "size": 4096,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1424383012.211999,
+                        "ctime": 1424383012.211999,
+                        "perm": 16893,
+                        "size": 4096,
+                        "gid": 0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "mtime": 1424383012.211999,
+                "ctime": 1424383012.211999,
+                "perm": 16893,
+                "size": 4096,
+                "gid": 0
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "mtime": 1405617139.0,
+        "ctime": 1424383012.223999,
+        "perm": 16877,
+        "size": 4096,
+        "gid": 0
+    }
+}

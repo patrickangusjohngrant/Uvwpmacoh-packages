@@ -1,0 +1,215 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "lintian": {
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libheimbase1-heimdal": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4c8c72b927c3b6d985e7183dbe70e5e4",
+                                            "stat": {
+                                                "size": 34,
+                                                "ctime": 1424734873.041875,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1405823387.0,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "size": 4096,
+                                        "ctime": 1424734873.045875,
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "mtime": 1405855815.0,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "size": 4096,
+                                "ctime": 1424734873.045875,
+                                "perm": 16877,
+                                "uid": 0,
+                                "mtime": 1405855815.0,
+                                "gid": 0
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libheimbase1-heimdal": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fc43b1c4b0c13ce457176c8ecedaa560",
+                                            "stat": {
+                                                "size": 1703,
+                                                "ctime": 1424734873.041875,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1405855930.0,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f932bf346a38dc8820bde606a033564b",
+                                            "stat": {
+                                                "size": 8191,
+                                                "ctime": 1424734873.041875,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1405823387.0,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "size": 4096,
+                                        "ctime": 1424734873.045875,
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "mtime": 1405855817.0,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "size": 4096,
+                                "ctime": 1424734873.045875,
+                                "perm": 16877,
+                                "uid": 0,
+                                "mtime": 1405855808.0,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "ctime": 1424734873.045875,
+                        "perm": 16877,
+                        "uid": 0,
+                        "mtime": 1405855815.0,
+                        "gid": 0
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libheimbase.so.1.0.0": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/d2529e1256718f21a1896e3c8d93520b",
+                                    "stat": {
+                                        "size": 56768,
+                                        "ctime": 1424734873.045875,
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "mtime": 1405855836.0,
+                                        "gid": 0
+                                    }
+                                },
+                                "libheimbase.so.1": {
+                                    "deserializer": "symlink",
+                                    "file": "libheimbase.so.1.0.0",
+                                    "stat": {
+                                        "size": 20,
+                                        "ctime": 1424734873.045875,
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "mtime": 1424734873.045875,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "size": 4096,
+                                "ctime": 1424734873.045875,
+                                "perm": 16877,
+                                "uid": 0,
+                                "mtime": 1405855836.0,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "ctime": 1424734873.045875,
+                        "perm": 16877,
+                        "uid": 0,
+                        "mtime": 1405855807.0,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "size": 4096,
+                "ctime": 1424734873.045875,
+                "perm": 16877,
+                "uid": 0,
+                "mtime": 1405855808.0,
+                "gid": 0
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "size": 4096,
+                                "ctime": 1424734873.037875,
+                                "perm": 16893,
+                                "uid": 0,
+                                "mtime": 1424734873.037875,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "ctime": 1424734873.037875,
+                        "perm": 16893,
+                        "uid": 0,
+                        "mtime": 1424734873.037875,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "size": 4096,
+                "ctime": 1424734873.037875,
+                "perm": 16893,
+                "uid": 0,
+                "mtime": 1424734873.037875,
+                "gid": 0
+            }
+        }
+    },
+    "stat": {
+        "size": 4096,
+        "ctime": 1424734873.045875,
+        "perm": 16877,
+        "uid": 0,
+        "mtime": 1405855814.0,
+        "gid": 0
+    }
+}

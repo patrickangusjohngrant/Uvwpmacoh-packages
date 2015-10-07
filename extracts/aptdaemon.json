@@ -1,0 +1,603 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "gir1.2-glib-2.0": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        },
+                        "python3:any (>= 3.2~)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        },
+                        "python3-aptdaemon (= 1.1.1+bzr980-0ubuntu1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        },
+                        "python3": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        },
+                        "python3-gi": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        },
+                        "policykit-1": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9323535,
+                                "perm": 16893,
+                                "mtime": 1424304767.9323535,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9323535,
+                        "perm": 16893,
+                        "mtime": 1424304767.9323535,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424304767.9323535,
+                "perm": 16893,
+                "mtime": 1424304767.9323535,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "polkit-1": {
+                            "file": {
+                                "actions": {
+                                    "file": {
+                                        "org.debian.apt.policy": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7120b9faa1d8770ec25df65c25c9f336",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9403536,
+                                                "perm": 33188,
+                                                "mtime": 1408629494.0,
+                                                "size": 6041
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9523537,
+                                        "perm": 16877,
+                                        "mtime": 1408629493.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9523537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "aptdaemon": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "../python3-aptdaemon/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9523537,
+                                                "perm": 41471,
+                                                "mtime": 1424304767.9523537,
+                                                "size": 40
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/951656b1ecb3192363f39497d3fb4743",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9443536,
+                                                "perm": 33188,
+                                                "mtime": 1408628868.0,
+                                                "size": 1238
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9563537,
+                                        "perm": 16877,
+                                        "mtime": 1408629501.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        },
+                        "lintian": {
+                            "file": {
+                                "profiles": {
+                                    "file": {
+                                        "ubuntu": {
+                                            "file": {
+                                                "aptdaemon.profile": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2dfe79e6244033fe4e570ddacf2f0b8b",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424304767.9483535,
+                                                        "perm": 33188,
+                                                        "mtime": 1370499977.0,
+                                                        "size": 1404
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9563537,
+                                                "perm": 16877,
+                                                "mtime": 1408629493.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "debian": {
+                                            "file": {
+                                                "aptdaemon.profile": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1e70e0b7622afbe7291b9d8b08c6fa81",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424304767.9483535,
+                                                        "perm": 33188,
+                                                        "mtime": 1339149621.0,
+                                                        "size": 230
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9563537,
+                                                "perm": 16877,
+                                                "mtime": 1408629493.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9563537,
+                                        "perm": 16877,
+                                        "mtime": 1408629492.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629492.0,
+                                "size": 4096
+                            }
+                        },
+                        "apport": {
+                            "file": {
+                                "package-hooks": {
+                                    "file": {
+                                        "aptdaemon.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/299ae3ae571a3bdb7913783cca38ad1a",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9403536,
+                                                "perm": 33188,
+                                                "mtime": 1333611397.0,
+                                                "size": 2872
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9563537,
+                                        "perm": 16877,
+                                        "mtime": 1408629493.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "aptd.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5fd56215c1455adafdd130bd57510955",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9443536,
+                                                "perm": 33188,
+                                                "mtime": 1408629494.0,
+                                                "size": 1089
+                                            }
+                                        },
+                                        "aptdcon.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/157f092deedb77b4427a1fae484363c8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9443536,
+                                                "perm": 33188,
+                                                "mtime": 1408629494.0,
+                                                "size": 1585
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9523537,
+                                        "perm": 16877,
+                                        "mtime": 1408629494.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "man7": {
+                                    "file": {
+                                        "org.debian.apt.transaction.7.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5062c28181f38cb64300cf2276694934",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9443536,
+                                                "perm": 33188,
+                                                "mtime": 1408629494.0,
+                                                "size": 2527
+                                            }
+                                        },
+                                        "org.debian.apt.7.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d881cf95bb593ba12f444d2b09179d54",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9443536,
+                                                "perm": 33188,
+                                                "mtime": 1408629494.0,
+                                                "size": 1981
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9523537,
+                                        "perm": 16877,
+                                        "mtime": 1408629494.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629492.0,
+                                "size": 4096
+                            }
+                        },
+                        "dbus-1": {
+                            "file": {
+                                "system-services": {
+                                    "file": {
+                                        "org.debian.apt.service": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fab8d28fc251d8413eb8b17329ce2c90",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424304767.9483535,
+                                                "perm": 33188,
+                                                "mtime": 1258557117.0,
+                                                "size": 67
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9563537,
+                                        "perm": 16877,
+                                        "mtime": 1408629493.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9563537,
+                        "perm": 16877,
+                        "mtime": 1408629499.0,
+                        "size": 4096
+                    }
+                },
+                "sbin": {
+                    "file": {
+                        "aptd": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a3ff92dda9f9d4c701f6d44cf656614d",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9523537,
+                                "perm": 33261,
+                                "mtime": 1408629494.0,
+                                "size": 1395
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9563537,
+                        "perm": 16877,
+                        "mtime": 1408629493.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "aptdcon": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/aa1b04541d237bed19092941de197bb6",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9523537,
+                                "perm": 33261,
+                                "mtime": 1408629494.0,
+                                "size": 1040
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9563537,
+                        "perm": 16877,
+                        "mtime": 1408629493.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424304767.9563537,
+                "perm": 16877,
+                "mtime": 1408629493.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "apt": {
+                    "file": {
+                        "apt.conf.d": {
+                            "file": {
+                                "20dbus": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/ea231d256caa030328bee60cc4e9b56c",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9403536,
+                                        "perm": 33188,
+                                        "mtime": 1260950557.0,
+                                        "size": 243
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9563537,
+                        "perm": 16877,
+                        "mtime": 1408629493.0,
+                        "size": 4096
+                    }
+                },
+                "dbus-1": {
+                    "file": {
+                        "system.d": {
+                            "file": {
+                                "org.debian.apt.conf": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e0c8a5d2fbd0a727bdea215e32061e58",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424304767.9363537,
+                                        "perm": 33188,
+                                        "mtime": 1234341124.0,
+                                        "size": 434
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424304767.9563537,
+                                "perm": 16877,
+                                "mtime": 1408629493.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424304767.9563537,
+                        "perm": 16877,
+                        "mtime": 1408629493.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424304767.9563537,
+                "perm": 16877,
+                "mtime": 1408629493.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424304767.9563537,
+        "perm": 16877,
+        "mtime": 1408629495.0,
+        "size": 4096
+    }
+}

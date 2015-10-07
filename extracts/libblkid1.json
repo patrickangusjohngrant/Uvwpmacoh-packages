@@ -1,0 +1,189 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.17)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300640.3037832,
+                                "perm": 16893,
+                                "mtime": 1424300640.3037832,
+                                "size": 4096
+                            }
+                        },
+                        "libuuid1 (>= 2.16)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300640.3037832,
+                                "perm": 16893,
+                                "mtime": 1424300640.3037832,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300640.3037832,
+                        "perm": 16893,
+                        "mtime": 1424300640.3037832,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300640.3037832,
+                "perm": 16893,
+                "mtime": 1424300640.3037832,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libblkid1": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "../libuuid1/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300640.3397834,
+                                                "perm": 41471,
+                                                "mtime": 1424300640.3397834,
+                                                "size": 31
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bb44d726cc7e859bb8769ae21807f86b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300640.3357832,
+                                                "perm": 33188,
+                                                "mtime": 1412528815.0,
+                                                "size": 17975
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300640.3397834,
+                                        "perm": 16877,
+                                        "mtime": 1413386940.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300640.3397834,
+                                "perm": 16877,
+                                "mtime": 1413386878.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300640.3397834,
+                        "perm": 16877,
+                        "mtime": 1413386878.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300640.3397834,
+                "perm": 16877,
+                "mtime": 1413386878.0,
+                "size": 4096
+            }
+        },
+        "lib": {
+            "file": {
+                "x86_64-linux-gnu": {
+                    "file": {
+                        "libblkid.so.1": {
+                            "file": "libblkid.so.1.1.0",
+                            "deserializer": "symlink",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300640.3397834,
+                                "perm": 41471,
+                                "mtime": 1424300640.3397834,
+                                "size": 17
+                            }
+                        },
+                        "libblkid.so.1.1.0": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/149b22fa3f11fdfbcb156a4726f017c9",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300640.3357832,
+                                "perm": 33188,
+                                "mtime": 1413386904.0,
+                                "size": 262472
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300640.3397834,
+                        "perm": 16877,
+                        "mtime": 1413386904.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300640.3397834,
+                "perm": 16877,
+                "mtime": 1413386877.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424300640.3397834,
+        "perm": 16877,
+        "mtime": 1413386906.0,
+        "size": 4096
+    }
+}

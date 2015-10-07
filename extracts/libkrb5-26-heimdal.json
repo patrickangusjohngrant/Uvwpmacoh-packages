@@ -1,0 +1,311 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libkrb5.so.26.0.0": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/16c203ad10e4da737c991b8798ba5a74",
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 33188,
+                                        "mtime": 1405855836.0,
+                                        "ctime": 1424734814.1735427,
+                                        "gid": 0,
+                                        "size": 552584
+                                    }
+                                },
+                                "libkrb5.so.26": {
+                                    "deserializer": "symlink",
+                                    "file": "libkrb5.so.26.0.0",
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 41471,
+                                        "mtime": 1424734814.1735427,
+                                        "ctime": 1424734814.1735427,
+                                        "gid": 0,
+                                        "size": 17
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16877,
+                                "mtime": 1405855836.0,
+                                "ctime": 1424734814.1735427,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16877,
+                        "mtime": 1405855807.0,
+                        "ctime": 1424734814.1735427,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libkrb5-26-heimdal": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f932bf346a38dc8820bde606a033564b",
+                                            "stat": {
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "mtime": 1405823387.0,
+                                                "ctime": 1424734814.1695428,
+                                                "gid": 0,
+                                                "size": 8191
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "file": "../libroken18-heimdal/changelog.Debian.gz",
+                                            "stat": {
+                                                "uid": 0,
+                                                "perm": 41471,
+                                                "mtime": 1424734814.1735427,
+                                                "ctime": 1424734814.1735427,
+                                                "gid": 0,
+                                                "size": 41
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "mtime": 1405855936.0,
+                                        "ctime": 1424734814.1735427,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16877,
+                                "mtime": 1405855808.0,
+                                "ctime": 1424734814.1735427,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "lintian": {
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libkrb5-26-heimdal": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4c8c72b927c3b6d985e7183dbe70e5e4",
+                                            "stat": {
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "mtime": 1405823387.0,
+                                                "ctime": 1424734814.1695428,
+                                                "gid": 0,
+                                                "size": 34
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "mtime": 1405855815.0,
+                                        "ctime": 1424734814.1735427,
+                                        "gid": 0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16877,
+                                "mtime": 1405855815.0,
+                                "ctime": 1424734814.1735427,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16877,
+                        "mtime": 1405855815.0,
+                        "ctime": 1424734814.1735427,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "perm": 16877,
+                "mtime": 1405855808.0,
+                "ctime": 1424734814.1735427,
+                "gid": 0,
+                "size": 4096
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libcomerr2 (>= 1.41.11)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1295426,
+                                "ctime": 1424734814.1295426,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libasn1-8-heimdal (>= 1.6~git20131117)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1295426,
+                                "ctime": 1424734814.1295426,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libhcrypto4-heimdal (>= 1.4.0+git20110226)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libsqlite3-0 (>= 3.5.9)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libwind0-heimdal (>= 1.6~git20120311)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libroken18-heimdal (>= 1.6~git20131117)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libheimbase1-heimdal (>= 1.6~git20131117)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.15)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1295426,
+                                "ctime": 1424734814.1295426,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        },
+                        "libhx509-5-heimdal (>= 1.4.0+git20110226)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734814.1335425,
+                                "ctime": 1424734814.1335425,
+                                "gid": 0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16893,
+                        "mtime": 1424734814.1335425,
+                        "ctime": 1424734814.1335425,
+                        "gid": 0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "perm": 16893,
+                "mtime": 1424734814.1295426,
+                "ctime": 1424734814.1295426,
+                "gid": 0,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "uid": 0,
+        "perm": 16877,
+        "mtime": 1405855814.0,
+        "ctime": 1424734814.1735427,
+        "gid": 0,
+        "size": 4096
+    }
+}

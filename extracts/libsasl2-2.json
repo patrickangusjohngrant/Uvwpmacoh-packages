@@ -1,0 +1,237 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "size": 4096,
+        "gid": 0,
+        "perm": 16877,
+        "mtime": 1405099039.0,
+        "ctime": 1424734591.4842737
+    },
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "perm": 16893,
+                "mtime": 1424734591.4722736,
+                "ctime": 1424734591.4722736
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16893,
+                        "mtime": 1424734591.4722736,
+                        "ctime": 1424734591.4722736
+                    },
+                    "file": {
+                        "libc6 (>= 2.15)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734591.4722736,
+                                "ctime": 1424734591.4722736
+                            },
+                            "file": {}
+                        },
+                        "libsasl2-modules-db (>= 2.1.26.dfsg1-11)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16893,
+                                "mtime": 1424734591.4722736,
+                                "ctime": 1424734591.4722736
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "perm": 16877,
+                "mtime": 1405099037.0,
+                "ctime": 1424734591.4842737
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16877,
+                        "mtime": 1405099037.0,
+                        "ctime": 1424734591.4842737
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877,
+                                "mtime": 1405099037.0,
+                                "ctime": 1424734591.4842737
+                            },
+                            "file": {
+                                "libsasl2-2": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "mtime": 1405099063.0,
+                                        "ctime": 1424734591.4842737
+                                    },
+                                    "file": {
+                                        "README.Debian": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 3189,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "mtime": 1405069178.0,
+                                                "ctime": 1424734591.4842737
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/98c1bc6998a957ef0c0e4a516f927a98"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 42,
+                                                "gid": 0,
+                                                "perm": 41471,
+                                                "mtime": 1424734591.4842737,
+                                                "ctime": 1424734591.4842737
+                                            },
+                                            "file": "../libsasl2-modules-db/changelog.Debian.gz"
+                                        },
+                                        "NEWS.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 37,
+                                                "gid": 0,
+                                                "perm": 41471,
+                                                "mtime": 1424734591.4842737,
+                                                "ctime": 1424734591.4842737
+                                            },
+                                            "file": "../libsasl2-modules-db/NEWS.Debian.gz"
+                                        },
+                                        "README.configure-options": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 80,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "mtime": 1405098951.0,
+                                                "ctime": 1424734591.4842737
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f6ca26587b4d1c4457b978f0d4f2c3cb"
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 3099,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "mtime": 1405069178.0,
+                                                "ctime": 1424734591.4842737
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2dd499cf271a2da00f64c86a3ae65f33"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16877,
+                        "mtime": 1405099036.0,
+                        "ctime": 1424734591.4842737
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877,
+                                "mtime": 1405099046.0,
+                                "ctime": 1424734591.4842737
+                            },
+                            "file": {
+                                "libsasl2.so.2": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 18,
+                                        "gid": 0,
+                                        "perm": 41471,
+                                        "mtime": 1424734591.4842737,
+                                        "ctime": 1424734591.4842737
+                                    },
+                                    "file": "libsasl2.so.2.0.25"
+                                },
+                                "libsasl2.so.2.0.25": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 109296,
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "mtime": 1405099046.0,
+                                        "ctime": 1424734591.4842737
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/15204751ac9004f909cc6808e6ae4f27"
+                                }
+                            }
+                        },
+                        "sasl2": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877,
+                                "mtime": 1405099031.0,
+                                "ctime": 1424734591.4842737
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

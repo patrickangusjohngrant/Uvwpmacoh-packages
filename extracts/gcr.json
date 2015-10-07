@@ -1,0 +1,1029 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libglib2.0-0 (>= 2.32.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "libgtk-3-0 (>= 3.0.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "libgcr-base-3-1 (>= 3.8.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "dbus-x11": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "libgcr-ui-3-1 (>= 3.8.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        },
+                        "dconf-gsettings-backend | gsettings-backend": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4488113,
+                                "perm": 16893,
+                                "mtime": 1424323667.4488113,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323667.4488113,
+                        "perm": 16893,
+                        "mtime": 1424323667.4488113,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323667.4488113,
+                "perm": 16893,
+                "mtime": 1424323667.4488113,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "dbus-1": {
+                            "file": {
+                                "services": {
+                                    "file": {
+                                        "org.gnome.keyring.PrivatePrompter.service": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b03e603bed5c2956b162e26a25c6f63e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5008116,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 86
+                                            }
+                                        },
+                                        "org.gnome.keyring.SystemPrompter.service": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e9d398f020f6e0a9dd388817c94b6da0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5008116,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 85
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5088117,
+                                        "perm": 16877,
+                                        "mtime": 1400260558.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260562.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "gcr": {
+                                    "file": {
+                                        "README": {
+                                            "file": "../libgcr-base-3-1/README",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 41471,
+                                                "mtime": 1424323667.5048118,
+                                                "size": 25
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/388697ec93800329d90c53f0d6d4e178",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.4728115,
+                                                "perm": 33188,
+                                                "mtime": 1331844674.0,
+                                                "size": 1152
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "../libgcr-base-3-1/NEWS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 41471,
+                                                "mtime": 1424323667.5048118,
+                                                "size": 26
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libgcr-base-3-1/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 41471,
+                                                "mtime": 1424323667.5048118,
+                                                "size": 38
+                                            }
+                                        },
+                                        "AUTHORS": {
+                                            "file": "../libgcr-base-3-1/AUTHORS",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 41471,
+                                                "mtime": 1424323667.5048118,
+                                                "size": 26
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5088117,
+                                        "perm": 16877,
+                                        "mtime": 1400260627.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260561.0,
+                                "size": 4096
+                            }
+                        },
+                        "applications": {
+                            "file": {
+                                "gcr-viewer.desktop": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/05d853486463cbce7c0bdac34debe690",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.4688115,
+                                        "perm": 33188,
+                                        "mtime": 1400260624.0,
+                                        "size": 712
+                                    }
+                                },
+                                "gcr-prompter.desktop": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/3c9f074086fc27b1520a09fa402ed340",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.4688115,
+                                        "perm": 33188,
+                                        "mtime": 1400260624.0,
+                                        "size": 215
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260624.0,
+                                "size": 4096
+                            }
+                        },
+                        "GConf": {
+                            "file": {
+                                "gsettings": {
+                                    "file": {
+                                        "org.gnome.crypto.pgp.convert": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c6ed355c6edf96a8afbcedf3f1a20105",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5008116,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 248
+                                            }
+                                        },
+                                        "org.gnome.crypto.pgp_keyservers.convert": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8b0a40ea7e1e485dc2f22a41901f67e6",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5008116,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 75
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5088117,
+                                        "perm": 16877,
+                                        "mtime": 1400260558.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260562.0,
+                                "size": 4096
+                            }
+                        },
+                        "icons": {
+                            "file": {
+                                "hicolor": {
+                                    "file": {
+                                        "24x24": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/79e1e9b41947c0e5e56e32a67c96a1c4",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4928117,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 704
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/49ee60e7106f928eeaaf1e30bb8a78a3",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4968116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260631.0,
+                                                                "size": 489
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/099ab69f0145d33587c4b9d82a97f334",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4928117,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 505
+                                                            }
+                                                        },
+                                                        "gcr-key-pair.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0061342cda255ea8e51ab011713e0e49",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4928117,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 1107
+                                                            }
+                                                        },
+                                                        "gcr-key.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/963173b9b0d52f786898b0da3e8a6796",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4928117,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260631.0,
+                                                                "size": 718
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260631.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "256x256": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/796eb49300288a8909f7b886047a47ec",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4968116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260636.0,
+                                                                "size": 4247
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1bed56c860c9f997f85585144861c79a",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4968116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260560.0,
+                                                                "size": 9294
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e4a231a7adf0677ca29f546661af9133",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4968116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260641.0,
+                                                                "size": 4127
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260641.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "48x48": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ce27f351a49c5972d2433121b1a6a6ca",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4768114,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 1353
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2dbc93d02632dc21b0952eb8b25c78dd",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4768114,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 1372
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2a6986d5e70de0d23e74520cdbafb523",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4768114,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260560.0,
+                                                                "size": 1684
+                                                            }
+                                                        },
+                                                        "gcr-key-pair.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/798e169e459885e0d059192e3901a320",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4768114,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260627.0,
+                                                                "size": 3279
+                                                            }
+                                                        },
+                                                        "gcr-key.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/88d512534c7ae9cba42103fb3310b7e6",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4768114,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 1804
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260628.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "22x22": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4e5b734e0f666e4df48446d8fc41259c",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4888115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 703
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4e4fb6f18f05295d482db77bff84df3d",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4928117,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 563
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d2ea8dc1eb9659dd80d07dd289f897a1",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4888115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 540
+                                                            }
+                                                        },
+                                                        "gcr-key-pair.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1a18ae6cdcd83d0f2e07f73091b93de5",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4888115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 1116
+                                                            }
+                                                        },
+                                                        "gcr-key.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/75d986478f7c651186d1058eb56ed48c",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4888115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260630.0,
+                                                                "size": 718
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260630.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "32x32": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/97f780744af2adbe58a14a120c0dd246",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4808116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 910
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0640773a6dc5b53665b53026439451b8",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4808116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 640
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fda2997c7c3ee3a2960571f4a137358a",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4808116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 1055
+                                                            }
+                                                        },
+                                                        "gcr-key-pair.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/12dd57ea69566300149d7907f2142bc6",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4808116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260628.0,
+                                                                "size": 1739
+                                                            }
+                                                        },
+                                                        "gcr-key.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/511cb70a414b15a3d4c27333c5e4cf48",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4808116,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 1049
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260629.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "16x16": {
+                                            "file": {
+                                                "apps": {
+                                                    "file": {
+                                                        "gcr-gnupg.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/102b9481f2d0855940edfc1f022cbebf",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4848115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 414
+                                                            }
+                                                        },
+                                                        "gcr-password.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3f6f43d52c7eed31095bbbfd522471f5",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4888115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 267
+                                                            }
+                                                        },
+                                                        "gcr-smart-card.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d5b2f7a38eaca8e6e3eb06323afaeb32",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4848115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 345
+                                                            }
+                                                        },
+                                                        "gcr-key-pair.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0d55da1caa2a933d4752cc40cff0d264",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4848115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 719
+                                                            }
+                                                        },
+                                                        "gcr-key.png": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1f280089b50564005c4d031aac51dede",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323667.4848115,
+                                                                "perm": 33188,
+                                                                "mtime": 1400260629.0,
+                                                                "size": 511
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323667.5048118,
+                                                        "perm": 16877,
+                                                        "mtime": 1400260629.0,
+                                                        "size": 4096
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.5048118,
+                                                "perm": 16877,
+                                                "mtime": 1400260560.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5088117,
+                                        "perm": 16877,
+                                        "mtime": 1400260560.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260560.0,
+                                "size": 4096
+                            }
+                        },
+                        "glib-2.0": {
+                            "file": {
+                                "schemas": {
+                                    "file": {
+                                        "org.gnome.crypto.pgp.gschema.xml": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a3dfc166bd303b8bac3533acb4f310b4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.4968116,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 1661
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5088117,
+                                        "perm": 16877,
+                                        "mtime": 1400260558.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260562.0,
+                                "size": 4096
+                            }
+                        },
+                        "mime": {
+                            "file": {
+                                "packages": {
+                                    "file": {
+                                        "gcr-crypto-types.xml": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7d5d80361b0f0486fd9633198d80e370",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323667.4688115,
+                                                "perm": 33188,
+                                                "mtime": 1400260558.0,
+                                                "size": 5656
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.5048118,
+                                        "perm": 16877,
+                                        "mtime": 1400260558.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5048118,
+                                "perm": 16877,
+                                "mtime": 1400260558.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323667.5088117,
+                        "perm": 16877,
+                        "mtime": 1400260625.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "gcr": {
+                            "file": {
+                                "gcr-prompter": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/413687c5d88f3590eff4ecf75bcba1e4",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323667.4648113,
+                                        "perm": 33261,
+                                        "mtime": 1400260577.0,
+                                        "size": 10584
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.5088117,
+                                "perm": 16877,
+                                "mtime": 1400260577.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323667.5088117,
+                        "perm": 16877,
+                        "mtime": 1400260562.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "gcr-viewer": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2cb5890693c446639f2004326c31d335",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323667.4648113,
+                                "perm": 33261,
+                                "mtime": 1400260577.0,
+                                "size": 10608
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323667.5088117,
+                        "perm": 16877,
+                        "mtime": 1400260577.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323667.5088117,
+                "perm": 16877,
+                "mtime": 1400260562.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424323667.5088117,
+        "perm": 16877,
+        "mtime": 1400260561.0,
+        "size": 4096
+    }
+}

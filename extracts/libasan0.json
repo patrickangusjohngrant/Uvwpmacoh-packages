@@ -1,0 +1,176 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libgcc1 (>= 1:4.1.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424329190.1106176,
+                                "perm": 16893,
+                                "mtime": 1424329190.1106176,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424329190.1106176,
+                                "perm": 16893,
+                                "mtime": 1424329190.1106176,
+                                "size": 4096
+                            }
+                        },
+                        "gcc-4.8-base (= 4.8.3-12ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424329190.1106176,
+                                "perm": 16893,
+                                "mtime": 1424329190.1106176,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424329190.1106176,
+                        "perm": 16893,
+                        "mtime": 1424329190.1106176,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424329190.1106176,
+                "perm": 16893,
+                "mtime": 1424329190.1106176,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libasan0": {
+                                    "file": "gcc-4.8-base",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424329190.1386178,
+                                        "perm": 41471,
+                                        "mtime": 1424329190.1386178,
+                                        "size": 12
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424329190.1386178,
+                                "perm": 16877,
+                                "mtime": 1413938666.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424329190.1386178,
+                        "perm": 16877,
+                        "mtime": 1413938666.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libasan.so.0.0.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/d773e342c3bf0e6d57a6d0f77628e9b4",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424329190.1346178,
+                                        "perm": 33188,
+                                        "mtime": 1413938672.0,
+                                        "size": 170808
+                                    }
+                                },
+                                "libasan.so.0": {
+                                    "file": "libasan.so.0.0.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424329190.1386178,
+                                        "perm": 41471,
+                                        "mtime": 1424329190.1386178,
+                                        "size": 16
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424329190.1386178,
+                                "perm": 16877,
+                                "mtime": 1413938672.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424329190.1386178,
+                        "perm": 16877,
+                        "mtime": 1413938666.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424329190.1386178,
+                "perm": 16877,
+                "mtime": 1413938666.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424329190.1386178,
+        "perm": 16877,
+        "mtime": 1413938672.0,
+        "size": 4096
+    }
+}

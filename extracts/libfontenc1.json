@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "ctime": 1424385867.2448184,
+        "gid": 0,
+        "size": 4096,
+        "perm": 16877,
+        "mtime": 1371402734.0,
+        "uid": 0
+    },
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "stat": {
+                "ctime": 1424385867.2448184,
+                "gid": 0,
+                "size": 4096,
+                "perm": 16877,
+                "mtime": 1371402733.0,
+                "uid": 0
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "ctime": 1424385867.2448184,
+                        "gid": 0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "mtime": 1371402733.0,
+                        "uid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "ctime": 1424385867.2448184,
+                                "gid": 0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "mtime": 1371402733.0,
+                                "uid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libfontenc.so.1.0.0": {
+                                    "stat": {
+                                        "ctime": 1424385867.2448184,
+                                        "gid": 0,
+                                        "size": 30504,
+                                        "perm": 33188,
+                                        "mtime": 1371402733.0,
+                                        "uid": 0
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/b6438c962d90b9115506f5c2fb690619"
+                                },
+                                "libfontenc.so.1": {
+                                    "stat": {
+                                        "ctime": 1424385867.2448184,
+                                        "gid": 0,
+                                        "size": 19,
+                                        "perm": 41471,
+                                        "mtime": 1424385867.2448184,
+                                        "uid": 0
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libfontenc.so.1.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "ctime": 1424385867.2448184,
+                        "gid": 0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "mtime": 1371402733.0,
+                        "uid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "ctime": 1424385867.2448184,
+                                "gid": 0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "mtime": 1371402733.0,
+                                "uid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libfontenc1": {
+                                    "stat": {
+                                        "ctime": 1424385867.2448184,
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "perm": 16877,
+                                        "mtime": 1371402734.0,
+                                        "uid": 0
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "stat": {
+                                                "ctime": 1424385867.2448184,
+                                                "gid": 0,
+                                                "size": 1158,
+                                                "perm": 33188,
+                                                "mtime": 1371402717.0,
+                                                "uid": 0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e085929fb15e73b61f65c99625f9a3b7"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "ctime": 1424385867.2448184,
+                                                "gid": 0,
+                                                "size": 1559,
+                                                "perm": 33188,
+                                                "mtime": 1371402737.0,
+                                                "uid": 0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/40ee9e32f95cc5dac6095478d60bc3ea"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "stat": {
+                "ctime": 1424385867.2408185,
+                "gid": 0,
+                "size": 4096,
+                "perm": 16893,
+                "mtime": 1424385867.2408185,
+                "uid": 0
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "ctime": 1424385867.2408185,
+                        "gid": 0,
+                        "size": 4096,
+                        "perm": 16893,
+                        "mtime": 1424385867.2408185,
+                        "uid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "ctime": 1424385867.2408185,
+                                "gid": 0,
+                                "size": 4096,
+                                "perm": 16893,
+                                "mtime": 1424385867.2408185,
+                                "uid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "ctime": 1424385867.2408185,
+                                "gid": 0,
+                                "size": 4096,
+                                "perm": 16893,
+                                "mtime": 1424385867.2408185,
+                                "uid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

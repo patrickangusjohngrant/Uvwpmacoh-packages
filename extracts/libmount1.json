@@ -1,0 +1,201 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libselinux1 (>= 1.32)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424385408.994352,
+                                "perm": 16893,
+                                "mtime": 1424385408.994352,
+                                "uid": 0
+                            }
+                        },
+                        "libc6 (>= 2.17)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424385408.994352,
+                                "perm": 16893,
+                                "mtime": 1424385408.994352,
+                                "uid": 0
+                            }
+                        },
+                        "libblkid1 (>= 2.17.2)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424385408.994352,
+                                "perm": 16893,
+                                "mtime": 1424385408.994352,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424385408.994352,
+                        "perm": 16893,
+                        "mtime": 1424385408.994352,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "ctime": 1424385408.994352,
+                "perm": 16893,
+                "mtime": 1424385408.994352,
+                "uid": 0
+            }
+        },
+        "lib": {
+            "deserializer": "directory",
+            "file": {
+                "x86_64-linux-gnu": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libmount.so.1.1.0": {
+                            "deserializer": "url",
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/acfebfe3e3137c42c9ded5e200299af0",
+                            "stat": {
+                                "size": 274504,
+                                "gid": 0,
+                                "ctime": 1424385409.014352,
+                                "perm": 33188,
+                                "mtime": 1413386904.0,
+                                "uid": 0
+                            }
+                        },
+                        "libmount.so.1": {
+                            "deserializer": "symlink",
+                            "file": "libmount.so.1.1.0",
+                            "stat": {
+                                "size": 17,
+                                "gid": 0,
+                                "ctime": 1424385409.014352,
+                                "perm": 41471,
+                                "mtime": 1424385409.014352,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424385409.014352,
+                        "perm": 16877,
+                        "mtime": 1413386904.0,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "ctime": 1424385409.014352,
+                "perm": 16877,
+                "mtime": 1413386877.0,
+                "uid": 0
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libmount1": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "file": "../libuuid1/changelog.Debian.gz",
+                                            "stat": {
+                                                "size": 31,
+                                                "gid": 0,
+                                                "ctime": 1424385409.014352,
+                                                "perm": 41471,
+                                                "mtime": 1424385409.014352,
+                                                "uid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bb44d726cc7e859bb8769ae21807f86b",
+                                            "stat": {
+                                                "size": 17975,
+                                                "gid": 0,
+                                                "ctime": 1424385409.014352,
+                                                "perm": 33188,
+                                                "mtime": 1412528815.0,
+                                                "uid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "ctime": 1424385409.014352,
+                                        "perm": 16877,
+                                        "mtime": 1413386946.0,
+                                        "uid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424385409.014352,
+                                "perm": 16877,
+                                "mtime": 1413386878.0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424385409.014352,
+                        "perm": 16877,
+                        "mtime": 1413386878.0,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "ctime": 1424385409.014352,
+                "perm": 16877,
+                "mtime": 1413386878.0,
+                "uid": 0
+            }
+        }
+    },
+    "stat": {
+        "size": 4096,
+        "gid": 0,
+        "ctime": 1424385409.014352,
+        "perm": 16877,
+        "mtime": 1413386905.0,
+        "uid": 0
+    }
+}

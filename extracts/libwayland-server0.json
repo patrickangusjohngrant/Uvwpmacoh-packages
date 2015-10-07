@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "perm": 16877,
+        "mtime": 1404449020.0,
+        "size": 4096,
+        "ctime": 1424389360.602875,
+        "uid": 0,
+        "gid": 0
+    },
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "mtime": 1404449015.0,
+                "size": 4096,
+                "ctime": 1424389360.602875,
+                "uid": 0,
+                "gid": 0
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1404449015.0,
+                        "size": 4096,
+                        "ctime": 1424389360.602875,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1404449018.0,
+                                "size": 4096,
+                                "ctime": 1424389360.602875,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libwayland-server.so.0.1.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "mtime": 1404449018.0,
+                                        "size": 68912,
+                                        "ctime": 1424389360.598875,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e73bf7707b8591d84e2b52705bac7ab0"
+                                },
+                                "libwayland-server.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "mtime": 1424389360.598875,
+                                        "size": 26,
+                                        "ctime": 1424389360.598875,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libwayland-server.so.0.1.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1404449015.0,
+                        "size": 4096,
+                        "ctime": 1424389360.602875,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1404449015.0,
+                                "size": 4096,
+                                "ctime": 1424389360.602875,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libwayland-server0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1404449016.0,
+                                        "size": 4096,
+                                        "ctime": 1424389360.598875,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1404448987.0,
+                                                "size": 1592,
+                                                "ctime": 1424389360.598875,
+                                                "uid": 0,
+                                                "gid": 0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/66f2e857194d9a397e5d81fedef2fb99"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1404449029.0,
+                                                "size": 1777,
+                                                "ctime": 1424389360.598875,
+                                                "uid": 0,
+                                                "gid": 0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/89e7d3c816c3aab9347fdae5a8274ed4"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "mtime": 1424389360.586875,
+                "size": 4096,
+                "ctime": 1424389360.586875,
+                "uid": 0,
+                "gid": 0
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "mtime": 1424389360.586875,
+                        "size": 4096,
+                        "ctime": 1424389360.586875,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424389360.586875,
+                                "size": 4096,
+                                "ctime": 1424389360.586875,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libffi6 (>= 3.0.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424389360.586875,
+                                "size": 4096,
+                                "ctime": 1424389360.586875,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

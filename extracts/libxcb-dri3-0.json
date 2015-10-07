@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "perm": 16877,
+        "size": 4096,
+        "gid": 0,
+        "mtime": 1389781896.0,
+        "uid": 0,
+        "ctime": 1424385949.9612448
+    },
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1389781854.0,
+                "uid": 0,
+                "ctime": 1424385949.9612448
+            },
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1389781854.0,
+                        "uid": 0,
+                        "ctime": 1424385949.9612448
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1389781854.0,
+                                "uid": 0,
+                                "ctime": 1424385949.9612448
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-dri3-0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "mtime": 1389782056.0,
+                                        "uid": 0,
+                                        "ctime": 1424385949.9612448
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "size": 30,
+                                                "gid": 0,
+                                                "mtime": 1424385949.9612448,
+                                                "uid": 0,
+                                                "ctime": 1424385949.9612448
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "../libxcb1/changelog.Debian.gz"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 1780,
+                                                "gid": 0,
+                                                "mtime": 1389781854.0,
+                                                "uid": 0,
+                                                "ctime": 1424385949.9612448
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/360fadb0d222af6607a189d435e3a9f3"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1389781854.0,
+                        "uid": 0,
+                        "ctime": 1424385949.9612448
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1389781865.0,
+                                "uid": 0,
+                                "ctime": 1424385949.9612448
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-dri3.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "size": 10336,
+                                        "gid": 0,
+                                        "mtime": 1389781865.0,
+                                        "uid": 0,
+                                        "ctime": 1424385949.9612448
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a3ccc841e64febed39323f6e658fefa8"
+                                },
+                                "libxcb-dri3.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "size": 20,
+                                        "gid": 0,
+                                        "mtime": 1424385949.9612448,
+                                        "uid": 0,
+                                        "ctime": 1424385949.9612448
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libxcb-dri3.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1424385949.9452448,
+                "uid": 0,
+                "ctime": 1424385949.9452448
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1424385949.9452448,
+                        "uid": 0,
+                        "ctime": 1424385949.9452448
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.2.5)": {
+                            "stat": {
+                                "perm": 16893,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424385949.9452448,
+                                "uid": 0,
+                                "ctime": 1424385949.9452448
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libxcb1 (>= 1.9.2)": {
+                            "stat": {
+                                "perm": 16893,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424385949.9452448,
+                                "uid": 0,
+                                "ctime": 1424385949.9452448
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

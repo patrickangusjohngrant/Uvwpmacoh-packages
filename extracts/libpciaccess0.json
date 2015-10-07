@@ -1,0 +1,189 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "size": 4096,
+        "ctime": 1424385852.2767408,
+        "gid": 0,
+        "mtime": 1413925455.0
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "size": 4096,
+                "ctime": 1424385852.2767408,
+                "gid": 0,
+                "mtime": 1413925453.0
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "size": 4096,
+                        "ctime": 1424385852.2767408,
+                        "gid": 0,
+                        "mtime": 1413925453.0
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "size": 4096,
+                                "ctime": 1424385852.2767408,
+                                "gid": 0,
+                                "mtime": 1413925453.0
+                            },
+                            "file": {
+                                "libpciaccess0": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "ctime": 1424385852.2767408,
+                                        "gid": 0,
+                                        "mtime": 1413925453.0
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "size": 5421,
+                                                "ctime": 1424385852.2767408,
+                                                "gid": 0,
+                                                "mtime": 1413925435.0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2a986195bd32264e1b2d36c39c95f26d"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "size": 1209,
+                                                "ctime": 1424385852.2767408,
+                                                "gid": 0,
+                                                "mtime": 1413925458.0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/75c1390d04fec439cd97a9cdbc6e4853"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "size": 4096,
+                        "ctime": 1424385852.2767408,
+                        "gid": 0,
+                        "mtime": 1413925453.0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "size": 4096,
+                                "ctime": 1424385852.2767408,
+                                "gid": 0,
+                                "mtime": 1413925454.0
+                            },
+                            "file": {
+                                "libpciaccess.so.0": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "size": 22,
+                                        "ctime": 1424385852.2767408,
+                                        "gid": 0,
+                                        "mtime": 1424385852.2767408
+                                    },
+                                    "file": "libpciaccess.so.0.11.1"
+                                },
+                                "libpciaccess.so.0.11.1": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "size": 35176,
+                                        "ctime": 1424385852.2727406,
+                                        "gid": 0,
+                                        "mtime": 1413925454.0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/026b0359556d429cb60b2efeb10f3506"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "size": 4096,
+                "ctime": 1424385852.2567406,
+                "gid": 0,
+                "mtime": 1424385852.2567406
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "size": 4096,
+                        "ctime": 1424385852.2567406,
+                        "gid": 0,
+                        "mtime": 1424385852.2567406
+                    },
+                    "file": {
+                        "libc6 (>= 2.7)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "size": 4096,
+                                "ctime": 1424385852.2567406,
+                                "gid": 0,
+                                "mtime": 1424385852.2567406
+                            },
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "size": 4096,
+                                "ctime": 1424385852.2567406,
+                                "gid": 0,
+                                "mtime": 1424385852.2567406
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

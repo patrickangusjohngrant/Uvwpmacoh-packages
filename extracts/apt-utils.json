@@ -1,0 +1,832 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "apt": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libapt-inst1.5 (>= 0.9.15.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libapt-pkg4.12 (>= 0.9.16)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libdb5.3": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libgcc1 (>= 1:4.1.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        },
+                        "libstdc++6 (>= 4.9)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.7727787,
+                                "perm": 16893,
+                                "mtime": 1424296337.7727787,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296337.7727787,
+                        "perm": 16893,
+                        "mtime": 1424296337.7727787,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296337.7727787,
+                "perm": 16893,
+                "mtime": 1424296337.7727787,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "apt-utils": {
+                                    "file": {
+                                        "changelog.gz": {
+                                            "file": "../libapt-pkg4.12/changelog.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 41471,
+                                                "mtime": 1424296337.8487792,
+                                                "size": 30
+                                            }
+                                        },
+                                        "NEWS.Debian.gz": {
+                                            "file": "../libapt-pkg4.12/NEWS.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 41471,
+                                                "mtime": 1424296337.8487792,
+                                                "size": 32
+                                            }
+                                        },
+                                        "examples": {
+                                            "file": {
+                                                "apt-ftparchive.conf": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1eba0dddae9c9687d13b5c3901622fa8",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.840779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413537982.0,
+                                                        "size": 1411
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538889.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fa9fc3fde34b734ee15aecd2066df5b1",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.840779,
+                                                "perm": 33188,
+                                                "mtime": 1413538726.0,
+                                                "size": 1030
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538900.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8487792,
+                                "perm": 16877,
+                                "mtime": 1413538889.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "it": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a22199b935faf36513dada13f3f28248",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.828779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1911
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/8c2abb44059d52e175160a14b13abf05",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.828779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 6984
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/fb07f7974e0f7ed8e5fba2bc44e6161e",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.828779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1822
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "pl": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/61248e93a500b74687b1fdcb978be97e",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.824779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 2024
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/55a7315744b59f48d6bcb24c909a5e06",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.824779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1915
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "de": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/16a7d23a9fb8e2c50701b02acb3989ed",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.8327792,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1961
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/39dea3332206702148ec871ab2dec695",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.8327792,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 7388
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1428f1d5c7ee28fe8c0bee4176847f19",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.8327792,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1836
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "man1": {
+                                    "file": {
+                                        "apt-extracttemplates.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/292559efdb3ba6c683e72afd54f3fc17",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.836779,
+                                                "perm": 33188,
+                                                "mtime": 1413538889.0,
+                                                "size": 1574
+                                            }
+                                        },
+                                        "apt-ftparchive.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ba747e8fca6bdef4ce599ed9f23ee286",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8327792,
+                                                "perm": 33188,
+                                                "mtime": 1413538889.0,
+                                                "size": 6312
+                                            }
+                                        },
+                                        "apt-sortpkgs.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c3a58c07e31f068557d49cee05d9aade",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8327792,
+                                                "perm": 33188,
+                                                "mtime": 1413538889.0,
+                                                "size": 1466
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538893.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "ja": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/4b192b7a8e5ab8575c97031e1cecc2cf",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.8327792,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 2024
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/bb17c388d7f9e043999634d3487071c7",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.828779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 7250
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/d812ebdb5360c25307a1c186d8e06d85",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.828779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1914
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "fr": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c63ebfeef46607bab511aee50407c6a4",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.836779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1988
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/172d0d2083eca45f69ae2fa04882cc4b",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.836779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 7280
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/84d754661e71425dfa19d0dbe218866e",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.836779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1858
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "pt": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/96f5e7b7bc3a978dcb196cecc0443100",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.840779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 1895
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6fcd54dbe9feb2f8248773b790e54bca",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.836779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538889.0,
+                                                        "size": 7048
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/da94f24ea3550780d4e272f088410c8f",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.836779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538890.0,
+                                                        "size": 1805
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "es": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "apt-extracttemplates.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6d2ab3208ea41baa6b11566e9b279abe",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.840779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538890.0,
+                                                        "size": 1998
+                                                    }
+                                                },
+                                                "apt-ftparchive.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/25c3c3232ef5602a12860aedb97bbc91",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.840779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538890.0,
+                                                        "size": 7168
+                                                    }
+                                                },
+                                                "apt-sortpkgs.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c73a38adaf9aa9bdff84ad9ae624bc9a",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296337.840779,
+                                                        "perm": 33188,
+                                                        "mtime": 1413538890.0,
+                                                        "size": 1874
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 16877,
+                                                "mtime": 1413538893.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538889.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8487792,
+                                "perm": 16877,
+                                "mtime": 1413538889.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296337.8487792,
+                        "perm": 16877,
+                        "mtime": 1413538897.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "apt": {
+                            "file": {
+                                "solvers": {
+                                    "file": {
+                                        "dump": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/525bfa59aa01275206873ac8f40e3440",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8447793,
+                                                "perm": 33261,
+                                                "mtime": 1413538893.0,
+                                                "size": 10288
+                                            }
+                                        },
+                                        "apt": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8cf030c311ff3787924c04d645e5b749",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296337.8487792,
+                                                "perm": 33261,
+                                                "mtime": 1413538893.0,
+                                                "size": 22920
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296337.8487792,
+                                        "perm": 16877,
+                                        "mtime": 1413538893.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8487792,
+                                "perm": 16877,
+                                "mtime": 1413538889.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296337.8487792,
+                        "perm": 16877,
+                        "mtime": 1413538889.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "apt-extracttemplates": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/42419312a811dbc9e2eb60e07537a397",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8447793,
+                                "perm": 33261,
+                                "mtime": 1413538893.0,
+                                "size": 22904
+                            }
+                        },
+                        "apt-sortpkgs": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/afe4161d813850e8e4431f5cc24bb190",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8447793,
+                                "perm": 33261,
+                                "mtime": 1413538893.0,
+                                "size": 31016
+                            }
+                        },
+                        "apt-ftparchive": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6507ddff5f0a58e4dac42946c8723a9a",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296337.8447793,
+                                "perm": 33261,
+                                "mtime": 1413538893.0,
+                                "size": 232112
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296337.8487792,
+                        "perm": 16877,
+                        "mtime": 1413538893.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296337.8487792,
+                "perm": 16877,
+                "mtime": 1413538889.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424296337.8487792,
+        "perm": 16877,
+        "mtime": 1413538893.0,
+        "size": 4096
+    }
+}

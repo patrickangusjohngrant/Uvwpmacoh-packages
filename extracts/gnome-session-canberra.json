@@ -1,0 +1,376 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.2.5)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        },
+                        "libglib2.0-0 (>= 2.32)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        },
+                        "libcanberra0 (>= 0.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        },
+                        "libgtk-3-0 (>= 3.0.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        },
+                        "libcanberra-gtk3-0 (>= 0.25)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        },
+                        "libcanberra-gtk0": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7195225,
+                                "perm": 16893,
+                                "mtime": 1424328496.7195225,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424328496.7195225,
+                        "perm": 16893,
+                        "mtime": 1424328496.7195225,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424328496.7195225,
+                "perm": 16893,
+                "mtime": 1424328496.7195225,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "gnome": {
+                            "file": {
+                                "autostart": {
+                                    "file": {
+                                        "libcanberra-login-sound.desktop": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2b980c9d77b678c4a1ac40d790019ab9",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7355225,
+                                                "perm": 33188,
+                                                "mtime": 1399438632.0,
+                                                "size": 381
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424328496.7355225,
+                                        "perm": 16877,
+                                        "mtime": 1399438660.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "shutdown": {
+                                    "file": {
+                                        "libcanberra-logout-sound.sh": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d68fb87ce006e5ae7cdbd71a4ed0ec74",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7315226,
+                                                "perm": 33261,
+                                                "mtime": 1399438632.0,
+                                                "size": 89
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424328496.7355225,
+                                        "perm": 16877,
+                                        "mtime": 1399438660.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7355225,
+                                "perm": 16877,
+                                "mtime": 1399438660.0,
+                                "size": 4096
+                            }
+                        },
+                        "gdm": {
+                            "file": {
+                                "autostart": {
+                                    "file": {
+                                        "LoginWindow": {
+                                            "file": {
+                                                "libcanberra-ready-sound.desktop": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/50ccd5fc4575d92e74aea51a58dc5899",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424328496.7315226,
+                                                        "perm": 33188,
+                                                        "mtime": 1399438632.0,
+                                                        "size": 361
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7355225,
+                                                "perm": 16877,
+                                                "mtime": 1399438660.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424328496.7355225,
+                                        "perm": 16877,
+                                        "mtime": 1399438660.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7355225,
+                                "perm": 16877,
+                                "mtime": 1399438660.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "gnome-session-canberra": {
+                                    "file": {
+                                        "README.gz": {
+                                            "file": "../libcanberra0/README.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7355225,
+                                                "perm": 41471,
+                                                "mtime": 1424328496.7355225,
+                                                "size": 25
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libcanberra0/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7355225,
+                                                "perm": 41471,
+                                                "mtime": 1424328496.7355225,
+                                                "size": 35
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ee9552e21635b25ba74d5069d5df57f3",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7275226,
+                                                "perm": 33188,
+                                                "mtime": 1399437266.0,
+                                                "size": 921
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424328496.7395227,
+                                        "perm": 16877,
+                                        "mtime": 1399438752.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7395227,
+                                "perm": 16877,
+                                "mtime": 1399438659.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "canberra-gtk-play.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5e1393c9e018509c0bc340dff051eb90",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424328496.7275226,
+                                                "perm": 33188,
+                                                "mtime": 1399438659.0,
+                                                "size": 901
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424328496.7355225,
+                                        "perm": 16877,
+                                        "mtime": 1399438676.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7355225,
+                                "perm": 16877,
+                                "mtime": 1399438659.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424328496.7395227,
+                        "perm": 16877,
+                        "mtime": 1399438660.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "canberra-gtk-play": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/52a04fd76b99ff9e43f4dc5f495f631c",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424328496.7355225,
+                                "perm": 33261,
+                                "mtime": 1399438676.0,
+                                "size": 10424
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424328496.7395227,
+                        "perm": 16877,
+                        "mtime": 1399438676.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424328496.7395227,
+                "perm": 16877,
+                "mtime": 1399438660.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424328496.7395227,
+        "perm": 16877,
+        "mtime": 1399438659.0,
+        "size": 4096
+    }
+}

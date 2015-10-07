@@ -1,0 +1,980 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libexpat1 (>= 2.0.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.17)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libaudit1 (>= 1:2.2.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libsystemd-login0 (>= 31)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libcap-ng0": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "netbase (>= 4.45ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6729007,
+                                "perm": 16893,
+                                "mtime": 1424303434.6729007,
+                                "size": 4096
+                            }
+                        },
+                        "libapparmor1 (>= 2.8.94-0ubuntu1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libselinux1 (>= 2.0.65)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "libdbus-1-3 (>= 1.7.6)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "lsb-base (>= 4.1+Debian11ubuntu7)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6729007,
+                                "perm": 16893,
+                                "mtime": 1424303434.6729007,
+                                "size": 4096
+                            }
+                        },
+                        "libsystemd-journal0 (>= 38)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6689005,
+                                "perm": 16893,
+                                "mtime": 1424303434.6689005,
+                                "size": 4096
+                            }
+                        },
+                        "adduser": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.6729007,
+                                "perm": 16893,
+                                "mtime": 1424303434.6729007,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.6729007,
+                        "perm": 16893,
+                        "mtime": 1424303434.6729007,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.6689005,
+                "perm": 16893,
+                "mtime": 1424303434.6689005,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "dbus": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1ecc2f6fbf7380646b609a691e5c15b1",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1410782449.0,
+                                                "size": 170
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947871.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947871.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "dbus": {
+                                    "file": {
+                                        "AUTHORS.gz": {
+                                            "file": "../libdbus-1-3/AUTHORS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 25
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "../libdbus-1-3/NEWS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 22
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d387860c5aeedf35ba93a36a5044a28e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.744901,
+                                                "perm": 33188,
+                                                "mtime": 1410782449.0,
+                                                "size": 20200
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libdbus-1-3/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 34
+                                            }
+                                        },
+                                        "README.gz": {
+                                            "file": "../libdbus-1-3/README.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.756901,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.756901,
+                                                "size": 24
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947891.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947869.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "dbus-monitor.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/00f66b723cc6ddc7e9b3404554ee7775",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 1530
+                                            }
+                                        },
+                                        "dbus-run-session.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/01fe98135c99fe0afb90a8eb48525ae0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 1691
+                                            }
+                                        },
+                                        "dbus-cleanup-sockets.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9502a702233293b3182a17d2ecbb7d34",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 1194
+                                            }
+                                        },
+                                        "dbus-daemon.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/581b2b0ed0e32ac6fe402898d36fabb4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 10392
+                                            }
+                                        },
+                                        "dbus-send.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6429369be6a0194544fd7a7909456065",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 2140
+                                            }
+                                        },
+                                        "dbus-uuidgen.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/adf7c5926760073dc013b395a79550d9",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.748901,
+                                                "perm": 33188,
+                                                "mtime": 1416947869.0,
+                                                "size": 1716
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947872.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947867.0,
+                                "size": 4096
+                            }
+                        },
+                        "upstart": {
+                            "file": {
+                                "sessions": {
+                                    "file": {
+                                        "dbus.conf": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/44b2c973c4ef53530093dc20fe10ae0c",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.744901,
+                                                "perm": 33188,
+                                                "mtime": 1416947867.0,
+                                                "size": 765
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947867.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947867.0,
+                                "size": 4096
+                            }
+                        },
+                        "dbus-1": {
+                            "file": {
+                                "services": {
+                                    "file": {},
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947863.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "system-services": {
+                                    "file": {},
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947863.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947867.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947871.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "dbus-1.0": {
+                            "file": {
+                                "dbus-daemon-launch-helper": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a4d9c8cc7cacc80067839a6ba09d39fe",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.7529008,
+                                        "perm": 33261,
+                                        "mtime": 1416947877.0,
+                                        "size": 294512
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947877.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947867.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "dbus-run-session": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0dd0d8fd3c67b2792d3ac2b7f8d00d0a",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7529008,
+                                "perm": 33261,
+                                "mtime": 1416947877.0,
+                                "size": 10512
+                            }
+                        },
+                        "dbus-monitor": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8c23d1985279a51f94f34f049544ff0e",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7529008,
+                                "perm": 33261,
+                                "mtime": 1416947877.0,
+                                "size": 14752
+                            }
+                        },
+                        "dbus-send": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8598df9004d626167c738c19441016bd",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7529008,
+                                "perm": 33261,
+                                "mtime": 1416947877.0,
+                                "size": 19000
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947877.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.756901,
+                "perm": 16877,
+                "mtime": 1416947867.0,
+                "size": 4096
+            }
+        },
+        "var": {
+            "file": {
+                "lib": {
+                    "file": {
+                        "dbus": {
+                            "file": {
+                                "machine-id": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/547f3f0a7b249449e4d66a4e1e5649d6",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 33204,
+                                        "mtime": 1424303434.756901,
+                                        "size": 33
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1424303434.756901,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947862.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.756901,
+                "perm": 16877,
+                "mtime": 1416947862.0,
+                "size": 4096
+            }
+        },
+        "bin": {
+            "file": {
+                "dbus-uuidgen": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c039261930b63eee84ad0b4c59173ea8",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.7409008,
+                        "perm": 33261,
+                        "mtime": 1416947876.0,
+                        "size": 10464
+                    }
+                },
+                "dbus-daemon": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/7c5948e16f96a1f5bbc306ade838d16f",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.7409008,
+                        "perm": 33261,
+                        "mtime": 1416947877.0,
+                        "size": 443056
+                    }
+                },
+                "dbus-cleanup-sockets": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/26334661d5f8ce5945f19bbaf92de542",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.7409008,
+                        "perm": 33261,
+                        "mtime": 1416947876.0,
+                        "size": 10536
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.756901,
+                "perm": 16877,
+                "mtime": 1416947877.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "init": {
+                    "file": {
+                        "dbus.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/dca74cdc25d472937d97689a3a177b10",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7409008,
+                                "perm": 33188,
+                                "mtime": 1410983578.0,
+                                "size": 489
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947870.0,
+                        "size": 4096
+                    }
+                },
+                "init.d": {
+                    "file": {
+                        "dbus": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ec9a7d183ec50837a12aca3f9c95cc27",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7369008,
+                                "perm": 33261,
+                                "mtime": 1416944095.0,
+                                "size": 2813
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947870.0,
+                        "size": 4096
+                    }
+                },
+                "default": {
+                    "file": {
+                        "dbus": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0d0f25a2f993509c857eb262f6e22015",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7369008,
+                                "perm": 33188,
+                                "mtime": 1410782449.0,
+                                "size": 297
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947870.0,
+                        "size": 4096
+                    }
+                },
+                "dbus-1": {
+                    "file": {
+                        "session.d": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947863.0,
+                                "size": 4096
+                            }
+                        },
+                        "session.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f99e29edfdc2ec3d1fabe76a86190a85",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7369008,
+                                "perm": 33188,
+                                "mtime": 1416947863.0,
+                                "size": 3138
+                            }
+                        },
+                        "system.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/af1c7d14a222fb6f1a2e636934603aec",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.7369008,
+                                "perm": 33188,
+                                "mtime": 1416947863.0,
+                                "size": 3282
+                            }
+                        },
+                        "system.d": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947863.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947863.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.756901,
+                "perm": 16877,
+                "mtime": 1416947870.0,
+                "size": 4096
+            }
+        },
+        "lib": {
+            "file": {
+                "systemd": {
+                    "file": {
+                        "system": {
+                            "file": {
+                                "multi-user.target.wants": {
+                                    "file": {
+                                        "dbus.service": {
+                                            "file": "../dbus.service",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 15
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947872.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "dbus.service": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/9ceb72e4f3983d4fa01d9b7416990da3",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.744901,
+                                        "perm": 33188,
+                                        "mtime": 1416947865.0,
+                                        "size": 363
+                                    }
+                                },
+                                "dbus.socket": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/73e727da46edb943a1b1fabd6fd91ff5",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.7409008,
+                                        "perm": 33188,
+                                        "mtime": 1416947863.0,
+                                        "size": 106
+                                    }
+                                },
+                                "dbus.target.wants": {
+                                    "file": {
+                                        "dbus.socket": {
+                                            "file": "../dbus.socket",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 14
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947872.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "sockets.target.wants": {
+                                    "file": {
+                                        "dbus.socket": {
+                                            "file": "../dbus.socket",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303434.7529008,
+                                                "perm": 41471,
+                                                "mtime": 1424303434.7529008,
+                                                "size": 14
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303434.756901,
+                                        "perm": 16877,
+                                        "mtime": 1416947872.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303434.756901,
+                                "perm": 16877,
+                                "mtime": 1416947867.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303434.756901,
+                        "perm": 16877,
+                        "mtime": 1416947867.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303434.756901,
+                "perm": 16877,
+                "mtime": 1416947867.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424303434.756901,
+        "perm": 16877,
+        "mtime": 1416947880.0,
+        "size": 4096
+    }
+}

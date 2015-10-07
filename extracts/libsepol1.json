@@ -1,0 +1,165 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "perm": 16877,
+        "mtime": 1411150036.0,
+        "gid": 0,
+        "uid": 0,
+        "ctime": 1424380990.1593163,
+        "size": 4096
+    },
+    "file": {
+        "lib": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "mtime": 1411150032.0,
+                "gid": 0,
+                "uid": 0,
+                "ctime": 1424380990.1593163,
+                "size": 4096
+            },
+            "file": {
+                "x86_64-linux-gnu": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1411150035.0,
+                        "gid": 0,
+                        "uid": 0,
+                        "ctime": 1424380990.1593163,
+                        "size": 4096
+                    },
+                    "file": {
+                        "libsepol.so.1": {
+                            "deserializer": "url",
+                            "stat": {
+                                "perm": 33188,
+                                "mtime": 1411150035.0,
+                                "gid": 0,
+                                "uid": 0,
+                                "ctime": 1424380990.1553164,
+                                "size": 281992
+                            },
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9e7acfe6193b4b6575a0497d05999124"
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16893,
+                "mtime": 1424380990.1353161,
+                "gid": 0,
+                "uid": 0,
+                "ctime": 1424380990.1353161,
+                "size": 4096
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16893,
+                        "mtime": 1424380990.1353161,
+                        "gid": 0,
+                        "uid": 0,
+                        "ctime": 1424380990.1353161,
+                        "size": 4096
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424380990.1353161,
+                                "gid": 0,
+                                "uid": 0,
+                                "ctime": 1424380990.1353161,
+                                "size": 4096
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "mtime": 1411150032.0,
+                "gid": 0,
+                "uid": 0,
+                "ctime": 1424380990.1593163,
+                "size": 4096
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1411150032.0,
+                        "gid": 0,
+                        "uid": 0,
+                        "ctime": 1424380990.1593163,
+                        "size": 4096
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1411150032.0,
+                                "gid": 0,
+                                "uid": 0,
+                                "ctime": 1424380990.1593163,
+                                "size": 4096
+                            },
+                            "file": {
+                                "libsepol1": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1411150033.0,
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "ctime": 1424380990.1593163,
+                                        "size": 4096
+                                    },
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1411150042.0,
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "ctime": 1424380990.1593163,
+                                                "size": 1546
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a9cd57975a2324874202e3cb0183c781"
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1409508139.0,
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "ctime": 1424380990.1593163,
+                                                "size": 2071
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/99f13150405845cac7c8c1ea521ba1d0"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

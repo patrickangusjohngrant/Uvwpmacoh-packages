@@ -1,0 +1,528 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296414.8413424,
+                                "perm": 16893,
+                                "mtime": 1424296414.8413424,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.8413424,
+                        "perm": 16893,
+                        "mtime": 1424296414.8413424,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296414.8413424,
+                "perm": 16893,
+                "mtime": 1424296414.8413424,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "dosfstools": {
+                                    "file": {
+                                        "ANNOUNCE.mkdosfs": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3717ef608a40abb192553f1060fe1dce",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8693428,
+                                                "perm": 33188,
+                                                "mtime": 1385199631.0,
+                                                "size": 1265
+                                            }
+                                        },
+                                        "README.mkdosfs": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/659fea5c4dcf133415580dbbfccaaeef",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8693428,
+                                                "perm": 33188,
+                                                "mtime": 1385199631.0,
+                                                "size": 2164
+                                            }
+                                        },
+                                        "README.dosfsck": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/625934b496c765f8810238b6368c8875",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8693428,
+                                                "perm": 33188,
+                                                "mtime": 1385199631.0,
+                                                "size": 2377
+                                            }
+                                        },
+                                        "README.dosfstools-2.x": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/52593f2d08903bee08e4ffa1100d06ff",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8733428,
+                                                "perm": 33188,
+                                                "mtime": 1385199631.0,
+                                                "size": 2912
+                                            }
+                                        },
+                                        "TODO.dosfstools-2.x": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6f811c393a544fc0ef91d09017bb4e93",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8733428,
+                                                "perm": 33188,
+                                                "mtime": 1385199631.0,
+                                                "size": 551
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/44bb204d8006fe00b2512cdb4149177e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8733428,
+                                                "perm": 33188,
+                                                "mtime": 1406329794.0,
+                                                "size": 788
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9781973d87adc2291cd8bb8981071495",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8733428,
+                                                "perm": 33188,
+                                                "mtime": 1398451456.0,
+                                                "size": 1453
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296414.881343,
+                                        "perm": 16877,
+                                        "mtime": 1406329794.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296414.881343,
+                                "perm": 16877,
+                                "mtime": 1406329788.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man8": {
+                                    "file": {
+                                        "dosfsck.8.gz": {
+                                            "file": "fsck.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "fsck.vfat.8.gz": {
+                                            "file": "fsck.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "mkfs.fat.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/93dd60ec313edecbdb586c63dd6c08d3",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8653426,
+                                                "perm": 33188,
+                                                "mtime": 1406329788.0,
+                                                "size": 3327
+                                            }
+                                        },
+                                        "mkfs.msdos.8.gz": {
+                                            "file": "mkfs.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "mkfs.vfat.8.gz": {
+                                            "file": "mkfs.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "fsck.fat.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f2637b9ad5b068b0ddac328836a9b201",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8653426,
+                                                "perm": 33188,
+                                                "mtime": 1406329788.0,
+                                                "size": 2838
+                                            }
+                                        },
+                                        "dosfslabel.8.gz": {
+                                            "file": "fatlabel.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "fatlabel.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c64459e0ea415e8315990fb137c14457",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.8653426,
+                                                "perm": 33188,
+                                                "mtime": 1406329788.0,
+                                                "size": 999
+                                            }
+                                        },
+                                        "mkdosfs.8.gz": {
+                                            "file": "mkfs.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        },
+                                        "fsck.msdos.8.gz": {
+                                            "file": "fsck.fat.8.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.877343,
+                                                "perm": 41471,
+                                                "mtime": 1424296414.877343,
+                                                "size": 13
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296414.881343,
+                                        "perm": 16877,
+                                        "mtime": 1406329789.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "de": {
+                                    "file": {
+                                        "man8": {
+                                            "file": {
+                                                "fsck.fat.8.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/198afc47c6ee132c7608b729c37a19ee",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296414.8693428,
+                                                        "perm": 33188,
+                                                        "mtime": 1406329788.0,
+                                                        "size": 2909
+                                                    }
+                                                },
+                                                "mkfs.fat.8.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/69ef7548c5d76ad1d6ae811112c72619",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296414.8693428,
+                                                        "perm": 33188,
+                                                        "mtime": 1406329789.0,
+                                                        "size": 3481
+                                                    }
+                                                },
+                                                "fatlabel.8.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/677ebe17b7a5b9c1809155dcd2a39c4f",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296414.8653426,
+                                                        "perm": 33188,
+                                                        "mtime": 1406329789.0,
+                                                        "size": 1042
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296414.881343,
+                                                "perm": 16877,
+                                                "mtime": 1406329789.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296414.881343,
+                                        "perm": 16877,
+                                        "mtime": 1406329788.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296414.881343,
+                                "perm": 16877,
+                                "mtime": 1406329788.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 16877,
+                        "mtime": 1406329788.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296414.881343,
+                "perm": 16877,
+                "mtime": 1406329788.0,
+                "size": 4096
+            }
+        },
+        "sbin": {
+            "file": {
+                "mkfs.fat": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/d01e5bdac8c1dfec2db2f7b71747394c",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.8733428,
+                        "perm": 33261,
+                        "mtime": 1406329790.0,
+                        "size": 27608
+                    }
+                },
+                "fatlabel": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e2c93712b893ea8c0e4ec74a330d4875",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.877343,
+                        "perm": 33261,
+                        "mtime": 1406329790.0,
+                        "size": 51696
+                    }
+                },
+                "dosfslabel": {
+                    "file": "fatlabel",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 41471,
+                        "mtime": 1424296414.881343,
+                        "size": 8
+                    }
+                },
+                "fsck.msdos": {
+                    "file": "fsck.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.877343,
+                        "perm": 41471,
+                        "mtime": 1424296414.877343,
+                        "size": 8
+                    }
+                },
+                "fsck.vfat": {
+                    "file": "fsck.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 41471,
+                        "mtime": 1424296414.881343,
+                        "size": 8
+                    }
+                },
+                "mkdosfs": {
+                    "file": "mkfs.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.877343,
+                        "perm": 41471,
+                        "mtime": 1424296414.877343,
+                        "size": 8
+                    }
+                },
+                "mkfs.vfat": {
+                    "file": "mkfs.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 41471,
+                        "mtime": 1424296414.881343,
+                        "size": 8
+                    }
+                },
+                "mkfs.msdos": {
+                    "file": "mkfs.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 41471,
+                        "mtime": 1424296414.881343,
+                        "size": 8
+                    }
+                },
+                "dosfsck": {
+                    "file": "fsck.fat",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.881343,
+                        "perm": 41471,
+                        "mtime": 1424296414.881343,
+                        "size": 8
+                    }
+                },
+                "fsck.fat": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/964033b62f646b546e838b412bea2b93",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296414.877343,
+                        "perm": 33261,
+                        "mtime": 1406329790.0,
+                        "size": 55800
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296414.881343,
+                "perm": 16877,
+                "mtime": 1406329790.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424296414.881343,
+        "perm": 16877,
+        "mtime": 1406329790.0,
+        "size": 4096
+    }
+}

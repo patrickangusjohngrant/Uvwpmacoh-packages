@@ -1,0 +1,613 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "isc-dhcp-common (= 4.2.4-7ubuntu14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.3942256,
+                                "perm": 16893,
+                                "mtime": 1424303752.3942256,
+                                "size": 4096
+                            }
+                        },
+                        "iproute2": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.3942256,
+                                "perm": 16893,
+                                "mtime": 1424303752.3942256,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.3942256,
+                                "perm": 16893,
+                                "mtime": 1424303752.3942256,
+                                "size": 4096
+                            }
+                        },
+                        "debianutils (>= 2.8.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.3942256,
+                                "perm": 16893,
+                                "mtime": 1424303752.3942256,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.3942256,
+                        "perm": 16893,
+                        "mtime": 1424303752.3942256,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303752.3942256,
+                "perm": 16893,
+                "mtime": 1424303752.3942256,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "isc-dhcp-client": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8e433bcdaa53131d333ec8765e803623",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.5182261,
+                                                "perm": 33188,
+                                                "mtime": 1396561875.0,
+                                                "size": 55
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.522226,
+                                        "perm": 16877,
+                                        "mtime": 1409686789.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.522226,
+                                "perm": 16877,
+                                "mtime": 1409686787.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "isc-dhcp-client": {
+                                    "file": {
+                                        "NEWS.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1d31badf7b6130987b9cbf529ab421fc",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.514226,
+                                                "perm": 33188,
+                                                "mtime": 1396561875.0,
+                                                "size": 660
+                                            }
+                                        },
+                                        "README.Debian": {
+                                            "file": "../isc-dhcp-common/README.Debian",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.522226,
+                                                "perm": 41471,
+                                                "mtime": 1424303752.522226,
+                                                "size": 32
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../isc-dhcp-common/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.522226,
+                                                "perm": 41471,
+                                                "mtime": 1424303752.522226,
+                                                "size": 38
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6fa20b8ad86e433a76968e90d6809a51",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.514226,
+                                                "perm": 33188,
+                                                "mtime": 1396561875.0,
+                                                "size": 1339
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.522226,
+                                        "perm": 16877,
+                                        "mtime": 1409686837.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.522226,
+                                "perm": 16877,
+                                "mtime": 1409686790.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man8": {
+                                    "file": {
+                                        "dhclient-script.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5e32766ea46df14700b6c2376e192598",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.5182261,
+                                                "perm": 33188,
+                                                "mtime": 1409686788.0,
+                                                "size": 4404
+                                            }
+                                        },
+                                        "dhclient.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fb298ae137cccaa694cfe5e1d22cc376",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.5182261,
+                                                "perm": 33188,
+                                                "mtime": 1409686788.0,
+                                                "size": 6182
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.522226,
+                                        "perm": 16877,
+                                        "mtime": 1409686800.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "man5": {
+                                    "file": {
+                                        "dhclient.conf.5.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d2126922f448e4594d71be8cc56ddb81",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.5182261,
+                                                "perm": 33188,
+                                                "mtime": 1409686788.0,
+                                                "size": 10092
+                                            }
+                                        },
+                                        "dhclient.leases.5.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/90590f70925aed2e9c7d1e8bc2482880",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.5182261,
+                                                "perm": 33188,
+                                                "mtime": 1409686788.0,
+                                                "size": 1183
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.522226,
+                                        "perm": 16877,
+                                        "mtime": 1409686800.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.522226,
+                                "perm": 16877,
+                                "mtime": 1409686789.0,
+                                "size": 4096
+                            }
+                        },
+                        "apport": {
+                            "file": {
+                                "package-hooks": {
+                                    "file": {
+                                        "isc-dhcp-client.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/41f36a5538a2d89a66bdc35a19660562",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.514226,
+                                                "perm": 33188,
+                                                "mtime": 1396561875.0,
+                                                "size": 1796
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.522226,
+                                        "perm": 16877,
+                                        "mtime": 1409686791.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.522226,
+                                "perm": 16877,
+                                "mtime": 1409686791.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.522226,
+                        "perm": 16877,
+                        "mtime": 1409686791.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303752.522226,
+                "perm": 16877,
+                "mtime": 1409686787.0,
+                "size": 4096
+            }
+        },
+        "var": {
+            "file": {
+                "run": {
+                    "file": {},
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.522226,
+                        "perm": 16877,
+                        "mtime": 1409686787.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "dhcp": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.522226,
+                                "perm": 16877,
+                                "mtime": 1409686787.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.522226,
+                        "perm": 16877,
+                        "mtime": 1409686787.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303752.522226,
+                "perm": 16877,
+                "mtime": 1409686787.0,
+                "size": 4096
+            }
+        },
+        "sbin": {
+            "file": {
+                "dhclient-script": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c6c2a86f30179ec4181d094e0d2d5efc",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.522226,
+                        "perm": 33261,
+                        "mtime": 1409686789.0,
+                        "size": 14484
+                    }
+                },
+                "dhclient": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/82ac071310e4dedb2d3e972dfe6b8093",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.522226,
+                        "perm": 33261,
+                        "mtime": 1409686797.0,
+                        "size": 1702336
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303752.526226,
+                "perm": 16877,
+                "mtime": 1409686797.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "apparmor.d": {
+                    "file": {
+                        "sbin.dhclient": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/df14123bd7f6ebe539adab19740e1069",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.510226,
+                                "perm": 33188,
+                                "mtime": 1409148083.0,
+                                "size": 2659
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.526226,
+                        "perm": 16877,
+                        "mtime": 1409686789.0,
+                        "size": 4096
+                    }
+                },
+                "dhcp": {
+                    "file": {
+                        "dhclient-exit-hooks.d": {
+                            "file": {
+                                "debug": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/95da2e2070e1c33847923dafef2a2921",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.514226,
+                                        "perm": 33188,
+                                        "mtime": 1409686788.0,
+                                        "size": 1406
+                                    }
+                                },
+                                "rfc3442-classless-routes": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/9f5b3bd5f605e2debf1a7a88a705c1ba",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.514226,
+                                        "perm": 33188,
+                                        "mtime": 1409686789.0,
+                                        "size": 1491
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.526226,
+                                "perm": 16877,
+                                "mtime": 1409686789.0,
+                                "size": 4096
+                            }
+                        },
+                        "dhclient-enter-hooks.d": {
+                            "file": {
+                                "debug": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/95da2e2070e1c33847923dafef2a2921",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.510226,
+                                        "perm": 33188,
+                                        "mtime": 1409686788.0,
+                                        "size": 1406
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.526226,
+                                "perm": 16877,
+                                "mtime": 1409686788.0,
+                                "size": 4096
+                            }
+                        },
+                        "dhclient.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c70c98b530eee07bd604af3035e63b56",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.514226,
+                                "perm": 33188,
+                                "mtime": 1396561875.0,
+                                "size": 1830
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.526226,
+                        "perm": 16877,
+                        "mtime": 1409686789.0,
+                        "size": 4096
+                    }
+                },
+                "apparmor": {
+                    "file": {
+                        "init": {
+                            "file": {
+                                "network-interface-security": {
+                                    "file": {
+                                        "sbin.dhclient": {
+                                            "file": "../../../apparmor.d/sbin.dhclient",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424303752.522226,
+                                                "perm": 41471,
+                                                "mtime": 1424303752.522226,
+                                                "size": 33
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424303752.526226,
+                                        "perm": 16877,
+                                        "mtime": 1409686789.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424303752.526226,
+                                "perm": 16877,
+                                "mtime": 1409686789.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424303752.526226,
+                        "perm": 16877,
+                        "mtime": 1409686789.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424303752.526226,
+                "perm": 16877,
+                "mtime": 1409686789.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424303752.526226,
+        "perm": 16877,
+        "mtime": 1409686789.0,
+        "size": 4096
+    }
+}

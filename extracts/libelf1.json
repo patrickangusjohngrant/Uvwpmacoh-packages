@@ -1,0 +1,177 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "uid": 0,
+                                "perm": 16893,
+                                "ctime": 1424388512.4708145,
+                                "size": 4096,
+                                "mtime": 1424388512.4708145
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "uid": 0,
+                        "perm": 16893,
+                        "ctime": 1424388512.4708145,
+                        "size": 4096,
+                        "mtime": 1424388512.4708145
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "uid": 0,
+                "perm": 16893,
+                "ctime": 1424388512.4708145,
+                "size": 4096,
+                "mtime": 1424388512.4708145
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libelf-0.160.so": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/5a8cb8b037b87cbf367206ff25963810",
+                                    "stat": {
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "perm": 33188,
+                                        "ctime": 1424388512.4868145,
+                                        "size": 88512,
+                                        "mtime": 1421808371.0
+                                    }
+                                },
+                                "libelf.so.1": {
+                                    "deserializer": "symlink",
+                                    "file": "libelf-0.160.so",
+                                    "stat": {
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "perm": 41471,
+                                        "ctime": 1424388512.4868145,
+                                        "size": 15,
+                                        "mtime": 1424388512.4868145
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "uid": 0,
+                                "perm": 16877,
+                                "ctime": 1424388512.4868145,
+                                "size": 4096,
+                                "mtime": 1421808371.0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "uid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388512.4868145,
+                        "size": 4096,
+                        "mtime": 1421808365.0
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libelf1": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0a19b3b7d6efd8c3d4314740ed513a00",
+                                            "stat": {
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424388512.4868145,
+                                                "size": 5262,
+                                                "mtime": 1250251661.0
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b8ff2812b26720c8667671f58d82347a",
+                                            "stat": {
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424388512.4828146,
+                                                "size": 1197,
+                                                "mtime": 1421808383.0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "ctime": 1424388512.4868145,
+                                        "size": 4096,
+                                        "mtime": 1421808383.0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "uid": 0,
+                                "perm": 16877,
+                                "ctime": 1424388512.4868145,
+                                "size": 4096,
+                                "mtime": 1421808365.0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "uid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388512.4868145,
+                        "size": 4096,
+                        "mtime": 1421808382.0
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "uid": 0,
+                "perm": 16877,
+                "ctime": 1424388512.4868145,
+                "size": 4096,
+                "mtime": 1421808365.0
+            }
+        }
+    },
+    "stat": {
+        "gid": 0,
+        "uid": 0,
+        "perm": 16877,
+        "ctime": 1424388512.4868145,
+        "size": 4096,
+        "mtime": 1421808372.0
+    }
+}

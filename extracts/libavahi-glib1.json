@@ -1,0 +1,225 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libglib2.0-0 (>= 2.16.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424298800.6005685,
+                                "perm": 16893,
+                                "mtime": 1424298800.6005685,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.2.5)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424298800.6005685,
+                                "perm": 16893,
+                                "mtime": 1424298800.6005685,
+                                "size": 4096
+                            }
+                        },
+                        "libavahi-common3 (>= 0.6.16)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424298800.6005685,
+                                "perm": 16893,
+                                "mtime": 1424298800.6005685,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424298800.6005685,
+                        "perm": 16893,
+                        "mtime": 1424298800.6005685,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424298800.6005685,
+                "perm": 16893,
+                "mtime": 1424298800.6005685,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libavahi-glib1": {
+                                    "file": {
+                                        "README": {
+                                            "file": "../libavahi-common-data/README",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424298800.6045685,
+                                                "perm": 41471,
+                                                "mtime": 1424298800.6045685,
+                                                "size": 30
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "../libavahi-common-data/NEWS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424298800.6045685,
+                                                "perm": 41471,
+                                                "mtime": 1424298800.6045685,
+                                                "size": 31
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libavahi-common-data/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424298800.6045685,
+                                                "perm": 41471,
+                                                "mtime": 1424298800.6045685,
+                                                "size": 43
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/026515c317e1591092392844df5f1ee0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424298800.6045685,
+                                                "perm": 33188,
+                                                "mtime": 1388406235.0,
+                                                "size": 5440
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424298800.6045685,
+                                        "perm": 16877,
+                                        "mtime": 1406899313.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424298800.6045685,
+                                "perm": 16877,
+                                "mtime": 1406899245.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424298800.6045685,
+                        "perm": 16877,
+                        "mtime": 1406899245.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libavahi-glib.so.1.0.2": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2a866e4f7edf544764430a7d415a3574",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424298800.6045685,
+                                        "perm": 33188,
+                                        "mtime": 1406899261.0,
+                                        "size": 14544
+                                    }
+                                },
+                                "libavahi-glib.so.1": {
+                                    "file": "libavahi-glib.so.1.0.2",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424298800.6045685,
+                                        "perm": 41471,
+                                        "mtime": 1424298800.6045685,
+                                        "size": 22
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424298800.6045685,
+                                "perm": 16877,
+                                "mtime": 1406899261.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424298800.6045685,
+                        "perm": 16877,
+                        "mtime": 1406899244.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424298800.6045685,
+                "perm": 16877,
+                "mtime": 1406899245.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424298800.6045685,
+        "perm": 16877,
+        "mtime": 1406899262.0,
+        "size": 4096
+    }
+}

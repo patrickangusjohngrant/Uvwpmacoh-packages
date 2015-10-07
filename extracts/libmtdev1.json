@@ -1,0 +1,251 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "apport": {
+                            "deserializer": "directory",
+                            "file": {
+                                "package-hooks": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "source_utouch.py": {
+                                            "deserializer": "symlink",
+                                            "file": "source_mtdev.py",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 15,
+                                                "mtime": 1424390498.5404513,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 41471,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "source_mtdev.py": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/77fa9ca780d9f1feaf1d371d28c35013",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 4168,
+                                                "mtime": 1401178445.0,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "source_utouch-grail.py": {
+                                            "deserializer": "symlink",
+                                            "file": "source_mtdev.py",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 15,
+                                                "mtime": 1424390498.5404513,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 41471,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "mtime": 1401178835.0,
+                                        "ctime": 1424390498.5404513,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "mtime": 1401178835.0,
+                                "ctime": 1424390498.5404513,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libmtdev1": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "README": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/44c90547a174211ac66c73bc9fd4ad62",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 540,
+                                                "mtime": 1374739060.0,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fdd0bdfd2de7e8aac7334fc562ec9cad",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 1652,
+                                                "mtime": 1401178445.0,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6d8b8fe037b6d3adef73205e2d31f7fc",
+                                            "stat": {
+                                                "uid": 0,
+                                                "size": 803,
+                                                "mtime": 1401178848.0,
+                                                "ctime": 1424390498.5404513,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "mtime": 1401178848.0,
+                                        "ctime": 1424390498.5404513,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "mtime": 1401178834.0,
+                                "ctime": 1424390498.5404513,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "mtime": 1401178835.0,
+                        "ctime": 1424390498.5404513,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libmtdev.so.1": {
+                                    "deserializer": "symlink",
+                                    "file": "libmtdev.so.1.0.0",
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 17,
+                                        "mtime": 1424390498.5404513,
+                                        "ctime": 1424390498.5404513,
+                                        "perm": 41471,
+                                        "gid": 0
+                                    }
+                                },
+                                "libmtdev.so.1.0.0": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/3ec93d09b12e17c69b3e66cc155074c0",
+                                    "stat": {
+                                        "uid": 0,
+                                        "size": 22504,
+                                        "mtime": 1401178839.0,
+                                        "ctime": 1424390498.5404513,
+                                        "perm": 33188,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "mtime": 1401178839.0,
+                                "ctime": 1424390498.5404513,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "mtime": 1401178835.0,
+                        "ctime": 1424390498.5404513,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "size": 4096,
+                "mtime": 1401178835.0,
+                "ctime": 1424390498.5444512,
+                "perm": 16877,
+                "gid": 0
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.2.5)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "size": 4096,
+                                "mtime": 1424390498.5324512,
+                                "ctime": 1424390498.5324512,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "size": 4096,
+                        "mtime": 1424390498.5324512,
+                        "ctime": 1424390498.5324512,
+                        "perm": 16893,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "size": 4096,
+                "mtime": 1424390498.5324512,
+                "ctime": 1424390498.5324512,
+                "perm": 16893,
+                "gid": 0
+            }
+        }
+    },
+    "stat": {
+        "uid": 0,
+        "size": 4096,
+        "mtime": 1401178835.0,
+        "ctime": 1424390498.5444512,
+        "perm": 16877,
+        "gid": 0
+    }
+}

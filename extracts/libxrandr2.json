@@ -1,0 +1,213 @@
+{
+    "file": {
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libxrandr2": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/17a0a209d4dd5e884127fed3aead7dd9",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424390466.364286,
+                                                "uid": 0,
+                                                "size": 1246,
+                                                "gid": 0,
+                                                "mtime": 1390386978.0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ec6eae186524f95a612ecc600685f82e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424390466.364286,
+                                                "uid": 0,
+                                                "size": 3732,
+                                                "gid": 0,
+                                                "mtime": 1390386954.0
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "ctime": 1424390466.364286,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "mtime": 1390386974.0
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "ctime": 1424390466.364286,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1390386973.0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424390466.364286,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1390386973.0
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libXrandr.so.2.2.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/be8c01c9173fe620d4b76156223e8cfb",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "perm": 33188,
+                                        "ctime": 1424390466.360286,
+                                        "uid": 0,
+                                        "size": 39128,
+                                        "gid": 0,
+                                        "mtime": 1390386974.0
+                                    }
+                                },
+                                "libXrandr.so.2": {
+                                    "file": "libXrandr.so.2.2.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "ctime": 1424390466.364286,
+                                        "uid": 0,
+                                        "size": 18,
+                                        "gid": 0,
+                                        "mtime": 1424390466.364286
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "ctime": 1424390466.364286,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1390386974.0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424390466.364286,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1390386973.0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "ctime": 1424390466.364286,
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1390386973.0
+            }
+        },
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424390466.3522859,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424390466.3522859
+                            }
+                        },
+                        "libx11-6 (>= 2:1.6.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424390466.3522859,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424390466.3522859
+                            }
+                        },
+                        "libxext6": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424390466.3522859,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424390466.3522859
+                            }
+                        },
+                        "libxrender1": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424390466.3522859,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424390466.3522859
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16893,
+                        "ctime": 1424390466.3522859,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1424390466.3522859
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16893,
+                "ctime": 1424390466.3522859,
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1424390466.3522859
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "perm": 16877,
+        "ctime": 1424390466.364286,
+        "uid": 0,
+        "size": 4096,
+        "gid": 0,
+        "mtime": 1390386975.0
+    }
+}

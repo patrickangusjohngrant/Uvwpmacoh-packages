@@ -1,0 +1,177 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "gid": 0,
+        "size": 4096,
+        "ctime": 1424388504.6067765,
+        "perm": 16877,
+        "mtime": 1401923774.0,
+        "uid": 0
+    },
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "gid": 0,
+                "size": 4096,
+                "ctime": 1424388504.6027763,
+                "perm": 16893,
+                "mtime": 1424388504.6027763,
+                "uid": 0
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "ctime": 1424388504.6027763,
+                        "perm": 16893,
+                        "mtime": 1424388504.6027763,
+                        "uid": 0
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "size": 4096,
+                                "ctime": 1424388504.6027763,
+                                "perm": 16893,
+                                "mtime": 1424388504.6027763,
+                                "uid": 0
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "gid": 0,
+                "size": 4096,
+                "ctime": 1424388504.6067765,
+                "perm": 16877,
+                "mtime": 1401923771.0,
+                "uid": 0
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "ctime": 1424388504.6067765,
+                        "perm": 16877,
+                        "mtime": 1401923771.0,
+                        "uid": 0
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "size": 4096,
+                                "ctime": 1424388504.6067765,
+                                "perm": 16877,
+                                "mtime": 1401923771.0,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libffi6": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "ctime": 1424388504.6067765,
+                                        "perm": 16877,
+                                        "mtime": 1401923773.0,
+                                        "uid": 0
+                                    },
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "gid": 0,
+                                                "size": 728,
+                                                "ctime": 1424388504.6067765,
+                                                "perm": 33188,
+                                                "mtime": 1401923783.0,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c350e8bf935534802b096b739bf524c9"
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "gid": 0,
+                                                "size": 3440,
+                                                "ctime": 1424388504.6067765,
+                                                "perm": 33188,
+                                                "mtime": 1307702429.0,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/08fa460f7663866433eeea88242df66b"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "size": 4096,
+                        "ctime": 1424388504.6067765,
+                        "perm": 16877,
+                        "mtime": 1401923771.0,
+                        "uid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "size": 4096,
+                                "ctime": 1424388504.6067765,
+                                "perm": 16877,
+                                "mtime": 1401923773.0,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libffi.so.6.0.2": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "gid": 0,
+                                        "size": 30944,
+                                        "ctime": 1424388504.6067765,
+                                        "perm": 33188,
+                                        "mtime": 1401923773.0,
+                                        "uid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2c7e602a912dcda981dd6e0a6bb32640"
+                                },
+                                "libffi.so.6": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "gid": 0,
+                                        "size": 15,
+                                        "ctime": 1424388504.6067765,
+                                        "perm": 41471,
+                                        "mtime": 1424388504.6067765,
+                                        "uid": 0
+                                    },
+                                    "file": "libffi.so.6.0.2"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

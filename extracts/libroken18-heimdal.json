@@ -1,0 +1,215 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1424734771.857304,
+                                "ctime": 1424734771.857304,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16893
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1424734771.857304,
+                        "ctime": 1424734771.857304,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16893
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "mtime": 1424734771.857304,
+                "ctime": 1424734771.857304,
+                "size": 4096,
+                "gid": 0,
+                "perm": 16893
+            }
+        },
+        "usr": {
+            "file": {
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libroken.so.18": {
+                                    "file": "libroken.so.18.1.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1424734771.8693042,
+                                        "ctime": 1424734771.8693042,
+                                        "size": 18,
+                                        "gid": 0,
+                                        "perm": 41471
+                                    }
+                                },
+                                "libroken.so.18.1.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e99db5e1adfc6b2ffc199c5807a2427f",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405855836.0,
+                                        "ctime": 1424734771.8693042,
+                                        "size": 85680,
+                                        "gid": 0,
+                                        "perm": 33188
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1405855836.0,
+                                "ctime": 1424734771.8693042,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1405855808.0,
+                        "ctime": 1424734771.8693042,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16877
+                    }
+                },
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libroken18-heimdal": {
+                                    "file": {
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f932bf346a38dc8820bde606a033564b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1405823387.0,
+                                                "ctime": 1424734771.865304,
+                                                "size": 8191,
+                                                "gid": 0,
+                                                "perm": 33188
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9050143109b74edd444238dd5540ae0f",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1405855955.0,
+                                                "ctime": 1424734771.865304,
+                                                "size": 1704,
+                                                "gid": 0,
+                                                "perm": 33188
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405855817.0,
+                                        "ctime": 1424734771.8693042,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "perm": 16877
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1405855808.0,
+                                "ctime": 1424734771.8693042,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877
+                            }
+                        },
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "libroken18-heimdal": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4c8c72b927c3b6d985e7183dbe70e5e4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1405823387.0,
+                                                "ctime": 1424734771.865304,
+                                                "size": 34,
+                                                "gid": 0,
+                                                "perm": 33188
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1405855815.0,
+                                        "ctime": 1424734771.8693042,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "perm": 16877
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1405855815.0,
+                                "ctime": 1424734771.8693042,
+                                "size": 4096,
+                                "gid": 0,
+                                "perm": 16877
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1405855815.0,
+                        "ctime": 1424734771.8693042,
+                        "size": 4096,
+                        "gid": 0,
+                        "perm": 16877
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "mtime": 1405855808.0,
+                "ctime": 1424734771.8693042,
+                "size": 4096,
+                "gid": 0,
+                "perm": 16877
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "mtime": 1405855814.0,
+        "ctime": 1424734771.8693042,
+        "size": 4096,
+        "gid": 0,
+        "perm": 16877
+    }
+}

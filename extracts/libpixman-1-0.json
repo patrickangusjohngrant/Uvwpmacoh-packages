@@ -1,0 +1,215 @@
+{
+    "stat": {
+        "uid": 0,
+        "mtime": 1401435591.0,
+        "size": 4096,
+        "perm": 16877,
+        "ctime": 1424389434.9312372,
+        "gid": 0
+    },
+    "file": {
+        "control": {
+            "stat": {
+                "uid": 0,
+                "mtime": 1424389434.879237,
+                "size": 4096,
+                "perm": 16893,
+                "ctime": 1424389434.879237,
+                "gid": 0
+            },
+            "file": {
+                "packages": {
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1424389434.879237,
+                        "size": 4096,
+                        "perm": 16893,
+                        "ctime": 1424389434.879237,
+                        "gid": 0
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1424389434.879237,
+                                "size": 4096,
+                                "perm": 16893,
+                                "ctime": 1424389434.879237,
+                                "gid": 0
+                            },
+                            "file": {},
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "usr": {
+            "stat": {
+                "uid": 0,
+                "mtime": 1401435588.0,
+                "size": 4096,
+                "perm": 16877,
+                "ctime": 1424389434.9312372,
+                "gid": 0
+            },
+            "file": {
+                "lib": {
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1401435588.0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "ctime": 1424389434.9312372,
+                        "gid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1401435590.0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "ctime": 1424389434.9312372,
+                                "gid": 0
+                            },
+                            "file": {
+                                "libpixman-1.so.0": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1424389434.9312372,
+                                        "size": 21,
+                                        "perm": 41471,
+                                        "ctime": 1424389434.9312372,
+                                        "gid": 0
+                                    },
+                                    "file": "libpixman-1.so.0.32.4",
+                                    "deserializer": "symlink"
+                                },
+                                "libpixman-1.so.0.32.4": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1401435590.0,
+                                        "size": 699160,
+                                        "perm": 33188,
+                                        "ctime": 1424389434.927237,
+                                        "gid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c7be3e9864e310759b4fce4099cc6857",
+                                    "deserializer": "url"
+                                }
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                },
+                "share": {
+                    "stat": {
+                        "uid": 0,
+                        "mtime": 1401435589.0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "ctime": 1424389434.9312372,
+                        "gid": 0
+                    },
+                    "file": {
+                        "lintian": {
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1401435589.0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "ctime": 1424389434.9312372,
+                                "gid": 0
+                            },
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1401435589.0,
+                                        "size": 4096,
+                                        "perm": 16877,
+                                        "ctime": 1424389434.9312372,
+                                        "gid": 0
+                                    },
+                                    "file": {
+                                        "libpixman-1-0": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1401435509.0,
+                                                "size": 83,
+                                                "perm": 33188,
+                                                "ctime": 1424389434.9312372,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2a4ab2a410adb3ae174c33c24ee9bcf4",
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "deserializer": "directory"
+                        },
+                        "doc": {
+                            "stat": {
+                                "uid": 0,
+                                "mtime": 1401435588.0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "ctime": 1424389434.9312372,
+                                "gid": 0
+                            },
+                            "file": {
+                                "libpixman-1-0": {
+                                    "stat": {
+                                        "uid": 0,
+                                        "mtime": 1401435589.0,
+                                        "size": 4096,
+                                        "perm": 16877,
+                                        "ctime": 1424389434.9312372,
+                                        "gid": 0
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1401435509.0,
+                                                "size": 2246,
+                                                "perm": 33188,
+                                                "ctime": 1424389434.9312372,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d8676ec98895998ca800f67a0ab8e8a1",
+                                            "deserializer": "url"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "uid": 0,
+                                                "mtime": 1401435595.0,
+                                                "size": 1041,
+                                                "perm": 33188,
+                                                "ctime": 1424389434.9312372,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0804f13577fb24b3dbeced68fb74f02b",
+                                            "deserializer": "url"
+                                        }
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        }
+    },
+    "deserializer": "directory"
+}

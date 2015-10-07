@@ -1,0 +1,352 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libglib2.0-0 (>= 2.31.8)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.6811817,
+                                "perm": 16893,
+                                "mtime": 1424300100.6811817,
+                                "size": 4096
+                            }
+                        },
+                        "libpolkit-gobject-1-0 (>= 0.99)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.6811817,
+                                "perm": 16893,
+                                "mtime": 1424300100.6811817,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.6811817,
+                                "perm": 16893,
+                                "mtime": 1424300100.6811817,
+                                "size": 4096
+                            }
+                        },
+                        "libcups2 (>= 1.6.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.6811817,
+                                "perm": 16893,
+                                "mtime": 1424300100.6811817,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300100.6811817,
+                        "perm": 16893,
+                        "mtime": 1424300100.6811817,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300100.6811817,
+                "perm": 16893,
+                "mtime": 1424300100.6811817,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "polkit-1": {
+                            "file": {
+                                "actions": {
+                                    "file": {
+                                        "org.opensuse.cupspkhelper.mechanism.policy": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6c3164455a34463e4940905dc87418c7",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6891816,
+                                                "perm": 33188,
+                                                "mtime": 1370947293.0,
+                                                "size": 69189
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300100.7051816,
+                                        "perm": 16877,
+                                        "mtime": 1370947293.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.7051816,
+                                "perm": 16877,
+                                "mtime": 1370947293.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "cups-pk-helper": {
+                                    "file": {
+                                        "README": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c1f76503c447323fdc25bba47b7449cd",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6931818,
+                                                "perm": 33188,
+                                                "mtime": 1370603463.0,
+                                                "size": 1190
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5e0bbfcffc82c2e516f9b33d36ec423a",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6931818,
+                                                "perm": 33188,
+                                                "mtime": 1370604334.0,
+                                                "size": 1571
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d66bb75d51b9bebe12a28770bd1406f1",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6931818,
+                                                "perm": 33188,
+                                                "mtime": 1370947298.0,
+                                                "size": 1329
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5c63144b6ce04392488de6d699367c53",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6931818,
+                                                "perm": 33188,
+                                                "mtime": 1370946712.0,
+                                                "size": 1270
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300100.7051816,
+                                        "perm": 16877,
+                                        "mtime": 1370947294.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.7051816,
+                                "perm": 16877,
+                                "mtime": 1370947294.0,
+                                "size": 4096
+                            }
+                        },
+                        "dbus-1": {
+                            "file": {
+                                "system-services": {
+                                    "file": {
+                                        "org.opensuse.CupsPkHelper.Mechanism.service": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/80f91d2fa7b4521699a6de2817ee61e2",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424300100.6851816,
+                                                "perm": 33188,
+                                                "mtime": 1370947293.0,
+                                                "size": 123
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300100.7051816,
+                                        "perm": 16877,
+                                        "mtime": 1370947293.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.7051816,
+                                "perm": 16877,
+                                "mtime": 1370947293.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300100.7051816,
+                        "perm": 16877,
+                        "mtime": 1370947298.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "cups-pk-helper-mechanism": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/0ab1a4c73c62efe863d8cc80d258d4ec",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300100.7011817,
+                                        "perm": 33261,
+                                        "mtime": 1370947295.0,
+                                        "size": 133192
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.7051816,
+                                "perm": 16877,
+                                "mtime": 1370947295.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300100.7051816,
+                        "perm": 16877,
+                        "mtime": 1370947293.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300100.7051816,
+                "perm": 16877,
+                "mtime": 1370947293.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "dbus-1": {
+                    "file": {
+                        "system.d": {
+                            "file": {
+                                "org.opensuse.CupsPkHelper.Mechanism.conf": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/f7466ca8af066dfbaa8489006e02d28c",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424300100.7011817,
+                                        "perm": 33188,
+                                        "mtime": 1370947293.0,
+                                        "size": 535
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424300100.7051816,
+                                "perm": 16877,
+                                "mtime": 1370947293.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424300100.7051816,
+                        "perm": 16877,
+                        "mtime": 1370947293.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424300100.7051816,
+                "perm": 16877,
+                "mtime": 1370947293.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424300100.7051816,
+        "perm": 16877,
+        "mtime": 1370947295.0,
+        "size": 4096
+    }
+}

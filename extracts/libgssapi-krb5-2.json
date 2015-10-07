@@ -1,0 +1,288 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "etc": {
+            "deserializer": "directory",
+            "file": {
+                "gss": {
+                    "deserializer": "directory",
+                    "file": {
+                        "mech.d": {
+                            "deserializer": "directory",
+                            "file": {
+                                "README": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/27e753ba1dc72900d2892b8efef6e35e",
+                                    "stat": {
+                                        "ctime": 1424382017.0358472,
+                                        "mtime": 1423257817.0,
+                                        "size": 177,
+                                        "uid": 0,
+                                        "perm": 33188,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424382017.0398471,
+                                "mtime": 1423257817.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382017.0398471,
+                        "mtime": 1423257815.0,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424382017.0398471,
+                "mtime": 1423257815.0,
+                "size": 4096,
+                "uid": 0,
+                "perm": 16877,
+                "gid": 0
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libkrb5-3 (= 1.12.1+dfsg-10ubuntu0.1)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382017.0198472,
+                                "mtime": 1424382017.0198472,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "libkrb5support0 (>= 1.12~alpha1+dfsg)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382017.0198472,
+                                "mtime": 1424382017.0198472,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "libcomerr2 (>= 1.34)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382017.0198472,
+                                "mtime": 1424382017.0198472,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382017.0198472,
+                                "mtime": 1424382017.0198472,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "libk5crypto3 (>= 1.8+dfsg)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382017.0198472,
+                                "mtime": 1424382017.0198472,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382017.0198472,
+                        "mtime": 1424382017.0198472,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16893,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424382017.0198472,
+                "mtime": 1424382017.0198472,
+                "size": 4096,
+                "uid": 0,
+                "perm": 16893,
+                "gid": 0
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libgssapi_krb5.so.2": {
+                                    "deserializer": "symlink",
+                                    "file": "libgssapi_krb5.so.2.2",
+                                    "stat": {
+                                        "ctime": 1424382017.0398471,
+                                        "mtime": 1424382017.0398471,
+                                        "size": 21,
+                                        "uid": 0,
+                                        "perm": 41471,
+                                        "gid": 0
+                                    }
+                                },
+                                "libgssapi_krb5.so.2.2": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c288079fa7b5437730bf56359c382645",
+                                    "stat": {
+                                        "ctime": 1424382017.0398471,
+                                        "mtime": 1423257839.0,
+                                        "size": 292632,
+                                        "uid": 0,
+                                        "perm": 33188,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424382017.0398471,
+                                "mtime": 1423257840.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382017.0398471,
+                        "mtime": 1423257817.0,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libgssapi-krb5-2": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "NEWS.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "file": "../libk5crypto3/NEWS.Debian.gz",
+                                            "stat": {
+                                                "ctime": 1424382017.0398471,
+                                                "mtime": 1424382017.0398471,
+                                                "size": 30,
+                                                "uid": 0,
+                                                "perm": 41471,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "file": "../libk5crypto3/changelog.Debian.gz",
+                                            "stat": {
+                                                "ctime": 1424382017.0398471,
+                                                "mtime": 1424382017.0398471,
+                                                "size": 35,
+                                                "uid": 0,
+                                                "perm": 41471,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/898b819ff0deef88384163dad8ad087f",
+                                            "stat": {
+                                                "ctime": 1424382017.0398471,
+                                                "mtime": 1411411638.0,
+                                                "size": 55179,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424382017.0398471,
+                                        "mtime": 1423257884.0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424382017.0398471,
+                                "mtime": 1423257818.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382017.0398471,
+                        "mtime": 1423257818.0,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424382017.0398471,
+                "mtime": 1423257818.0,
+                "size": 4096,
+                "uid": 0,
+                "perm": 16877,
+                "gid": 0
+            }
+        }
+    },
+    "stat": {
+        "ctime": 1424382017.0398471,
+        "mtime": 1423257818.0,
+        "size": 4096,
+        "uid": 0,
+        "perm": 16877,
+        "gid": 0
+    }
+}

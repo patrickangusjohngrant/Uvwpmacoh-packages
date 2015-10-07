@@ -1,0 +1,578 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libcups2 (>= 1.6.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        },
+                        "libcupsppdc1 (>= 1.4.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        },
+                        "cups-common (>= 1.7.5-3ubuntu2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        },
+                        "libgcc1 (>= 1:4.1.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        },
+                        "libstdc++6 (>= 4.1.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.3913472,
+                                "perm": 16893,
+                                "mtime": 1424323411.3913472,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323411.3913472,
+                        "perm": 16893,
+                        "mtime": 1424323411.3913472,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323411.3913472,
+                "perm": 16893,
+                "mtime": 1424323411.3913472,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "cups": {
+                            "file": {
+                                "examples": {
+                                    "file": {
+                                        "r300-remote.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ddd56285fad41daf920ad85719168149",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1973
+                                            }
+                                        },
+                                        "laserjet-basic.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/aba4f3a21ecba2004f65996242579379",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4113472,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1940
+                                            }
+                                        },
+                                        "constraint.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9c7251effabd02ee04167cfccb20fbe2",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1263
+                                            }
+                                        },
+                                        "r300-basic.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/89177e5d4009eea92abc0e505abd72a4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1751
+                                            }
+                                        },
+                                        "custom.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e9747275161f1d8d2ff0e54d1863fa76",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4113472,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1202
+                                            }
+                                        },
+                                        "grouping.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fd11bce00a9e1df1c0694d327760594a",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4113472,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 729
+                                            }
+                                        },
+                                        "laserjet-pjl.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a634f9141fe3aa2ca6831920283d1b1c",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4193473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 2326
+                                            }
+                                        },
+                                        "r300-colorman.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/58732d3ed29c88f358f27cd74eac187e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4193473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1971
+                                            }
+                                        },
+                                        "postscript.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/32a9b98d758d61479411dd5140b35719",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 1228
+                                            }
+                                        },
+                                        "color.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/08dcb0d13af1ad883d21d4409cf04c4f",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 921
+                                            }
+                                        },
+                                        "minimum.drv": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4a7ac69f06e4698dc21449487c7cd3b6",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4153473,
+                                                "perm": 33188,
+                                                "mtime": 1413468654.0,
+                                                "size": 572
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323411.4233472,
+                                        "perm": 16877,
+                                        "mtime": 1413468654.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "ppdc": {
+                                    "file": {
+                                        "label.h": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/877cd20c177f833372a45d9ff78bbae8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4193473,
+                                                "perm": 33188,
+                                                "mtime": 1413468651.0,
+                                                "size": 1106
+                                            }
+                                        },
+                                        "hp.h": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6b3d606cd6e4d3c0ef32b0b3afe84ca0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4193473,
+                                                "perm": 33188,
+                                                "mtime": 1413468651.0,
+                                                "size": 821
+                                            }
+                                        },
+                                        "epson.h": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c76cd931961c739349c1ced717cc97d3",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4193473,
+                                                "perm": 33188,
+                                                "mtime": 1413468651.0,
+                                                "size": 1006
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323411.4233472,
+                                        "perm": 16877,
+                                        "mtime": 1413468665.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 16877,
+                                "mtime": 1413468665.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "cups-ppdc": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "../libcups2/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4233472,
+                                                "perm": 41471,
+                                                "mtime": 1424323411.4233472,
+                                                "size": 31
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cce01f5cf9ebd2a3873c3d47938934d4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4113472,
+                                                "perm": 33188,
+                                                "mtime": 1408037075.0,
+                                                "size": 3107
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323411.4233472,
+                                        "perm": 16877,
+                                        "mtime": 1413468736.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 16877,
+                                "mtime": 1413468667.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "ppdpo.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/af4cf678f14f98e154b83cab5a2305bf",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4073472,
+                                                "perm": 33188,
+                                                "mtime": 1413468669.0,
+                                                "size": 851
+                                            }
+                                        },
+                                        "ppdhtml.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/81e88d9db0c577df14f967f893156d77",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4073472,
+                                                "perm": 33188,
+                                                "mtime": 1413468669.0,
+                                                "size": 777
+                                            }
+                                        },
+                                        "ppdc.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a5e60539abcf1d3dd91a27fe2832eb58",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4073472,
+                                                "perm": 33188,
+                                                "mtime": 1413468669.0,
+                                                "size": 1353
+                                            }
+                                        },
+                                        "ppdmerge.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bdc36da084eed7766a0e2f62d85f0e5c",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4033473,
+                                                "perm": 33188,
+                                                "mtime": 1413468668.0,
+                                                "size": 765
+                                            }
+                                        },
+                                        "ppdi.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c4c67f950a4fd21ec51dde07ceb56cb0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4073472,
+                                                "perm": 33188,
+                                                "mtime": 1413468669.0,
+                                                "size": 802
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323411.4233472,
+                                        "perm": 16877,
+                                        "mtime": 1413468671.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "man5": {
+                                    "file": {
+                                        "ppdcfile.5.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bfeae29c383c23f96360c8f6ae9f808b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323411.4073472,
+                                                "perm": 33188,
+                                                "mtime": 1413468669.0,
+                                                "size": 1635
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323411.4233472,
+                                        "perm": 16877,
+                                        "mtime": 1413468671.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 16877,
+                                "mtime": 1413468665.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323411.4233472,
+                        "perm": 16877,
+                        "mtime": 1413468667.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "ppdi": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d7e3304ab423e47535e370d03061d305",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 33261,
+                                "mtime": 1413468682.0,
+                                "size": 10328
+                            }
+                        },
+                        "ppdpo": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7f5b3f11a996ce9d0ece41038e5b10bf",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 33261,
+                                "mtime": 1413468682.0,
+                                "size": 10328
+                            }
+                        },
+                        "ppdhtml": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/64b556c609d7d1bac3ee2d5f32775942",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 33261,
+                                "mtime": 1413468682.0,
+                                "size": 10328
+                            }
+                        },
+                        "ppdmerge": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ff15ab17a5ed8d2a18dc504ba5e218c4",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 33261,
+                                "mtime": 1413468682.0,
+                                "size": 14408
+                            }
+                        },
+                        "ppdc": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6825d6f8bae0db5401508e5b1d7ba219",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323411.4233472,
+                                "perm": 33261,
+                                "mtime": 1413468682.0,
+                                "size": 18520
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323411.4233472,
+                        "perm": 16877,
+                        "mtime": 1413468682.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323411.4233472,
+                "perm": 16877,
+                "mtime": 1413468665.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424323411.4273474,
+        "perm": 16877,
+        "mtime": 1413468669.0,
+        "size": 4096
+    }
+}

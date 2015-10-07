@@ -1,0 +1,201 @@
+{
+    "stat": {
+        "perm": 16877,
+        "gid": 0,
+        "size": 4096,
+        "mtime": 1423257818.0,
+        "ctime": 1424382104.412193,
+        "uid": 0
+    },
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1424382104.396193,
+                "ctime": 1424382104.396193,
+                "uid": 0
+            },
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1424382104.396193,
+                        "ctime": 1424382104.396193,
+                        "uid": 0
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424382104.396193,
+                                "ctime": 1424382104.396193,
+                                "uid": 0
+                            },
+                            "file": {},
+                            "deserializer": "directory"
+                        },
+                        "libkrb5support0 (>= 1.12~alpha1+dfsg)": {
+                            "stat": {
+                                "perm": 16893,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424382104.396193,
+                                "ctime": 1424382104.396193,
+                                "uid": 0
+                            },
+                            "file": {},
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1423257818.0,
+                "ctime": 1424382104.412193,
+                "uid": 0
+            },
+            "file": {
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1423257818.0,
+                        "ctime": 1424382104.412193,
+                        "uid": 0
+                    },
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1423257818.0,
+                                "ctime": 1424382104.412193,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libk5crypto3": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "gid": 0,
+                                        "size": 4096,
+                                        "mtime": 1423257892.0,
+                                        "ctime": 1424382104.412193,
+                                        "uid": 0
+                                    },
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "gid": 0,
+                                                "size": 38,
+                                                "mtime": 1424382104.412193,
+                                                "ctime": 1424382104.412193,
+                                                "uid": 0
+                                            },
+                                            "file": "../libkrb5support0/changelog.Debian.gz",
+                                            "deserializer": "symlink"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "gid": 0,
+                                                "size": 55179,
+                                                "mtime": 1411411638.0,
+                                                "ctime": 1424382104.412193,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/898b819ff0deef88384163dad8ad087f",
+                                            "deserializer": "url"
+                                        },
+                                        "NEWS.Debian.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "gid": 0,
+                                                "size": 33,
+                                                "mtime": 1424382104.412193,
+                                                "ctime": 1424382104.412193,
+                                                "uid": 0
+                                            },
+                                            "file": "../libkrb5support0/NEWS.Debian.gz",
+                                            "deserializer": "symlink"
+                                        }
+                                    },
+                                    "deserializer": "directory"
+                                }
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                },
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1423257817.0,
+                        "ctime": 1424382104.412193,
+                        "uid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1423257840.0,
+                                "ctime": 1424382104.412193,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libk5crypto.so.3": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "gid": 0,
+                                        "size": 18,
+                                        "mtime": 1424382104.412193,
+                                        "ctime": 1424382104.412193,
+                                        "uid": 0
+                                    },
+                                    "file": "libk5crypto.so.3.1",
+                                    "deserializer": "symlink"
+                                },
+                                "libk5crypto.so.3.1": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "gid": 0,
+                                        "size": 190920,
+                                        "mtime": 1423257840.0,
+                                        "ctime": 1424382104.412193,
+                                        "uid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/087dea1f2c2179f1c9994c74d20b8787",
+                                    "deserializer": "url"
+                                }
+                            },
+                            "deserializer": "directory"
+                        }
+                    },
+                    "deserializer": "directory"
+                }
+            },
+            "deserializer": "directory"
+        }
+    },
+    "deserializer": "directory"
+}

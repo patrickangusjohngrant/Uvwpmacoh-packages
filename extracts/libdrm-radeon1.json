@@ -1,0 +1,189 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "size": 4096,
+        "mtime": 1407837575.0,
+        "gid": 0,
+        "perm": 16877,
+        "ctime": 1424388520.9868557,
+        "uid": 0
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "mtime": 1407837565.0,
+                "gid": 0,
+                "perm": 16877,
+                "ctime": 1424388520.9868557,
+                "uid": 0
+            },
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "mtime": 1407837565.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388520.9868557,
+                        "uid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "mtime": 1407837571.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "ctime": 1424388520.9868557,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libdrm_radeon.so.1.0.1": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 51688,
+                                        "mtime": 1407837571.0,
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "ctime": 1424388520.9828556,
+                                        "uid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e2d7add17a311a4db6cb4b8f9fbcec2d"
+                                },
+                                "libdrm_radeon.so.1": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 22,
+                                        "mtime": 1424388520.9868557,
+                                        "gid": 0,
+                                        "perm": 41471,
+                                        "ctime": 1424388520.9868557,
+                                        "uid": 0
+                                    },
+                                    "file": "libdrm_radeon.so.1.0.1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "mtime": 1407837565.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "ctime": 1424388520.9868557,
+                        "uid": 0
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "mtime": 1407837565.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "ctime": 1424388520.9868557,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libdrm-radeon1": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "size": 4096,
+                                        "mtime": 1407837596.0,
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "ctime": 1424388520.9868557,
+                                        "uid": 0
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 15611,
+                                                "mtime": 1407837523.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424388520.9868557,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/acc80450c1bd42944061a30272f0c132"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "size": 30,
+                                                "mtime": 1424388520.9868557,
+                                                "gid": 0,
+                                                "perm": 41471,
+                                                "ctime": 1424388520.9868557,
+                                                "uid": 0
+                                            },
+                                            "file": "../libdrm2/changelog.Debian.gz"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "mtime": 1424388520.9628556,
+                "gid": 0,
+                "perm": 16893,
+                "ctime": 1424388520.9628556,
+                "uid": 0
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "mtime": 1424388520.9628556,
+                        "gid": 0,
+                        "perm": 16893,
+                        "ctime": 1424388520.9628556,
+                        "uid": 0
+                    },
+                    "file": {
+                        "libdrm2 (>= 2.4.38)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "mtime": 1424388520.9628556,
+                                "gid": 0,
+                                "perm": 16893,
+                                "ctime": 1424388520.9628556,
+                                "uid": 0
+                            },
+                            "file": {}
+                        },
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "mtime": 1424388520.9628556,
+                                "gid": 0,
+                                "perm": 16893,
+                                "ctime": 1424388520.9628556,
+                                "uid": 0
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

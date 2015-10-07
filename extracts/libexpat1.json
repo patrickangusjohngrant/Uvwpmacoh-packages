@@ -1,0 +1,227 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "size": 4096,
+        "uid": 0,
+        "mtime": 1413922231.0,
+        "gid": 0,
+        "perm": 16877,
+        "ctime": 1424384684.5070257
+    },
+    "file": {
+        "lib": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "uid": 0,
+                "mtime": 1413922227.0,
+                "gid": 0,
+                "perm": 16877,
+                "ctime": 1424384684.5070257
+            },
+            "file": {
+                "x86_64-linux-gnu": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "uid": 0,
+                        "mtime": 1413922230.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "ctime": 1424384684.5070257
+                    },
+                    "file": {
+                        "libexpat.so.1": {
+                            "deserializer": "symlink",
+                            "stat": {
+                                "size": 17,
+                                "uid": 0,
+                                "mtime": 1424384684.5070257,
+                                "gid": 0,
+                                "perm": 41471,
+                                "ctime": 1424384684.5070257
+                            },
+                            "file": "libexpat.so.1.6.0"
+                        },
+                        "libexpat.so.1.6.0": {
+                            "deserializer": "url",
+                            "stat": {
+                                "size": 166000,
+                                "uid": 0,
+                                "mtime": 1413922230.0,
+                                "gid": 0,
+                                "perm": 33188,
+                                "ctime": 1424384684.5070257
+                            },
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/05043c5378311f72a2c8118e20eea512"
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "uid": 0,
+                "mtime": 1413922227.0,
+                "gid": 0,
+                "perm": 16877,
+                "ctime": 1424384684.5070257
+            },
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "uid": 0,
+                        "mtime": 1413922227.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "ctime": 1424384684.5070257
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "uid": 0,
+                                "mtime": 1413922230.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "ctime": 1424384684.5070257
+                            },
+                            "file": {
+                                "libexpatw.so.1": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 18,
+                                        "uid": 0,
+                                        "mtime": 1424384684.5070257,
+                                        "gid": 0,
+                                        "perm": 41471,
+                                        "ctime": 1424384684.5070257
+                                    },
+                                    "file": "libexpatw.so.1.6.0"
+                                },
+                                "libexpatw.so.1.6.0": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 170096,
+                                        "uid": 0,
+                                        "mtime": 1413922230.0,
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "ctime": 1424384684.5070257
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/cbb5a8564806da2b551506e0f2ebbca1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "uid": 0,
+                        "mtime": 1413922227.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "ctime": 1424384684.5070257
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "uid": 0,
+                                "mtime": 1413922227.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "ctime": 1424384684.5070257
+                            },
+                            "file": {
+                                "libexpat1": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "mtime": 1413922238.0,
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "ctime": 1424384684.5070257
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 1480,
+                                                "uid": 0,
+                                                "mtime": 1332268782.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424384684.5070257
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/33194e4eed85a1f3406b6a87aa04fae3"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 1217,
+                                                "uid": 0,
+                                                "mtime": 1413922238.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "ctime": 1424384684.5070257
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7f8fd88a7ffd87918d0f383fb0b39be1"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "uid": 0,
+                "mtime": 1424384684.4910257,
+                "gid": 0,
+                "perm": 16893,
+                "ctime": 1424384684.4910257
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "uid": 0,
+                        "mtime": 1424384684.4910257,
+                        "gid": 0,
+                        "perm": 16893,
+                        "ctime": 1424384684.4910257
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "uid": 0,
+                                "mtime": 1424384684.4910257,
+                                "gid": 0,
+                                "perm": 16893,
+                                "ctime": 1424384684.4910257
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

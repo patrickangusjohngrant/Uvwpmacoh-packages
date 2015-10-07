@@ -1,0 +1,226 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "ghostscript (= 9.14~dfsg-0ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.8985639,
+                                "perm": 16893,
+                                "mtime": 1424330017.8985639,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.8985639,
+                                "perm": 16893,
+                                "mtime": 1424330017.8985639,
+                                "size": 4096
+                            }
+                        },
+                        "libx11-6": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.8985639,
+                                "perm": 16893,
+                                "mtime": 1424330017.8985639,
+                                "size": 4096
+                            }
+                        },
+                        "libxt6": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.8985639,
+                                "perm": 16893,
+                                "mtime": 1424330017.8985639,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424330017.8985639,
+                        "perm": 16893,
+                        "mtime": 1424330017.8985639,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424330017.8985639,
+                "perm": 16893,
+                "mtime": 1424330017.8985639,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "ghostscript-x": {
+                                    "file": {
+                                        "NEWS.Debian.gz": {
+                                            "file": "../libgs9/NEWS.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424330017.9185638,
+                                                "perm": 41471,
+                                                "mtime": 1424330017.9185638,
+                                                "size": 24
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libgs9/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424330017.9185638,
+                                                "perm": 41471,
+                                                "mtime": 1424330017.9185638,
+                                                "size": 29
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/de52b5bb16a2c35b77c1fc2aff269df5",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424330017.9185638,
+                                                "perm": 33188,
+                                                "mtime": 1363184447.0,
+                                                "size": 29648
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424330017.9185638,
+                                        "perm": 16877,
+                                        "mtime": 1400177563.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.9185638,
+                                "perm": 16877,
+                                "mtime": 1400177543.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424330017.9185638,
+                        "perm": 16877,
+                        "mtime": 1400177543.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "ghostscript": {
+                            "file": {
+                                "9.14": {
+                                    "file": {
+                                        "X11.so": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/11bee2dfbb01c70e8207cd7d3b56569b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424330017.914564,
+                                                "perm": 33188,
+                                                "mtime": 1400177550.0,
+                                                "size": 93784
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424330017.9185638,
+                                        "perm": 16877,
+                                        "mtime": 1400177550.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424330017.9185638,
+                                "perm": 16877,
+                                "mtime": 1400177541.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424330017.9185638,
+                        "perm": 16877,
+                        "mtime": 1400177544.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424330017.9185638,
+                "perm": 16877,
+                "mtime": 1400177544.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424330017.9185638,
+        "perm": 16877,
+        "mtime": 1400177544.0,
+        "size": 4096
+    }
+}

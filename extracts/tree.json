@@ -1,0 +1,214 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "bin": {
+                    "deserializer": "directory",
+                    "file": {
+                        "tree": {
+                            "deserializer": "url",
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/de36d21d358226011caf64bea9945097",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424728539.0889528,
+                                "perm": 33261,
+                                "uid": 0,
+                                "mtime": 1398618758.0,
+                                "size": 65536
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424728539.0929527,
+                        "perm": 16877,
+                        "uid": 0,
+                        "mtime": 1398618758.0,
+                        "size": 4096
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "tree": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/59642898c4ef61c594469efca6083639",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424728539.0929527,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1398618762.0,
+                                                "size": 1755
+                                            }
+                                        },
+                                        "TODO": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/312b255ce10210cef109a19c7484ee05",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424728539.0929527,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1308926093.0,
+                                                "size": 2210
+                                            }
+                                        },
+                                        "README.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/395435fa9997747ba2edc60df59930ca",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424728539.0929527,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1398112287.0,
+                                                "size": 2672
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e51a3c84c3b33325acc683347bfb4d3f",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424728539.0929527,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1398587674.0,
+                                                "size": 2441
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "ctime": 1424728539.0929527,
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "mtime": 1398618758.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424728539.0929527,
+                                "perm": 16877,
+                                "uid": 0,
+                                "mtime": 1398618757.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "deserializer": "directory",
+                            "file": {
+                                "man1": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "tree.1.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9b7471de88786eee0299fe21a85f012b",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424728539.0889528,
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "mtime": 1398618758.0,
+                                                "size": 4430
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "ctime": 1424728539.0929527,
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "mtime": 1398618758.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424728539.0929527,
+                                "perm": 16877,
+                                "uid": 0,
+                                "mtime": 1398618757.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424728539.0929527,
+                        "perm": 16877,
+                        "uid": 0,
+                        "mtime": 1398618757.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "ctime": 1424728539.0929527,
+                "perm": 16877,
+                "uid": 0,
+                "mtime": 1398618757.0,
+                "size": 4096
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424728539.0849526,
+                                "perm": 16893,
+                                "uid": 0,
+                                "mtime": 1424728539.0849526,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424728539.0849526,
+                        "perm": 16893,
+                        "uid": 0,
+                        "mtime": 1424728539.0849526,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "ctime": 1424728539.0849526,
+                "perm": 16893,
+                "uid": 0,
+                "mtime": 1424728539.0849526,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "gid": 0,
+        "ctime": 1424728539.0929527,
+        "perm": 16877,
+        "uid": 0,
+        "mtime": 1398618759.0,
+        "size": 4096
+    }
+}

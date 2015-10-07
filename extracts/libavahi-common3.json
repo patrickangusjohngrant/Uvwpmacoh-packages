@@ -1,0 +1,213 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424301146.8292933,
+                                "perm": 16893,
+                                "mtime": 1424301146.8292933,
+                                "size": 4096
+                            }
+                        },
+                        "libavahi-common-data": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424301146.8292933,
+                                "perm": 16893,
+                                "mtime": 1424301146.8292933,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424301146.8292933,
+                        "perm": 16893,
+                        "mtime": 1424301146.8292933,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424301146.8292933,
+                "perm": 16893,
+                "mtime": 1424301146.8292933,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libavahi-common3": {
+                                    "file": {
+                                        "README": {
+                                            "file": "../libavahi-common-data/README",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424301146.8452933,
+                                                "perm": 41471,
+                                                "mtime": 1424301146.8452933,
+                                                "size": 30
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "../libavahi-common-data/NEWS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424301146.8452933,
+                                                "perm": 41471,
+                                                "mtime": 1424301146.8452933,
+                                                "size": 31
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libavahi-common-data/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424301146.8452933,
+                                                "perm": 41471,
+                                                "mtime": 1424301146.8452933,
+                                                "size": 43
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/026515c317e1591092392844df5f1ee0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424301146.841293,
+                                                "perm": 33188,
+                                                "mtime": 1388406235.0,
+                                                "size": 5440
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424301146.8452933,
+                                        "perm": 16877,
+                                        "mtime": 1406899296.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424301146.8452933,
+                                "perm": 16877,
+                                "mtime": 1406899245.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424301146.8452933,
+                        "perm": 16877,
+                        "mtime": 1406899245.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libavahi-common.so.3.5.3": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/07326528611bc10e7abd3009ffb39568",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424301146.841293,
+                                        "perm": 33188,
+                                        "mtime": 1406899260.0,
+                                        "size": 47952
+                                    }
+                                },
+                                "libavahi-common.so.3": {
+                                    "file": "libavahi-common.so.3.5.3",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424301146.841293,
+                                        "perm": 41471,
+                                        "mtime": 1424301146.841293,
+                                        "size": 24
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424301146.8452933,
+                                "perm": 16877,
+                                "mtime": 1406899260.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424301146.8452933,
+                        "perm": 16877,
+                        "mtime": 1406899244.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424301146.8452933,
+                "perm": 16877,
+                "mtime": 1406899245.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424301146.8452933,
+        "perm": 16877,
+        "mtime": 1406899261.0,
+        "size": 4096
+    }
+}

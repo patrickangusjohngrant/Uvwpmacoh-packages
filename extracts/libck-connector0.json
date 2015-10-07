@@ -1,0 +1,189 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libdbus-1-3 (>= 1.0.2)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382240.0367322,
+                                "uid": 0,
+                                "mtime": 1424382240.0367322,
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.3.4)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424382240.0367322,
+                                "uid": 0,
+                                "mtime": 1424382240.0367322,
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382240.0367322,
+                        "uid": 0,
+                        "mtime": 1424382240.0367322,
+                        "gid": 0,
+                        "perm": 16893,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424382240.0367322,
+                "uid": 0,
+                "mtime": 1424382240.0367322,
+                "gid": 0,
+                "perm": 16893,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libck-connector0": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e853f84aca13aa29e0481e98f79892f4",
+                                            "stat": {
+                                                "ctime": 1424382240.0447323,
+                                                "uid": 0,
+                                                "mtime": 1398480308.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 1431
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/02cd41580d20b470b148fe1fb2319de0",
+                                            "stat": {
+                                                "ctime": 1424382240.0447323,
+                                                "uid": 0,
+                                                "mtime": 1398268114.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 2693
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424382240.0487323,
+                                        "uid": 0,
+                                        "mtime": 1398480293.0,
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424382240.0487323,
+                                "uid": 0,
+                                "mtime": 1398480292.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382240.0487323,
+                        "uid": 0,
+                        "mtime": 1398480292.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libck-connector.so.0": {
+                                    "deserializer": "symlink",
+                                    "file": "libck-connector.so.0.0.0",
+                                    "stat": {
+                                        "ctime": 1424382240.0487323,
+                                        "uid": 0,
+                                        "mtime": 1424382240.0487323,
+                                        "gid": 0,
+                                        "perm": 41471,
+                                        "size": 24
+                                    }
+                                },
+                                "libck-connector.so.0.0.0": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e7ea61cf3a13174b46b2b3141a013b45",
+                                    "stat": {
+                                        "ctime": 1424382240.0487323,
+                                        "uid": 0,
+                                        "mtime": 1398480296.0,
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "size": 14536
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424382240.0487323,
+                                "uid": 0,
+                                "mtime": 1398480296.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424382240.0487323,
+                        "uid": 0,
+                        "mtime": 1398480292.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424382240.0487323,
+                "uid": 0,
+                "mtime": 1398480292.0,
+                "gid": 0,
+                "perm": 16877,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "ctime": 1424382240.0487323,
+        "uid": 0,
+        "mtime": 1398480297.0,
+        "gid": 0,
+        "perm": 16877,
+        "size": 4096
+    }
+}

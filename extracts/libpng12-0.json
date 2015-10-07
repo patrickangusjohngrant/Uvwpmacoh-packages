@@ -1,0 +1,324 @@
+{
+    "stat": {
+        "perm": 16877,
+        "size": 4096,
+        "mtime": 1413922204.0,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424384731.155218
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "size": 4096,
+                "mtime": 1424384731.135218,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424384731.135218
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "size": 4096,
+                        "mtime": 1424384731.135218,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424384731.135218
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424384731.135218,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.135218
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424384731.135218,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.135218
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "lib": {
+            "stat": {
+                "perm": 16877,
+                "size": 4096,
+                "mtime": 1413922201.0,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424384731.155218
+            },
+            "deserializer": "directory",
+            "file": {
+                "x86_64-linux-gnu": {
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1413922203.0,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424384731.155218
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libpng12.so.0": {
+                            "stat": {
+                                "perm": 41471,
+                                "size": 18,
+                                "mtime": 1424384731.155218,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.155218
+                            },
+                            "deserializer": "symlink",
+                            "file": "libpng12.so.0.51.0"
+                        },
+                        "libpng12.so.0.51.0": {
+                            "stat": {
+                                "perm": 33188,
+                                "size": 153936,
+                                "mtime": 1413922203.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.151218
+                            },
+                            "deserializer": "url",
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fce86dd5b4a51095a6adab73be748033"
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "size": 4096,
+                "mtime": 1413922201.0,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424384731.155218
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1413922201.0,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424384731.155218
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1413922201.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.155218
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpng12.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "size": 35,
+                                        "mtime": 1424384731.155218,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424384731.155218
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "/lib/x86_64-linux-gnu/libpng12.so.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1413922201.0,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424384731.155218
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1413922201.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.155218
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpng12-0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1413922208.0,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424384731.155218
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "TODO": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 1231,
+                                                "mtime": 1245951985.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.151218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/afa7b8ea9c36d01d749424cc9abc8d29"
+                                        },
+                                        "ANNOUNCE": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 2249,
+                                                "mtime": 1391658754.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.155218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3de8199c95ef95d2d4b359b95c167c3e"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 4747,
+                                                "mtime": 1391496395.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.155218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3cf0b6cc5304828a927b3cb62a46204d"
+                                        },
+                                        "KNOWNBUG": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 848,
+                                                "mtime": 1391658755.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.151218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ed0abdf7addeaca1926ac5829dd3737a"
+                                        },
+                                        "README.Debian": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 1333,
+                                                "mtime": 1391496395.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.155218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4868c587ec3915fb79cf41cfb3505398"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 1217,
+                                                "mtime": 1413922208.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.151218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ffc16a66fbc49ecd22063b5c1f4ad6a3"
+                                        },
+                                        "libpng-1.2.51.txt.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 42833,
+                                                "mtime": 1413922163.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.151218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a893f2b69325e7ac8b81c232e30fa9c8"
+                                        },
+                                        "README.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 5340,
+                                                "mtime": 1391658755.0,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424384731.155218
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/117414617d952d8a55e7a6ce2ecbe96c"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "doc-base": {
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1413922201.0,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424384731.155218
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpng12": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "size": 1366,
+                                        "mtime": 1406290442.0,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424384731.151218
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/31582513da2864f7626b6b2789d89498"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

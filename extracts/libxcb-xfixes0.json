@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "ctime": 1424389386.2709992,
+        "mtime": 1389781893.0,
+        "gid": 0,
+        "uid": 0,
+        "size": 4096,
+        "perm": 16877
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "ctime": 1424389386.262999,
+                "mtime": 1424389386.262999,
+                "gid": 0,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16893
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "ctime": 1424389386.262999,
+                        "mtime": 1424389386.262999,
+                        "gid": 0,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16893
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.2.5)": {
+                            "stat": {
+                                "ctime": 1424389386.262999,
+                                "mtime": 1424389386.262999,
+                                "gid": 0,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libxcb1": {
+                            "stat": {
+                                "ctime": 1424389386.262999,
+                                "mtime": 1424389386.262999,
+                                "gid": 0,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "ctime": 1424389386.2709992,
+                "mtime": 1389781854.0,
+                "gid": 0,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16877
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "ctime": 1424389386.2709992,
+                        "mtime": 1389781853.0,
+                        "gid": 0,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "ctime": 1424389386.2709992,
+                                "mtime": 1389781863.0,
+                                "gid": 0,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-xfixes.so.0": {
+                                    "stat": {
+                                        "ctime": 1424389386.2709992,
+                                        "mtime": 1424389386.2709992,
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "size": 22,
+                                        "perm": 41471
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libxcb-xfixes.so.0.0.0"
+                                },
+                                "libxcb-xfixes.so.0.0.0": {
+                                    "stat": {
+                                        "ctime": 1424389386.2709992,
+                                        "mtime": 1389781863.0,
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "size": 26704,
+                                        "perm": 33188
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/fb4dfaa20e99459f49e0c8639500abfa"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "ctime": 1424389386.2709992,
+                        "mtime": 1389781854.0,
+                        "gid": 0,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "ctime": 1424389386.2709992,
+                                "mtime": 1389781854.0,
+                                "gid": 0,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-xfixes0": {
+                                    "stat": {
+                                        "ctime": 1424389386.2709992,
+                                        "mtime": 1389782013.0,
+                                        "gid": 0,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "perm": 16877
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "ctime": 1424389386.2709992,
+                                                "mtime": 1424389386.2709992,
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "size": 30,
+                                                "perm": 41471
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "../libxcb1/changelog.Debian.gz"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "ctime": 1424389386.2709992,
+                                                "mtime": 1389781854.0,
+                                                "gid": 0,
+                                                "uid": 0,
+                                                "size": 1780,
+                                                "perm": 33188
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/360fadb0d222af6607a189d435e3a9f3"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

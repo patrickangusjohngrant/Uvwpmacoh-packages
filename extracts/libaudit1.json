@@ -1,0 +1,189 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424326874.25248,
+                                "perm": 16893,
+                                "mtime": 1424326874.25248,
+                                "size": 4096
+                            }
+                        },
+                        "libaudit-common (>= 1:2.3.7-1ubuntu1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424326874.25248,
+                                "perm": 16893,
+                                "mtime": 1424326874.25248,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424326874.25248,
+                        "perm": 16893,
+                        "mtime": 1424326874.25248,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424326874.25248,
+                "perm": 16893,
+                "mtime": 1424326874.25248,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libaudit1": {
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0af1c0fecd70c8796a7d0b249ef145de",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424326874.2684803,
+                                                "perm": 33188,
+                                                "mtime": 1412339695.0,
+                                                "size": 2115
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/10ea3dd50fec23e13a9d1d42f762bbdc",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424326874.2684803,
+                                                "perm": 33188,
+                                                "mtime": 1402747383.0,
+                                                "size": 922
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424326874.2684803,
+                                        "perm": 16877,
+                                        "mtime": 1412339675.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424326874.2684803,
+                                "perm": 16877,
+                                "mtime": 1412339671.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424326874.2684803,
+                        "perm": 16877,
+                        "mtime": 1412339671.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424326874.2684803,
+                "perm": 16877,
+                "mtime": 1412339671.0,
+                "size": 4096
+            }
+        },
+        "lib": {
+            "file": {
+                "x86_64-linux-gnu": {
+                    "file": {
+                        "libaudit.so.1.0.0": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c3fb0f801d5ec4e11e90e1335eeefe36",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424326874.26448,
+                                "perm": 33188,
+                                "mtime": 1412339680.0,
+                                "size": 109032
+                            }
+                        },
+                        "libaudit.so.1": {
+                            "file": "libaudit.so.1.0.0",
+                            "deserializer": "symlink",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424326874.2684803,
+                                "perm": 41471,
+                                "mtime": 1424326874.2684803,
+                                "size": 17
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424326874.2684803,
+                        "perm": 16877,
+                        "mtime": 1412339680.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424326874.2684803,
+                "perm": 16877,
+                "mtime": 1412339670.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424326874.2684803,
+        "perm": 16877,
+        "mtime": 1412339681.0,
+        "size": 4096
+    }
+}

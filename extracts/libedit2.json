@@ -1,0 +1,239 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "size": 4096,
+        "gid": 0,
+        "ctime": 1424381943.1675558,
+        "mtime": 1404688189.0,
+        "perm": 16877,
+        "uid": 0
+    },
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "ctime": 1424381943.1475556,
+                "mtime": 1424381943.1475556,
+                "perm": 16893,
+                "uid": 0
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424381943.1515555,
+                        "mtime": 1424381943.1515555,
+                        "perm": 16893,
+                        "uid": 0
+                    },
+                    "file": {
+                        "libc6 (>= 2.17)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424381943.1475556,
+                                "mtime": 1424381943.1475556,
+                                "perm": 16893,
+                                "uid": 0
+                            },
+                            "file": {}
+                        },
+                        "libtinfo5": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424381943.1515555,
+                                "mtime": 1424381943.1515555,
+                                "perm": 16893,
+                                "uid": 0
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "ctime": 1424381943.1675558,
+                "mtime": 1404688187.0,
+                "perm": 16877,
+                "uid": 0
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424381943.1675558,
+                        "mtime": 1404688187.0,
+                        "perm": 16877,
+                        "uid": 0
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424381943.1675558,
+                                "mtime": 1404688187.0,
+                                "perm": 16877,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libedit2": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "ctime": 1424381943.1675558,
+                                        "mtime": 1404688188.0,
+                                        "perm": 16877,
+                                        "uid": 0
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 1995,
+                                                "gid": 0,
+                                                "ctime": 1424381943.1635556,
+                                                "mtime": 1404666390.0,
+                                                "perm": 33188,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/eda44fd56a0ef44c440ecc106650ed2d"
+                                        },
+                                        "TODO.Debian": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 64,
+                                                "gid": 0,
+                                                "ctime": 1424381943.1635556,
+                                                "mtime": 1404666390.0,
+                                                "perm": 33188,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4959b54a4e8042b998561e290f5f77e1"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 1157,
+                                                "gid": 0,
+                                                "ctime": 1424381943.1635556,
+                                                "mtime": 1404688192.0,
+                                                "perm": 33188,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d00c95733180d98a2a08ced5410c6175"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424381943.1675558,
+                                "mtime": 1404688187.0,
+                                "perm": 16877,
+                                "uid": 0
+                            },
+                            "file": {
+                                "overrides": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "ctime": 1424381943.1675558,
+                                        "mtime": 1404688187.0,
+                                        "perm": 16877,
+                                        "uid": 0
+                                    },
+                                    "file": {
+                                        "libedit2": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "size": 231,
+                                                "gid": 0,
+                                                "ctime": 1424381943.1635556,
+                                                "mtime": 1404666390.0,
+                                                "perm": 33188,
+                                                "uid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5aa1af3cfbc185b05ee615dae85f1d30"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "ctime": 1424381943.1675558,
+                        "mtime": 1404688187.0,
+                        "perm": 16877,
+                        "uid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "ctime": 1424381943.1675558,
+                                "mtime": 1404688189.0,
+                                "perm": 16877,
+                                "uid": 0
+                            },
+                            "file": {
+                                "libedit.so.2.0.51": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 179184,
+                                        "gid": 0,
+                                        "ctime": 1424381943.1635556,
+                                        "mtime": 1404688189.0,
+                                        "perm": 33188,
+                                        "uid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2e0ace6f8585d007ee0113d7128971c9"
+                                },
+                                "libedit.so.2": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 17,
+                                        "gid": 0,
+                                        "ctime": 1424381943.1635556,
+                                        "mtime": 1424381943.1635556,
+                                        "perm": 41471,
+                                        "uid": 0
+                                    },
+                                    "file": "libedit.so.2.0.51"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

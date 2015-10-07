@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "perm": 16877,
+        "ctime": 1424385378.7101815,
+        "uid": 0,
+        "size": 4096,
+        "gid": 0,
+        "mtime": 1399331881.0
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "ctime": 1424385378.6981814,
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1424385378.6981814
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "ctime": 1424385378.6981814,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1424385378.6981814
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libx11-6": {
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424385378.6981814,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424385378.6981814
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424385378.6981814,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424385378.6981814
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "ctime": 1424385378.7101815,
+                "uid": 0,
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1399331877.0
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424385378.7101815,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1399331877.0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "ctime": 1424385378.7101815,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1399331880.0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libXmuu.so.1": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "ctime": 1424385378.7101815,
+                                        "uid": 0,
+                                        "size": 16,
+                                        "gid": 0,
+                                        "mtime": 1424385378.7101815
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libXmuu.so.1.0.0"
+                                },
+                                "libXmuu.so.1.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "ctime": 1424385378.7101815,
+                                        "uid": 0,
+                                        "size": 14472,
+                                        "gid": 0,
+                                        "mtime": 1399331880.0
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/f65c98c158c8aeb1f5ae93c105e76124"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424385378.7101815,
+                        "uid": 0,
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1399331877.0
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "ctime": 1424385378.7101815,
+                                "uid": 0,
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1399331877.0
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxmuu1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "ctime": 1424385378.7101815,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "gid": 0,
+                                        "mtime": 1399331880.0
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424385378.7101815,
+                                                "uid": 0,
+                                                "size": 2116,
+                                                "gid": 0,
+                                                "mtime": 1399331895.0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/91927d5ad66a5f6d4982d2c1d302d9e1"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424385378.7101815,
+                                                "uid": 0,
+                                                "size": 3636,
+                                                "gid": 0,
+                                                "mtime": 1399331855.0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2d251d0d641d530c647a029c3b6c08bc"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

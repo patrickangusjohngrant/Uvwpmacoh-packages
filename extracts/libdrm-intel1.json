@@ -1,0 +1,201 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "gid": 0,
+        "ctime": 1424387031.2191825,
+        "uid": 0,
+        "size": 4096,
+        "perm": 16877,
+        "mtime": 1407837575.0
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "gid": 0,
+                "ctime": 1424387031.2191825,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16877,
+                "mtime": 1407837565.0
+            },
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424387031.2191825,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "mtime": 1407837565.0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424387031.2191825,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "mtime": 1407837569.0
+                            },
+                            "file": {
+                                "libdrm_intel.so.1.0.0": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "gid": 0,
+                                        "ctime": 1424387031.2151825,
+                                        "uid": 0,
+                                        "size": 135168,
+                                        "perm": 33188,
+                                        "mtime": 1407837569.0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6329e1a0ece480ae8d1b42ec0226cc7d"
+                                },
+                                "libdrm_intel.so.1": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "gid": 0,
+                                        "ctime": 1424387031.2191825,
+                                        "uid": 0,
+                                        "size": 21,
+                                        "perm": 41471,
+                                        "mtime": 1424387031.2191825
+                                    },
+                                    "file": "libdrm_intel.so.1.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424387031.2191825,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877,
+                        "mtime": 1407837565.0
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424387031.2191825,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877,
+                                "mtime": 1407837565.0
+                            },
+                            "file": {
+                                "libdrm-intel1": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "gid": 0,
+                                        "ctime": 1424387031.2191825,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "perm": 16877,
+                                        "mtime": 1407837589.0
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424387031.2191825,
+                                                "uid": 0,
+                                                "size": 15611,
+                                                "perm": 33188,
+                                                "mtime": 1407837523.0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/acc80450c1bd42944061a30272f0c132"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "gid": 0,
+                                                "ctime": 1424387031.2191825,
+                                                "uid": 0,
+                                                "size": 30,
+                                                "perm": 41471,
+                                                "mtime": 1424387031.2191825
+                                            },
+                                            "file": "../libdrm2/changelog.Debian.gz"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "gid": 0,
+                "ctime": 1424387031.2031825,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16893,
+                "mtime": 1424387031.2031825
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "gid": 0,
+                        "ctime": 1424387031.2031825,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16893,
+                        "mtime": 1424387031.2031825
+                    },
+                    "file": {
+                        "libdrm2 (>= 2.4.38)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424387031.2031825,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893,
+                                "mtime": 1424387031.2031825
+                            },
+                            "file": {}
+                        },
+                        "libc6 (>= 2.17)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424387031.2031825,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893,
+                                "mtime": 1424387031.2031825
+                            },
+                            "file": {}
+                        },
+                        "libpciaccess0": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "gid": 0,
+                                "ctime": 1424387031.2031825,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893,
+                                "mtime": 1424387031.2031825
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

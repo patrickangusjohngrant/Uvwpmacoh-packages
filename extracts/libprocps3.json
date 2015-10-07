@@ -1,0 +1,189 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libprocps3": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "NEWS.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4e66b378964dfac167ca2ded53749b63",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424382387.7413216,
+                                                "size": 386,
+                                                "mtime": 1337494117.0,
+                                                "gid": 0,
+                                                "uid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f6bc4975565e26ee2672864d40d6f39d",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424382387.7413216,
+                                                "size": 2146,
+                                                "mtime": 1337494117.0,
+                                                "gid": 0,
+                                                "uid": 0
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a6a539996809931faa73b0a4182bbc96",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "ctime": 1424382387.7413216,
+                                                "size": 1961,
+                                                "mtime": 1423599164.0,
+                                                "gid": 0,
+                                                "uid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "perm": 16877,
+                                        "ctime": 1424382387.7453215,
+                                        "size": 4096,
+                                        "mtime": 1423599164.0,
+                                        "gid": 0,
+                                        "uid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "perm": 16877,
+                                "ctime": 1424382387.7453215,
+                                "size": 4096,
+                                "mtime": 1423599153.0,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424382387.7453215,
+                        "size": 4096,
+                        "mtime": 1423599153.0,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "perm": 16877,
+                "ctime": 1424382387.7453215,
+                "size": 4096,
+                "mtime": 1423599153.0,
+                "gid": 0,
+                "uid": 0
+            }
+        },
+        "lib": {
+            "deserializer": "directory",
+            "file": {
+                "x86_64-linux-gnu": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libprocps.so.3.0.0": {
+                            "deserializer": "url",
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ab9260a8dfdc85d2021097edc908a2c0",
+                            "stat": {
+                                "perm": 33188,
+                                "ctime": 1424382387.7413216,
+                                "size": 76640,
+                                "mtime": 1423599157.0,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        },
+                        "libprocps.so.3": {
+                            "deserializer": "symlink",
+                            "file": "libprocps.so.3.0.0",
+                            "stat": {
+                                "perm": 41471,
+                                "ctime": 1424382387.7453215,
+                                "size": 18,
+                                "mtime": 1424382387.7453215,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16877,
+                        "ctime": 1424382387.7453215,
+                        "size": 4096,
+                        "mtime": 1423599157.0,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "perm": 16877,
+                "ctime": 1424382387.7453215,
+                "size": 4096,
+                "mtime": 1423599153.0,
+                "gid": 0,
+                "uid": 0
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "perm": 16893,
+                                "ctime": 1424382387.7293215,
+                                "size": 4096,
+                                "mtime": 1424382387.7293215,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "perm": 16893,
+                        "ctime": 1424382387.7293215,
+                        "size": 4096,
+                        "mtime": 1424382387.7293215,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "stat": {
+                "perm": 16893,
+                "ctime": 1424382387.7293215,
+                "size": 4096,
+                "mtime": 1424382387.7293215,
+                "gid": 0,
+                "uid": 0
+            }
+        }
+    },
+    "stat": {
+        "perm": 16877,
+        "ctime": 1424382387.7453215,
+        "size": 4096,
+        "mtime": 1423599157.0,
+        "gid": 0,
+        "uid": 0
+    }
+}

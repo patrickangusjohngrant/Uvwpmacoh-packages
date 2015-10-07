@@ -1,0 +1,291 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "man": {
+                            "deserializer": "directory",
+                            "file": {
+                                "man4": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "vesa.4.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0b0ff4d8e1d193157da7b01e233f21cf",
+                                            "stat": {
+                                                "ctime": 1424390401.487952,
+                                                "mtime": 1410359474.0,
+                                                "size": 936,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424390401.487952,
+                                        "mtime": 1410359474.0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424390401.487952,
+                                "mtime": 1410359473.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        },
+                        "bug": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-video-vesa": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "script": {
+                                            "deserializer": "symlink",
+                                            "file": "../xserver-xorg-core/script",
+                                            "stat": {
+                                                "ctime": 1424390401.487952,
+                                                "mtime": 1424390401.487952,
+                                                "size": 27,
+                                                "uid": 0,
+                                                "perm": 41471,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424390401.487952,
+                                        "mtime": 1410359474.0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424390401.487952,
+                                "mtime": 1410359474.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-video-vesa": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/856e1c2ceb94cfe47896ec8a6c6485e8",
+                                            "stat": {
+                                                "ctime": 1424390401.487952,
+                                                "mtime": 1410359479.0,
+                                                "size": 1278,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8f83309724bfa89435607978814ee75f",
+                                            "stat": {
+                                                "ctime": 1424390401.487952,
+                                                "mtime": 1410359456.0,
+                                                "size": 1420,
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424390401.487952,
+                                        "mtime": 1410359474.0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424390401.487952,
+                                "mtime": 1410359473.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424390401.487952,
+                        "mtime": 1410359474.0,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xorg": {
+                            "deserializer": "directory",
+                            "file": {
+                                "modules": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "drivers": {
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "vesa_drv.so": {
+                                                    "deserializer": "url",
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/72c685312df5ecf8767b9631fe8c46fe",
+                                                    "stat": {
+                                                        "ctime": 1424390401.483952,
+                                                        "mtime": 1410359475.0,
+                                                        "size": 31816,
+                                                        "uid": 0,
+                                                        "perm": 33188,
+                                                        "gid": 0
+                                                    }
+                                                }
+                                            },
+                                            "stat": {
+                                                "ctime": 1424390401.487952,
+                                                "mtime": 1410359475.0,
+                                                "size": 4096,
+                                                "uid": 0,
+                                                "perm": 16877,
+                                                "gid": 0
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "ctime": 1424390401.487952,
+                                        "mtime": 1410359473.0,
+                                        "size": 4096,
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "ctime": 1424390401.487952,
+                                "mtime": 1410359473.0,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424390401.487952,
+                        "mtime": 1410359473.0,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424390401.487952,
+                "mtime": 1410359473.0,
+                "size": 4096,
+                "uid": 0,
+                "perm": 16877,
+                "gid": 0
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xserver-xorg-core (>= 2:1.15.99.903)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424390401.475952,
+                                "mtime": 1424390401.475952,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "xorg-video-abi-18": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424390401.475952,
+                                "mtime": 1424390401.475952,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "ctime": 1424390401.475952,
+                                "mtime": 1424390401.475952,
+                                "size": 4096,
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0
+                            }
+                        }
+                    },
+                    "stat": {
+                        "ctime": 1424390401.475952,
+                        "mtime": 1424390401.475952,
+                        "size": 4096,
+                        "uid": 0,
+                        "perm": 16893,
+                        "gid": 0
+                    }
+                }
+            },
+            "stat": {
+                "ctime": 1424390401.475952,
+                "mtime": 1424390401.475952,
+                "size": 4096,
+                "uid": 0,
+                "perm": 16893,
+                "gid": 0
+            }
+        }
+    },
+    "stat": {
+        "ctime": 1424390401.487952,
+        "mtime": 1410359475.0,
+        "size": 4096,
+        "uid": 0,
+        "perm": 16877,
+        "gid": 0
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "lib": {
+            "deserializer": "directory",
+            "file": {
+                "udev": {
+                    "deserializer": "directory",
+                    "file": {
+                        "rules.d": {
+                            "deserializer": "directory",
+                            "file": {
+                                "69-xorg-vmmouse.rules": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/9c1d72507cbbbbc7fe818c210a3e8c09",
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "size": 170,
+                                        "mtime": 1410359273.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359273.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1410359273.0,
+                        "uid": 0,
+                        "ctime": 1424390584.2208898
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "perm": 16877,
+                "size": 4096,
+                "mtime": 1410359273.0,
+                "uid": 0,
+                "ctime": 1424390584.2208898
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xorg-input-abi-21": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424390584.1968896,
+                                "uid": 0,
+                                "ctime": 1424390584.1968896
+                            }
+                        },
+                        "udev": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424390584.1968896,
+                                "uid": 0,
+                                "ctime": 1424390584.1968896
+                            }
+                        },
+                        "xserver-xorg-core (>= 2:1.15.99.903)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424390584.1968896,
+                                "uid": 0,
+                                "ctime": 1424390584.1968896
+                            }
+                        },
+                        "xserver-xorg-input-mouse": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424390584.1968896,
+                                "uid": 0,
+                                "ctime": 1424390584.1968896
+                            }
+                        },
+                        "libc6 (>= 2.7)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096,
+                                "mtime": 1424390584.1968896,
+                                "uid": 0,
+                                "ctime": 1424390584.1968896
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "perm": 16893,
+                        "size": 4096,
+                        "mtime": 1424390584.1968896,
+                        "uid": 0,
+                        "ctime": 1424390584.1968896
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "perm": 16893,
+                "size": 4096,
+                "mtime": 1424390584.1968896,
+                "uid": 0,
+                "ctime": 1424390584.1968896
+            }
+        },
+        "bin": {
+            "deserializer": "directory",
+            "file": {
+                "vmmouse_detect": {
+                    "deserializer": "url",
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/7e9567e50916ab10cecc49e639b87e82",
+                    "stat": {
+                        "gid": 0,
+                        "perm": 33261,
+                        "size": 6256,
+                        "mtime": 1410359275.0,
+                        "uid": 0,
+                        "ctime": 1424390584.2168899
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "perm": 16877,
+                "size": 4096,
+                "mtime": 1410359275.0,
+                "uid": 0,
+                "ctime": 1424390584.2208898
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "man": {
+                            "deserializer": "directory",
+                            "file": {
+                                "man1": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "vmmouse_detect.1.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8b1f0ea313d24524e8b346b0be40a2b5",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 1039,
+                                                "mtime": 1410359273.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2088897
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359274.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                },
+                                "man4": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "vmmouse.4.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a00f14b37f0458476161aa325bf72dc8",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 838,
+                                                "mtime": 1410359273.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2088897
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359274.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359273.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        },
+                        "bug": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-input-vmmouse": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "script": {
+                                            "deserializer": "symlink",
+                                            "file": "../xserver-xorg-core/script",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 41471,
+                                                "size": 27,
+                                                "mtime": 1424390584.2208898,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2208898
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359274.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359274.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        },
+                        "X11": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xorg.conf.d": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "50-vmmouse.conf": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0858880a9001298301d8086be621fbd1",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 115,
+                                                "mtime": 1410359273.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2128897
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359273.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359273.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "xserver-xorg-input-vmmouse": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1d8515e67b89729937a1734ac9889910",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 3014,
+                                                "mtime": 1410359256.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2128897
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4a2a0df15084aebad1d96b3e9ce27ab2",
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 1281,
+                                                "mtime": 1410359279.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2088897
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359274.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359273.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1410359274.0,
+                        "uid": 0,
+                        "ctime": 1424390584.2208898
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "xorg": {
+                            "deserializer": "directory",
+                            "file": {
+                                "modules": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "input": {
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "vmmouse_drv.so": {
+                                                    "deserializer": "url",
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/cd71f804c898d456ed095cc8a1352e1a",
+                                                    "stat": {
+                                                        "gid": 0,
+                                                        "perm": 33188,
+                                                        "size": 19080,
+                                                        "mtime": 1410359275.0,
+                                                        "uid": 0,
+                                                        "ctime": 1424390584.2168899
+                                                    }
+                                                }
+                                            },
+                                            "stat": {
+                                                "gid": 0,
+                                                "perm": 16877,
+                                                "size": 4096,
+                                                "mtime": 1410359275.0,
+                                                "uid": 0,
+                                                "ctime": 1424390584.2208898
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "mtime": 1410359273.0,
+                                        "uid": 0,
+                                        "ctime": 1424390584.2208898
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096,
+                                "mtime": 1410359273.0,
+                                "uid": 0,
+                                "ctime": 1424390584.2208898
+                            }
+                        }
+                    },
+                    "stat": {
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096,
+                        "mtime": 1410359273.0,
+                        "uid": 0,
+                        "ctime": 1424390584.2208898
+                    }
+                }
+            },
+            "stat": {
+                "gid": 0,
+                "perm": 16877,
+                "size": 4096,
+                "mtime": 1410359273.0,
+                "uid": 0,
+                "ctime": 1424390584.2208898
+            }
+        }
+    },
+    "stat": {
+        "gid": 0,
+        "perm": 16877,
+        "size": 4096,
+        "mtime": 1410359275.0,
+        "uid": 0,
+        "ctime": 1424390584.2208898
+    }
+}

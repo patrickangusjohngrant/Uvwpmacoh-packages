@@ -1,0 +1,215 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "perm": 16877,
+        "size": 4096,
+        "ctime": 1424389392.967032,
+        "mtime": 1402204544.0,
+        "uid": 0,
+        "gid": 0
+    },
+    "file": {
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16893,
+                "size": 4096,
+                "ctime": 1424389392.9310317,
+                "mtime": 1424389392.9310317,
+                "uid": 0,
+                "gid": 0
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16893,
+                        "size": 4096,
+                        "ctime": 1424389392.9310317,
+                        "mtime": 1424389392.9310317,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "file": {
+                        "libc6 (>= 2.7)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "size": 4096,
+                                "ctime": 1424389392.9310317,
+                                "mtime": 1424389392.9310317,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "size": 4096,
+                "ctime": 1424389392.967032,
+                "mtime": 1402204541.0,
+                "uid": 0,
+                "gid": 0
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "ctime": 1424389392.967032,
+                        "mtime": 1402204542.0,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "file": {
+                        "lintian": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "ctime": 1424389392.967032,
+                                "mtime": 1402204542.0,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "file": {
+                                "overrides": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "ctime": 1424389392.967032,
+                                        "mtime": 1402204542.0,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "file": {
+                                        "libepoxy0": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 1131,
+                                                "ctime": 1424389392.9630318,
+                                                "mtime": 1400029075.0,
+                                                "uid": 0,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/243a9ff77272fa7ab9a9d8cdb5514868"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "ctime": 1424389392.967032,
+                                "mtime": 1402204541.0,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "file": {
+                                "libepoxy0": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "size": 4096,
+                                        "ctime": 1424389392.967032,
+                                        "mtime": 1402204542.0,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 204,
+                                                "ctime": 1424389392.9630318,
+                                                "mtime": 1400029075.0,
+                                                "uid": 0,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/54292a8bef1418b7f0544537703fe22e"
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "size": 2409,
+                                                "ctime": 1424389392.9630318,
+                                                "mtime": 1400029075.0,
+                                                "uid": 0,
+                                                "gid": 0
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cd2352e3a58692e83ed54cb5a8ed1fd9"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "size": 4096,
+                        "ctime": 1424389392.967032,
+                        "mtime": 1402204541.0,
+                        "uid": 0,
+                        "gid": 0
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "size": 4096,
+                                "ctime": 1424389392.967032,
+                                "mtime": 1402204544.0,
+                                "uid": 0,
+                                "gid": 0
+                            },
+                            "file": {
+                                "libepoxy.so.0.0.0": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "perm": 33188,
+                                        "size": 943104,
+                                        "ctime": 1424389392.967032,
+                                        "mtime": 1402204544.0,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/49919d275ba9e8e5b9265e3b24dc9e51"
+                                },
+                                "libepoxy.so.0": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "size": 17,
+                                        "ctime": 1424389392.967032,
+                                        "mtime": 1424389392.967032,
+                                        "uid": 0,
+                                        "gid": 0
+                                    },
+                                    "file": "libepoxy.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

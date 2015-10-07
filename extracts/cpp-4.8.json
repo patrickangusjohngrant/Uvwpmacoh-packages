@@ -1,0 +1,373 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libmpfr4 (>= 3.1.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "libgmp10 (>= 2:5.0.1~)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "gcc-4.8-base (= 4.8.3-12ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "libmpc3": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "libisl10 (>= 0.10)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        },
+                        "libcloog-isl4 (>= 0.17)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.3146002,
+                                "perm": 16893,
+                                "mtime": 1424299476.3146002,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424299476.3146002,
+                        "perm": 16893,
+                        "mtime": 1424299476.3146002,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424299476.3146002,
+                "perm": 16893,
+                "mtime": 1424299476.3146002,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "cpp-4.8": {
+                                    "file": "gcc-4.8-base",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424299476.7906017,
+                                        "perm": 41471,
+                                        "mtime": 1424299476.7906017,
+                                        "size": 12
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.7906017,
+                                "perm": 16877,
+                                "mtime": 1413937778.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "x86_64-linux-gnu-cpp-4.8.1.gz": {
+                                            "file": "cpp-4.8.1.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424299476.7906017,
+                                                "perm": 41471,
+                                                "mtime": 1424299476.7906017,
+                                                "size": 12
+                                            }
+                                        },
+                                        "cpp-4.8.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1f0b35508d3b26bf3d5345b838b9d9e5",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424299476.7866018,
+                                                "perm": 33188,
+                                                "mtime": 1413937673.0,
+                                                "size": 14094
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424299476.7906017,
+                                        "perm": 16877,
+                                        "mtime": 1413937784.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.7906017,
+                                "perm": 16877,
+                                "mtime": 1413937778.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424299476.7906017,
+                        "perm": 16877,
+                        "mtime": 1413937778.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "gcc": {
+                            "file": {
+                                "x86_64-linux-gnu": {
+                                    "file": {
+                                        "4.8": {
+                                            "file": {
+                                                "cc1": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/d798067163503c0e2e8b7c5465770e1d",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424299476.7786016,
+                                                        "perm": 33261,
+                                                        "mtime": 1413937784.0,
+                                                        "size": 13530744
+                                                    }
+                                                },
+                                                "liblto_plugin.so.0.0.0": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/aeed6f240481675ffe05709391b0a21b",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424299476.7786016,
+                                                        "perm": 33188,
+                                                        "mtime": 1413937784.0,
+                                                        "size": 72344
+                                                    }
+                                                },
+                                                "liblto_plugin.so": {
+                                                    "file": "liblto_plugin.so.0.0.0",
+                                                    "deserializer": "symlink",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424299476.7866018,
+                                                        "perm": 41471,
+                                                        "mtime": 1424299476.7866018,
+                                                        "size": 22
+                                                    }
+                                                },
+                                                "liblto_plugin.so.0": {
+                                                    "file": "liblto_plugin.so.0.0.0",
+                                                    "deserializer": "symlink",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424299476.7866018,
+                                                        "perm": 41471,
+                                                        "mtime": 1424299476.7866018,
+                                                        "size": 22
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424299476.7906017,
+                                                "perm": 16877,
+                                                "mtime": 1413937784.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424299476.7906017,
+                                        "perm": 16877,
+                                        "mtime": 1413937778.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.7906017,
+                                "perm": 16877,
+                                "mtime": 1413937778.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424299476.7906017,
+                        "perm": 16877,
+                        "mtime": 1413937778.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "cpp-4.8": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ee1ed247be8a47a78499fae2172e287e",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.7826018,
+                                "perm": 33261,
+                                "mtime": 1413937784.0,
+                                "size": 776280
+                            }
+                        },
+                        "x86_64-linux-gnu-cpp-4.8": {
+                            "file": "cpp-4.8",
+                            "deserializer": "symlink",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424299476.7866018,
+                                "perm": 41471,
+                                "mtime": 1424299476.7866018,
+                                "size": 7
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424299476.7906017,
+                        "perm": 16877,
+                        "mtime": 1413937784.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424299476.7906017,
+                "perm": 16877,
+                "mtime": 1413937778.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424299476.7906017,
+        "perm": 16877,
+        "mtime": 1413937785.0,
+        "size": 4096
+    }
+}

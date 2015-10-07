@@ -1,0 +1,250 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "cups-daemon (>= 1.7.5-3ubuntu2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.0766819,
+                                "perm": 16893,
+                                "mtime": 1424310525.0766819,
+                                "size": 4096
+                            }
+                        },
+                        "cups-filters-core-drivers (>= 1.0.24-3~)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.0766819,
+                                "perm": 16893,
+                                "mtime": 1424310525.0766819,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.0766819,
+                                "perm": 16893,
+                                "mtime": 1424310525.0766819,
+                                "size": 4096
+                            }
+                        },
+                        "libcups2 (= 1.7.5-3ubuntu2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.0766819,
+                                "perm": 16893,
+                                "mtime": 1424310525.0766819,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310525.0766819,
+                        "perm": 16893,
+                        "mtime": 1424310525.0766819,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424310525.0766819,
+                "perm": 16893,
+                "mtime": 1424310525.0766819,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "cups-core-drivers": {
+                                    "file": {
+                                        "README.Debian.gz": {
+                                            "file": "../libcups2/README.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.096682,
+                                                "perm": 41471,
+                                                "mtime": 1424310525.096682,
+                                                "size": 28
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libcups2/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.096682,
+                                                "perm": 41471,
+                                                "mtime": 1424310525.096682,
+                                                "size": 31
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cce01f5cf9ebd2a3873c3d47938934d4",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.092682,
+                                                "perm": 33188,
+                                                "mtime": 1408037075.0,
+                                                "size": 3107
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424310525.096682,
+                                        "perm": 16877,
+                                        "mtime": 1413468716.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.096682,
+                                "perm": 16877,
+                                "mtime": 1413468667.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310525.096682,
+                        "perm": 16877,
+                        "mtime": 1413468667.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "cups": {
+                            "file": {
+                                "filter": {
+                                    "file": {
+                                        "gziptoany": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5c19929005542a64ac79421489c46a7b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.096682,
+                                                "perm": 33261,
+                                                "mtime": 1413468681.0,
+                                                "size": 10240
+                                            }
+                                        },
+                                        "commandtops": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c5458f824daf53ad37065a1134cb69a0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.096682,
+                                                "perm": 33261,
+                                                "mtime": 1413468681.0,
+                                                "size": 14336
+                                            }
+                                        },
+                                        "pstops": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e9b2009e86babfa0dfd6cde439d4e5c6",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310525.092682,
+                                                "perm": 33261,
+                                                "mtime": 1413468681.0,
+                                                "size": 51232
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424310525.096682,
+                                        "perm": 16877,
+                                        "mtime": 1413468681.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310525.096682,
+                                "perm": 16877,
+                                "mtime": 1413468665.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310525.096682,
+                        "perm": 16877,
+                        "mtime": 1413468665.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424310525.096682,
+                "perm": 16877,
+                "mtime": 1413468667.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424310525.096682,
+        "perm": 16877,
+        "mtime": 1413468669.0,
+        "size": 4096
+    }
+}

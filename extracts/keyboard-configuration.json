@@ -1,0 +1,478 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "liblocale-gettext-perl": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0741432,
+                                "perm": 16893,
+                                "mtime": 1424296523.0741432,
+                                "size": 4096
+                            }
+                        },
+                        "lsb-base (>= 4.1+Debian11ubuntu7)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.070143,
+                                "perm": 16893,
+                                "mtime": 1424296523.070143,
+                                "size": 4096
+                            }
+                        },
+                        "debconf (>= 1.5.34)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.070143,
+                                "perm": 16893,
+                                "mtime": 1424296523.070143,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296523.0741432,
+                        "perm": 16893,
+                        "mtime": 1424296523.0741432,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296523.070143,
+                "perm": 16893,
+                "mtime": 1424296523.070143,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "console-setup": {
+                            "file": {
+                                "keyboard": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a641b6951c4fa3b5d3e2e667e9b003a0",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.082143,
+                                        "perm": 33188,
+                                        "mtime": 1401272462.0,
+                                        "size": 817
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0861433,
+                                "perm": 16877,
+                                "mtime": 1401272462.0,
+                                "size": 4096
+                            }
+                        },
+                        "initramfs-tools": {
+                            "file": {
+                                "hooks": {
+                                    "file": {
+                                        "console_setup": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e0f459d1918e6e63b69f54d53d5b5796",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.082143,
+                                                "perm": 33261,
+                                                "mtime": 1401272462.0,
+                                                "size": 1167
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.0861433,
+                                        "perm": 16877,
+                                        "mtime": 1401272462.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "scripts": {
+                                    "file": {
+                                        "init-top": {
+                                            "file": {
+                                                "console_setup": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/3b527d8137626ccf7e4b0b27e326f8ac",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296523.0861433,
+                                                        "perm": 33261,
+                                                        "mtime": 1401272462.0,
+                                                        "size": 1723
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 16877,
+                                                "mtime": 1401272462.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "panic": {
+                                            "file": {
+                                                "console_setup": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/dface4114d205bcc9779de0980d12ffb",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296523.082143,
+                                                        "perm": 33261,
+                                                        "mtime": 1401272462.0,
+                                                        "size": 1704
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 16877,
+                                                "mtime": 1401272462.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.0861433,
+                                        "perm": 16877,
+                                        "mtime": 1401272462.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0861433,
+                                "perm": 16877,
+                                "mtime": 1401272462.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "keyboard-configuration": {
+                                    "file": {
+                                        "changelog.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2dbe20cbe5d00c877c83379bf43702e0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 33188,
+                                                "mtime": 1401272485.0,
+                                                "size": 3384
+                                            }
+                                        },
+                                        "examples": {
+                                            "file": {
+                                                "keyboard": {
+                                                    "file": "../../../console-setup/keyboard",
+                                                    "deserializer": "symlink",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424296523.0861433,
+                                                        "perm": 41471,
+                                                        "mtime": 1424296523.0861433,
+                                                        "size": 31
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 16877,
+                                                "mtime": 1401272462.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "README.Debian": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/85311557bec2d254bb24f210c8a1fc6f",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 33188,
+                                                "mtime": 1320773361.0,
+                                                "size": 294
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0e74e21a2dac01a9064665d766dde86d",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.0861433,
+                                                "perm": 33188,
+                                                "mtime": 1320773361.0,
+                                                "size": 765
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.0861433,
+                                        "perm": 16877,
+                                        "mtime": 1401272475.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0861433,
+                                "perm": 16877,
+                                "mtime": 1401272462.0,
+                                "size": 4096
+                            }
+                        },
+                        "apport": {
+                            "file": {
+                                "package-hooks": {
+                                    "file": {
+                                        "source_console-setup.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/26bc3f5561fd457e0b8518f1624451a0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424296523.082143,
+                                                "perm": 33188,
+                                                "mtime": 1401272462.0,
+                                                "size": 374
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.0861433,
+                                        "perm": 16877,
+                                        "mtime": 1401272462.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0861433,
+                                "perm": 16877,
+                                "mtime": 1401272462.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296523.0861433,
+                        "perm": 16877,
+                        "mtime": 1401272462.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296523.0861433,
+                "perm": 16877,
+                "mtime": 1401272462.0,
+                "size": 4096
+            }
+        },
+        "lib": {
+            "file": {
+                "udev": {
+                    "file": {
+                        "console-setup-tty": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0182d1ff1194c1a5128dae0b5a217bf8",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0781431,
+                                "perm": 33261,
+                                "mtime": 1268654303.0,
+                                "size": 2854
+                            }
+                        },
+                        "rules.d": {
+                            "file": {
+                                "85-keyboard-configuration.rules": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/0726b49ec05c29aa3799cb9fac627b63",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424296523.0781431,
+                                        "perm": 33188,
+                                        "mtime": 1401272462.0,
+                                        "size": 396
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0861433,
+                                "perm": 16877,
+                                "mtime": 1401272462.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296523.0861433,
+                        "perm": 16877,
+                        "mtime": 1401272462.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296523.0861433,
+                "perm": 16877,
+                "mtime": 1401272462.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "init": {
+                    "file": {
+                        "console-setup.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7fe93d1fb1311225f741b61ebff20942",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0781431,
+                                "perm": 33188,
+                                "mtime": 1292946622.0,
+                                "size": 509
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296523.0901432,
+                        "perm": 16877,
+                        "mtime": 1401272462.0,
+                        "size": 4096
+                    }
+                },
+                "init.d": {
+                    "file": {
+                        "console-setup": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7b771b5a718632d5d80ff8d310aa3108",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424296523.0781431,
+                                "perm": 33261,
+                                "mtime": 1295375083.0,
+                                "size": 1919
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424296523.0901432,
+                        "perm": 16877,
+                        "mtime": 1401272462.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424296523.0901432,
+                "perm": 16877,
+                "mtime": 1401272462.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424296523.0901432,
+        "perm": 16877,
+        "mtime": 1401272470.0,
+        "size": 4096
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "stat": {
+        "mtime": 1372633901.0,
+        "gid": 0,
+        "ctime": 1424390476.104336,
+        "uid": 0,
+        "size": 4096,
+        "perm": 16877
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "mtime": 1424390476.096336,
+                "gid": 0,
+                "ctime": 1424390476.096336,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16893
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "mtime": 1424390476.096336,
+                        "gid": 0,
+                        "ctime": 1424390476.096336,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16893
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libx11-6 (>= 2:1.4.99.1)": {
+                            "stat": {
+                                "mtime": 1424390476.096336,
+                                "gid": 0,
+                                "ctime": 1424390476.096336,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libxext6": {
+                            "stat": {
+                                "mtime": 1424390476.096336,
+                                "gid": 0,
+                                "ctime": 1424390476.096336,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.2.5)": {
+                            "stat": {
+                                "mtime": 1424390476.096336,
+                                "gid": 0,
+                                "ctime": 1424390476.096336,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16893
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "mtime": 1372633899.0,
+                "gid": 0,
+                "ctime": 1424390476.104336,
+                "uid": 0,
+                "size": 4096,
+                "perm": 16877
+            },
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "stat": {
+                        "mtime": 1372633899.0,
+                        "gid": 0,
+                        "ctime": 1424390476.104336,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "mtime": 1372633899.0,
+                                "gid": 0,
+                                "ctime": 1424390476.104336,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libxinerama1": {
+                                    "stat": {
+                                        "mtime": 1372633901.0,
+                                        "gid": 0,
+                                        "ctime": 1424390476.104336,
+                                        "uid": 0,
+                                        "size": 4096,
+                                        "perm": 16877
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "mtime": 1372633905.0,
+                                                "gid": 0,
+                                                "ctime": 1424390476.104336,
+                                                "uid": 0,
+                                                "size": 1582,
+                                                "perm": 33188
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/70aa7fd99e652a71c2e8ac659b8ba684"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "mtime": 1372633882.0,
+                                                "gid": 0,
+                                                "ctime": 1424390476.104336,
+                                                "uid": 0,
+                                                "size": 3670,
+                                                "perm": 33188
+                                            },
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8fdd34040015283cd73da6400545ce8d"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "stat": {
+                        "mtime": 1372633899.0,
+                        "gid": 0,
+                        "ctime": 1424390476.104336,
+                        "uid": 0,
+                        "size": 4096,
+                        "perm": 16877
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "mtime": 1372633900.0,
+                                "gid": 0,
+                                "ctime": 1424390476.104336,
+                                "uid": 0,
+                                "size": 4096,
+                                "perm": 16877
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libXinerama.so.1.0.0": {
+                                    "stat": {
+                                        "mtime": 1372633900.0,
+                                        "gid": 0,
+                                        "ctime": 1424390476.100336,
+                                        "uid": 0,
+                                        "size": 10376,
+                                        "perm": 33188
+                                    },
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a4e262cf0d5650aee2e88dfcdcb08101"
+                                },
+                                "libXinerama.so.1": {
+                                    "stat": {
+                                        "mtime": 1424390476.104336,
+                                        "gid": 0,
+                                        "ctime": 1424390476.104336,
+                                        "uid": 0,
+                                        "size": 20,
+                                        "perm": 41471
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libXinerama.so.1.0.0"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

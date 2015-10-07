@@ -1,0 +1,262 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "size": 4096,
+        "gid": 0,
+        "mtime": 1407141389.0,
+        "uid": 0,
+        "ctime": 1424382327.7530818,
+        "perm": 16877
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1407141366.0,
+                "uid": 0,
+                "ctime": 1424382327.7530818,
+                "perm": 16877
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1407141366.0,
+                        "uid": 0,
+                        "ctime": 1424382327.7530818,
+                        "perm": 16877
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1407141388.0,
+                                "uid": 0,
+                                "ctime": 1424382327.7530818,
+                                "perm": 16877
+                            },
+                            "file": {
+                                "libncurses5": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 9,
+                                        "gid": 0,
+                                        "mtime": 1424382327.7490819,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7490819,
+                                        "perm": 41471
+                                    },
+                                    "file": "libtinfo5"
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1407141364.0,
+                        "uid": 0,
+                        "ctime": 1424382327.7530818,
+                        "perm": 16877
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1407141388.0,
+                                "uid": 0,
+                                "ctime": 1424382327.7530818,
+                                "perm": 16877
+                            },
+                            "file": {
+                                "libmenu.so.5.9": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 35480,
+                                        "gid": 0,
+                                        "mtime": 1407141378.0,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7490819,
+                                        "perm": 33188
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6a1299f45cc72f305e8b162e45c8a14d"
+                                },
+                                "libform.so.5.9": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 61480,
+                                        "gid": 0,
+                                        "mtime": 1407141378.0,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7490819,
+                                        "perm": 33188
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/51391eed8123a9c495f6476b2fc688b5"
+                                },
+                                "libform.so.5": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 14,
+                                        "gid": 0,
+                                        "mtime": 1424382327.7530818,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7530818,
+                                        "perm": 41471
+                                    },
+                                    "file": "libform.so.5.9"
+                                },
+                                "libpanel.so.5.9": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "size": 14240,
+                                        "gid": 0,
+                                        "mtime": 1407141378.0,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7490819,
+                                        "perm": 33188
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/633ebce38dc9f347f6652d746956187a"
+                                },
+                                "libpanel.so.5": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 15,
+                                        "gid": 0,
+                                        "mtime": 1424382327.7530818,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7530818,
+                                        "perm": 41471
+                                    },
+                                    "file": "libpanel.so.5.9"
+                                },
+                                "libmenu.so.5": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "size": 14,
+                                        "gid": 0,
+                                        "mtime": 1424382327.7530818,
+                                        "uid": 0,
+                                        "ctime": 1424382327.7530818,
+                                        "perm": 41471
+                                    },
+                                    "file": "libmenu.so.5.9"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1424382327.7290819,
+                "uid": 0,
+                "ctime": 1424382327.7290819,
+                "perm": 16893
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1424382327.7290819,
+                        "uid": 0,
+                        "ctime": 1424382327.7290819,
+                        "perm": 16893
+                    },
+                    "file": {
+                        "libtinfo5 (= 5.9+20140712-2ubuntu1)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424382327.7290819,
+                                "uid": 0,
+                                "ctime": 1424382327.7290819,
+                                "perm": 16893
+                            },
+                            "file": {}
+                        },
+                        "libc6 (>= 2.15)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "size": 4096,
+                                "gid": 0,
+                                "mtime": 1424382327.7290819,
+                                "uid": 0,
+                                "ctime": 1424382327.7290819,
+                                "perm": 16893
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "lib": {
+            "deserializer": "directory",
+            "stat": {
+                "size": 4096,
+                "gid": 0,
+                "mtime": 1407141364.0,
+                "uid": 0,
+                "ctime": 1424382327.7530818,
+                "perm": 16877
+            },
+            "file": {
+                "x86_64-linux-gnu": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "size": 4096,
+                        "gid": 0,
+                        "mtime": 1407141388.0,
+                        "uid": 0,
+                        "ctime": 1424382327.7530818,
+                        "perm": 16877
+                    },
+                    "file": {
+                        "libncurses.so.5.9": {
+                            "deserializer": "url",
+                            "stat": {
+                                "size": 146144,
+                                "gid": 0,
+                                "mtime": 1407141378.0,
+                                "uid": 0,
+                                "ctime": 1424382327.7490819,
+                                "perm": 33188
+                            },
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5a015ab83d0cd91abe38e2ce8ea56ba4"
+                        },
+                        "libncurses.so.5": {
+                            "deserializer": "symlink",
+                            "stat": {
+                                "size": 17,
+                                "gid": 0,
+                                "mtime": 1424382327.7530818,
+                                "uid": 0,
+                                "ctime": 1424382327.7530818,
+                                "perm": 41471
+                            },
+                            "file": "libncurses.so.5.9"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

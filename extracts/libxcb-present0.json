@@ -1,0 +1,189 @@
+{
+    "deserializer": "directory",
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-present0": {
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "symlink",
+                                            "file": "../libxcb1/changelog.Debian.gz",
+                                            "stat": {
+                                                "uid": 0,
+                                                "perm": 41471,
+                                                "gid": 0,
+                                                "ctime": 1424385906.8610232,
+                                                "mtime": 1424385906.8610232,
+                                                "size": 30
+                                            }
+                                        },
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/360fadb0d222af6607a189d435e3a9f3",
+                                            "stat": {
+                                                "uid": 0,
+                                                "perm": 33188,
+                                                "gid": 0,
+                                                "ctime": 1424385906.8610232,
+                                                "mtime": 1389781854.0,
+                                                "size": 1780
+                                            }
+                                        }
+                                    },
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 16877,
+                                        "gid": 0,
+                                        "ctime": 1424385906.8610232,
+                                        "mtime": 1389782050.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0,
+                                "ctime": 1424385906.8610232,
+                                "mtime": 1389781854.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0,
+                        "ctime": 1424385906.8610232,
+                        "mtime": 1389781854.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "file": {
+                                "libxcb-present.so.0": {
+                                    "deserializer": "symlink",
+                                    "file": "libxcb-present.so.0.0.0",
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 41471,
+                                        "gid": 0,
+                                        "ctime": 1424385906.8610232,
+                                        "mtime": 1424385906.8610232,
+                                        "size": 23
+                                    }
+                                },
+                                "libxcb-present.so.0.0.0": {
+                                    "deserializer": "url",
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/fe9b2c97e167f0d253346c7312cd51fe",
+                                    "stat": {
+                                        "uid": 0,
+                                        "perm": 33188,
+                                        "gid": 0,
+                                        "ctime": 1424385906.8570232,
+                                        "mtime": 1389781864.0,
+                                        "size": 10320
+                                    }
+                                }
+                            },
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16877,
+                                "gid": 0,
+                                "ctime": 1424385906.8610232,
+                                "mtime": 1389781864.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16877,
+                        "gid": 0,
+                        "ctime": 1424385906.8610232,
+                        "mtime": 1389781854.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "perm": 16877,
+                "gid": 0,
+                "ctime": 1424385906.8610232,
+                "mtime": 1389781854.0,
+                "size": 4096
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "file": {
+                        "libxcb1": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0,
+                                "ctime": 1424385906.8530233,
+                                "mtime": 1424385906.8530233,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "deserializer": "directory",
+                            "file": {},
+                            "stat": {
+                                "uid": 0,
+                                "perm": 16893,
+                                "gid": 0,
+                                "ctime": 1424385906.8530233,
+                                "mtime": 1424385906.8530233,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "stat": {
+                        "uid": 0,
+                        "perm": 16893,
+                        "gid": 0,
+                        "ctime": 1424385906.8530233,
+                        "mtime": 1424385906.8530233,
+                        "size": 4096
+                    }
+                }
+            },
+            "stat": {
+                "uid": 0,
+                "perm": 16893,
+                "gid": 0,
+                "ctime": 1424385906.8530233,
+                "mtime": 1424385906.8530233,
+                "size": 4096
+            }
+        }
+    },
+    "stat": {
+        "uid": 0,
+        "perm": 16877,
+        "gid": 0,
+        "ctime": 1424385906.8610232,
+        "mtime": 1389781896.0,
+        "size": 4096
+    }
+}

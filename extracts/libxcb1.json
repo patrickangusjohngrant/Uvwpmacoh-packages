@@ -1,0 +1,201 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "ctime": 1424384444.2180336,
+        "mtime": 1389781887.0,
+        "gid": 0,
+        "perm": 16877,
+        "size": 4096
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "ctime": 1424384444.2180336,
+                "mtime": 1389781854.0,
+                "gid": 0,
+                "perm": 16877,
+                "size": 4096
+            },
+            "file": {
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424384444.2180336,
+                        "mtime": 1389781853.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424384444.2180336,
+                                "mtime": 1389781860.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096
+                            },
+                            "file": {
+                                "libxcb.so.1": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424384444.2180336,
+                                        "mtime": 1424384444.2180336,
+                                        "gid": 0,
+                                        "perm": 41471,
+                                        "size": 15
+                                    },
+                                    "file": "libxcb.so.1.1.0"
+                                },
+                                "libxcb.so.1.1.0": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424384444.2140336,
+                                        "mtime": 1389781860.0,
+                                        "gid": 0,
+                                        "perm": 33188,
+                                        "size": 125392
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/66545ccd763828188dac72da89a8a54e"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424384444.2180336,
+                        "mtime": 1389781854.0,
+                        "gid": 0,
+                        "perm": 16877,
+                        "size": 4096
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424384444.2180336,
+                                "mtime": 1389781854.0,
+                                "gid": 0,
+                                "perm": 16877,
+                                "size": 4096
+                            },
+                            "file": {
+                                "libxcb1": {
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424384444.2180336,
+                                        "mtime": 1389781856.0,
+                                        "gid": 0,
+                                        "perm": 16877,
+                                        "size": 4096
+                                    },
+                                    "file": {
+                                        "copyright": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424384444.2140336,
+                                                "mtime": 1389781854.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 1780
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/360fadb0d222af6607a189d435e3a9f3"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "ctime": 1424384444.2180336,
+                                                "mtime": 1389781932.0,
+                                                "gid": 0,
+                                                "perm": 33188,
+                                                "size": 1723
+                                            },
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b921d75dd30ae5ceb515048df3d4a0a9"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "ctime": 1424384444.2020335,
+                "mtime": 1424384444.2020335,
+                "gid": 0,
+                "perm": 16893,
+                "size": 4096
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424384444.2020335,
+                        "mtime": 1424384444.2020335,
+                        "gid": 0,
+                        "perm": 16893,
+                        "size": 4096
+                    },
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424384444.2020335,
+                                "mtime": 1424384444.2020335,
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096
+                            },
+                            "file": {}
+                        },
+                        "libxau6": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424384444.2020335,
+                                "mtime": 1424384444.2020335,
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096
+                            },
+                            "file": {}
+                        },
+                        "libxdmcp6": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424384444.2020335,
+                                "mtime": 1424384444.2020335,
+                                "gid": 0,
+                                "perm": 16893,
+                                "size": 4096
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

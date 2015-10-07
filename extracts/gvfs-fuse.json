@@ -1,0 +1,299 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "fuse (>= 2.8.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8765492,
+                                "perm": 16893,
+                                "mtime": 1424310470.8765492,
+                                "size": 4096
+                            }
+                        },
+                        "libfuse2 (>= 2.8.1)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8725493,
+                                "perm": 16893,
+                                "mtime": 1424310470.8725493,
+                                "size": 4096
+                            }
+                        },
+                        "libc6 (>= 2.4)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8725493,
+                                "perm": 16893,
+                                "mtime": 1424310470.8725493,
+                                "size": 4096
+                            }
+                        },
+                        "gvfs (= 1.20.2-1ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8725493,
+                                "perm": 16893,
+                                "mtime": 1424310470.8725493,
+                                "size": 4096
+                            }
+                        },
+                        "libglib2.0-0 (>= 2.37.0)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8725493,
+                                "perm": 16893,
+                                "mtime": 1424310470.8725493,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310470.8765492,
+                        "perm": 16893,
+                        "mtime": 1424310470.8765492,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424310470.8725493,
+                "perm": 16893,
+                "mtime": 1424310470.8725493,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "gvfs-fuse": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8166c5414108573ffa29deef341d8195",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8885493,
+                                                "perm": 33188,
+                                                "mtime": 1321182225.0,
+                                                "size": 87
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424310470.8925493,
+                                        "perm": 16877,
+                                        "mtime": 1420654516.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8925493,
+                                "perm": 16877,
+                                "mtime": 1420654516.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "gvfs-fuse": {
+                                    "file": {
+                                        "README": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/53285e73360285d5c8557444c918d0f0",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 33188,
+                                                "mtime": 1399643952.0,
+                                                "size": 986
+                                            }
+                                        },
+                                        "AUTHORS": {
+                                            "file": "../gvfs-libs/AUTHORS",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 41471,
+                                                "mtime": 1424310470.8925493,
+                                                "size": 20
+                                            }
+                                        },
+                                        "NEWS.gz": {
+                                            "file": "../gvfs-libs/NEWS.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 41471,
+                                                "mtime": 1424310470.8925493,
+                                                "size": 20
+                                            }
+                                        },
+                                        "TODO": {
+                                            "file": "../gvfs-libs/TODO",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 41471,
+                                                "mtime": 1424310470.8925493,
+                                                "size": 17
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../gvfs-libs/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 41471,
+                                                "mtime": 1424310470.8925493,
+                                                "size": 32
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/334978aba9b1a12476f5620e5826b4ad",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424310470.8925493,
+                                                "perm": 33188,
+                                                "mtime": 1332317481.0,
+                                                "size": 1210
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424310470.8925493,
+                                        "perm": 16877,
+                                        "mtime": 1420654557.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8925493,
+                                "perm": 16877,
+                                "mtime": 1420654516.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310470.8925493,
+                        "perm": 16877,
+                        "mtime": 1420654516.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "gvfs": {
+                            "file": {
+                                "gvfsd-fuse": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1f080c5b2aae17e538e9aff4f078a447",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424310470.8885493,
+                                        "perm": 33261,
+                                        "mtime": 1420654526.0,
+                                        "size": 36216
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424310470.8925493,
+                                "perm": 16877,
+                                "mtime": 1420654526.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424310470.8925493,
+                        "perm": 16877,
+                        "mtime": 1420654516.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424310470.8925493,
+                "perm": 16877,
+                "mtime": 1420654516.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424310470.8965492,
+        "perm": 16877,
+        "mtime": 1420654516.0,
+        "size": 4096
+    }
+}

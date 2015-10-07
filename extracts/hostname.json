@@ -1,0 +1,298 @@
+{
+    "file": {
+        "bin": {
+            "file": {
+                "dnsdomainname": {
+                    "file": "hostname",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 41471,
+                        "mtime": 1424315263.9760344,
+                        "size": 8
+                    }
+                },
+                "ypdomainname": {
+                    "file": "hostname",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 41471,
+                        "mtime": 1424315263.9760344,
+                        "size": 8
+                    }
+                },
+                "nisdomainname": {
+                    "file": "hostname",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 41471,
+                        "mtime": 1424315263.9760344,
+                        "size": 8
+                    }
+                },
+                "hostname": {
+                    "file": "http://d1fhml1jgvxldu.cloudfront.net/644961b0e88943c395d4369d96a42278",
+                    "deserializer": "url",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9680343,
+                        "perm": 33261,
+                        "mtime": 1400685330.0,
+                        "size": 14736
+                    }
+                },
+                "domainname": {
+                    "file": "hostname",
+                    "deserializer": "symlink",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 41471,
+                        "mtime": 1424315263.9760344,
+                        "size": 8
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424315263.9760344,
+                "perm": 16877,
+                "mtime": 1400685330.0,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "hostname": {
+                                    "file": {
+                                        "changelog.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7b4df1f25c63169592ed94dac9646e7b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9720345,
+                                                "perm": 33188,
+                                                "mtime": 1400685333.0,
+                                                "size": 1168
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/460b6a1df2db2b5e80f05a44ec21c62f",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9720345,
+                                                "perm": 33188,
+                                                "mtime": 1383514812.0,
+                                                "size": 1146
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424315263.9760344,
+                                        "perm": 16877,
+                                        "mtime": 1400685330.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424315263.9760344,
+                                "perm": 16877,
+                                "mtime": 1400685329.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "domainname.1.gz": {
+                                            "file": "hostname.1.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9760344,
+                                                "perm": 41471,
+                                                "mtime": 1424315263.9760344,
+                                                "size": 13
+                                            }
+                                        },
+                                        "nisdomainname.1.gz": {
+                                            "file": "hostname.1.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9760344,
+                                                "perm": 41471,
+                                                "mtime": 1424315263.9760344,
+                                                "size": 13
+                                            }
+                                        },
+                                        "hostname.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7a236c7b2b50dd29d3f448d7622085fd",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9680343,
+                                                "perm": 33188,
+                                                "mtime": 1400685329.0,
+                                                "size": 2743
+                                            }
+                                        },
+                                        "dnsdomainname.1.gz": {
+                                            "file": "hostname.1.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9760344,
+                                                "perm": 41471,
+                                                "mtime": 1424315263.9760344,
+                                                "size": 13
+                                            }
+                                        },
+                                        "ypdomainname.1.gz": {
+                                            "file": "hostname.1.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424315263.9760344,
+                                                "perm": 41471,
+                                                "mtime": 1424315263.9760344,
+                                                "size": 13
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424315263.9760344,
+                                        "perm": 16877,
+                                        "mtime": 1400685330.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424315263.9760344,
+                                "perm": 16877,
+                                "mtime": 1400685329.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 16877,
+                        "mtime": 1400685329.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424315263.9760344,
+                "perm": 16877,
+                "mtime": 1400685329.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "init": {
+                    "file": {
+                        "hostname.sh.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5fd24ea35befe5d66bf8ff80b612e3f2",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424315263.9720345,
+                                "perm": 33188,
+                                "mtime": 1400684374.0,
+                                "size": 300
+                            }
+                        },
+                        "hostname.conf": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2521555e6850a6ee2461a4444b4c1d0d",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424315263.9720345,
+                                "perm": 33188,
+                                "mtime": 1374571508.0,
+                                "size": 284
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424315263.9760344,
+                        "perm": 16877,
+                        "mtime": 1400685329.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424315263.9760344,
+                "perm": 16877,
+                "mtime": 1400685329.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424315263.9760344,
+        "perm": 16877,
+        "mtime": 1400685330.0,
+        "size": 4096
+    }
+}

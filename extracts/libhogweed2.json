@@ -1,0 +1,176 @@
+{
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "ctime": 1424734258.1583636,
+        "gid": 0,
+        "size": 4096,
+        "mtime": 1406718833.0,
+        "perm": 16877
+    },
+    "file": {
+        "usr": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "ctime": 1424734258.1583636,
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1406718829.0,
+                "perm": 16877
+            },
+            "file": {
+                "share": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734258.1583636,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1406718829.0,
+                        "perm": 16877
+                    },
+                    "file": {
+                        "doc": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734258.1583636,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1406718829.0,
+                                "perm": 16877
+                            },
+                            "file": {
+                                "libhogweed2": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424734258.1583636,
+                                        "gid": 0,
+                                        "size": 10,
+                                        "mtime": 1424734258.1583636,
+                                        "perm": 41471
+                                    },
+                                    "file": "libnettle4"
+                                }
+                            }
+                        }
+                    }
+                },
+                "lib": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734258.1583636,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1406718829.0,
+                        "perm": 16877
+                    },
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734258.1583636,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1406718832.0,
+                                "perm": 16877
+                            },
+                            "file": {
+                                "libhogweed.so.2.5": {
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424734258.1543636,
+                                        "gid": 0,
+                                        "size": 187024,
+                                        "mtime": 1406718832.0,
+                                        "perm": 33188
+                                    },
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/882a4cd678d9c2388c1cd30dff490646"
+                                },
+                                "libhogweed.so.2": {
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "ctime": 1424734258.1583636,
+                                        "gid": 0,
+                                        "size": 17,
+                                        "mtime": 1424734258.1583636,
+                                        "perm": 41471
+                                    },
+                                    "file": "libhogweed.so.2.5"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "control": {
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "ctime": 1424734258.1263635,
+                "gid": 0,
+                "size": 4096,
+                "mtime": 1424734258.1263635,
+                "perm": 16893
+            },
+            "file": {
+                "packages": {
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "ctime": 1424734258.1263635,
+                        "gid": 0,
+                        "size": 4096,
+                        "mtime": 1424734258.1263635,
+                        "perm": 16893
+                    },
+                    "file": {
+                        "libgmp10 (>= 2:6.0.0)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734258.1263635,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424734258.1263635,
+                                "perm": 16893
+                            },
+                            "file": {}
+                        },
+                        "libc6 (>= 2.14)": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734258.1263635,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424734258.1263635,
+                                "perm": 16893
+                            },
+                            "file": {}
+                        },
+                        "libnettle4": {
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "ctime": 1424734258.1263635,
+                                "gid": 0,
+                                "size": 4096,
+                                "mtime": 1424734258.1263635,
+                                "perm": 16893
+                            },
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

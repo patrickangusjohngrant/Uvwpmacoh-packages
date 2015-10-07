@@ -1,0 +1,680 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.15)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.4917033,
+                                "perm": 16893,
+                                "mtime": 1424307576.4917033,
+                                "size": 4096
+                            }
+                        },
+                        "libfakeroot (>= 1.20-3ubuntu3)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.4917033,
+                                "perm": 16893,
+                                "mtime": 1424307576.4917033,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424307576.4917033,
+                        "perm": 16893,
+                        "mtime": 1424307576.4917033,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424307576.4917033,
+                "perm": 16893,
+                "mtime": 1424307576.4917033,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "fakeroot": {
+                                    "file": {
+                                        "README": {
+                                            "file": "../libfakeroot/README",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 41471,
+                                                "mtime": 1424307576.5397036,
+                                                "size": 21
+                                            }
+                                        },
+                                        "DEBUG": {
+                                            "file": "../libfakeroot/DEBUG",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 41471,
+                                                "mtime": 1424307576.5397036,
+                                                "size": 20
+                                            }
+                                        },
+                                        "README.saving": {
+                                            "file": "../libfakeroot/README.saving",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 41471,
+                                                "mtime": 1424307576.5397036,
+                                                "size": 28
+                                            }
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "file": "../libfakeroot/changelog.Debian.gz",
+                                            "deserializer": "symlink",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 41471,
+                                                "mtime": 1424307576.5397036,
+                                                "size": 34
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/37dc7f657a7c4e0ddf1756921ea259ac",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5157034,
+                                                "perm": 33188,
+                                                "mtime": 1385657464.0,
+                                                "size": 1107
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602113.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5397036,
+                                "perm": 16893,
+                                "mtime": 1400602108.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man1": {
+                                    "file": {
+                                        "fakeroot-sysv.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d8348daae0e462bc4674a9b47c01f7b8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5277035,
+                                                "perm": 33188,
+                                                "mtime": 1400602107.0,
+                                                "size": 3983
+                                            }
+                                        },
+                                        "faked-tcp.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1b8baadf6efeb88d7666589e1d986d47",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5277035,
+                                                "perm": 33188,
+                                                "mtime": 1400602106.0,
+                                                "size": 1190
+                                            }
+                                        },
+                                        "faked-sysv.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1b8baadf6efeb88d7666589e1d986d47",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5277035,
+                                                "perm": 33188,
+                                                "mtime": 1400602107.0,
+                                                "size": 1190
+                                            }
+                                        },
+                                        "fakeroot-tcp.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d8348daae0e462bc4674a9b47c01f7b8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5277035,
+                                                "perm": 33188,
+                                                "mtime": 1400602106.0,
+                                                "size": 3983
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "de": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "fakeroot-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1f07eea7ef4fea84747c13833f1ee453",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5317035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 4745
+                                                    }
+                                                },
+                                                "faked-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6e7bc9b93ef9e88334f07a710d3a3599",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5357034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 1517
+                                                    }
+                                                },
+                                                "faked-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/6e7bc9b93ef9e88334f07a710d3a3599",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5357034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 1517
+                                                    }
+                                                },
+                                                "fakeroot-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/1f07eea7ef4fea84747c13833f1ee453",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5357034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 4745
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 16893,
+                                                "mtime": 1400602108.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "fr": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "fakeroot-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a08bd517ee8c7de185e8f3697536a5c3",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5157034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 4596
+                                                    }
+                                                },
+                                                "faked-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a57424dcb5f0f204598203aae99c35a8",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5197034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 1503
+                                                    }
+                                                },
+                                                "faked-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a57424dcb5f0f204598203aae99c35a8",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5157034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 1503
+                                                    }
+                                                },
+                                                "fakeroot-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/a08bd517ee8c7de185e8f3697536a5c3",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5157034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 4596
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 16893,
+                                                "mtime": 1400602108.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "nl": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "fakeroot-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/5770cc0c545b19fd4144d4fef5e8ff1d",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5317035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 4750
+                                                    }
+                                                },
+                                                "faked-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/9cad39fde777fde8386d9a8b4c987964",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5317035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 1441
+                                                    }
+                                                },
+                                                "faked-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/9cad39fde777fde8386d9a8b4c987964",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5317035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 1441
+                                                    }
+                                                },
+                                                "fakeroot-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/5770cc0c545b19fd4144d4fef5e8ff1d",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5317035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 4750
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 16893,
+                                                "mtime": 1400602108.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "sv": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "fakeroot-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/545ec5cda535aa59bc8e6c077508a147",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5237036,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 4351
+                                                    }
+                                                },
+                                                "faked-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/176da377d7a159e7bf3a2bc7b5755b71",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5277035,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 1332
+                                                    }
+                                                },
+                                                "faked-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/176da377d7a159e7bf3a2bc7b5755b71",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5237036,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 1332
+                                                    }
+                                                },
+                                                "fakeroot-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/545ec5cda535aa59bc8e6c077508a147",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5237036,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 4351
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 16893,
+                                                "mtime": 1400602108.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "es": {
+                                    "file": {
+                                        "man1": {
+                                            "file": {
+                                                "fakeroot-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/0b76aceebd9910bfc85cd8c29cb8de67",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5197034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 4387
+                                                    }
+                                                },
+                                                "faked-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2c0a332da6c7a09b7b577c68e3a45efc",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5197034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 1431
+                                                    }
+                                                },
+                                                "faked-sysv.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2c0a332da6c7a09b7b577c68e3a45efc",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5197034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602107.0,
+                                                        "size": 1431
+                                                    }
+                                                },
+                                                "fakeroot-tcp.1.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/0b76aceebd9910bfc85cd8c29cb8de67",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424307576.5197034,
+                                                        "perm": 33188,
+                                                        "mtime": 1400602106.0,
+                                                        "size": 4387
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424307576.5397036,
+                                                "perm": 16893,
+                                                "mtime": 1400602108.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424307576.5397036,
+                                        "perm": 16893,
+                                        "mtime": 1400602108.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5397036,
+                                "perm": 16893,
+                                "mtime": 1400602108.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424307576.5397036,
+                        "perm": 16893,
+                        "mtime": 1400602108.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "faked-tcp": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/dbd1b4908ab260401895096b2d399f75",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5397036,
+                                "perm": 33261,
+                                "mtime": 1400602108.0,
+                                "size": 27120
+                            }
+                        },
+                        "faked-sysv": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/fe059d64f93f64f6dfc51f5b3b8c53e9",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5357034,
+                                "perm": 33261,
+                                "mtime": 1400602108.0,
+                                "size": 23000
+                            }
+                        },
+                        "fakeroot-sysv": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d53d7b5b76887376691308a020bd0dcf",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5357034,
+                                "perm": 33261,
+                                "mtime": 1400602107.0,
+                                "size": 3853
+                            }
+                        },
+                        "fakeroot-tcp": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8ffb19fef9786d01117c7bd0fdff5ece",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424307576.5357034,
+                                "perm": 33261,
+                                "mtime": 1400602106.0,
+                                "size": 3848
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424307576.5397036,
+                        "perm": 16893,
+                        "mtime": 1400602108.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424307576.5437036,
+                "perm": 16893,
+                "mtime": 1400602108.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424307576.5437036,
+        "perm": 16877,
+        "mtime": 1400602108.0,
+        "size": 4096
+    }
+}

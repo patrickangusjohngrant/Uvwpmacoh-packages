@@ -1,0 +1,190 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "gcc-4.9-base (= 4.9.1-16ubuntu6)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424380485.624485,
+                                "size": 4096,
+                                "ctime": 1424380485.624485,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        },
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16893,
+                                "mtime": 1424380485.624485,
+                                "size": 4096,
+                                "ctime": 1424380485.624485,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16893,
+                        "mtime": 1424380485.624485,
+                        "size": 4096,
+                        "ctime": 1424380485.624485,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16893,
+                "mtime": 1424380485.624485,
+                "size": 4096,
+                "ctime": 1424380485.624485,
+                "gid": 0,
+                "uid": 0
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "lintian": {
+                            "file": {
+                                "overrides": {
+                                    "file": {
+                                        "libgcc1": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f79acf8d33ea1c17cee2548b40d82ddf",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "perm": 33188,
+                                                "mtime": 1413028336.0,
+                                                "size": 43,
+                                                "ctime": 1424380485.636485,
+                                                "gid": 0,
+                                                "uid": 0
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "perm": 16877,
+                                        "mtime": 1413028336.0,
+                                        "size": 4096,
+                                        "ctime": 1424380485.636485,
+                                        "gid": 0,
+                                        "uid": 0
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1413028336.0,
+                                "size": 4096,
+                                "ctime": 1424380485.636485,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "libgcc1": {
+                                    "file": "gcc-4.9-base",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "perm": 41471,
+                                        "mtime": 1424380485.636485,
+                                        "size": 12,
+                                        "ctime": 1424380485.636485,
+                                        "gid": 0,
+                                        "uid": 0
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "perm": 16877,
+                                "mtime": 1413028319.0,
+                                "size": 4096,
+                                "ctime": 1424380485.636485,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1413028336.0,
+                        "size": 4096,
+                        "ctime": 1424380485.636485,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "mtime": 1413028319.0,
+                "size": 4096,
+                "ctime": 1424380485.636485,
+                "gid": 0,
+                "uid": 0
+            }
+        },
+        "lib": {
+            "file": {
+                "x86_64-linux-gnu": {
+                    "file": {
+                        "libgcc_s.so.1": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/016650ebe62b2729e62b1c9f458742b8",
+                            "deserializer": "url",
+                            "stat": {
+                                "perm": 33188,
+                                "mtime": 1413028334.0,
+                                "size": 92504,
+                                "ctime": 1424380485.636485,
+                                "gid": 0,
+                                "uid": 0
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "perm": 16877,
+                        "mtime": 1413028334.0,
+                        "size": 4096,
+                        "ctime": 1424380485.636485,
+                        "gid": 0,
+                        "uid": 0
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "perm": 16877,
+                "mtime": 1413028319.0,
+                "size": 4096,
+                "ctime": 1424380485.636485,
+                "gid": 0,
+                "uid": 0
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "perm": 16877,
+        "mtime": 1413028335.0,
+        "size": 4096,
+        "ctime": 1424380485.636485,
+        "gid": 0,
+        "uid": 0
+    }
+}

@@ -1,0 +1,1076 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "python (>= 2.7)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1333168,
+                                "perm": 16893,
+                                "mtime": 1424323756.1333168,
+                                "size": 4096
+                            }
+                        },
+                        "python-xapian (>= 1.0.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1333168,
+                                "perm": 16893,
+                                "mtime": 1424323756.1333168,
+                                "size": 4096
+                            }
+                        },
+                        "python (<< 2.8)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1333168,
+                                "perm": 16893,
+                                "mtime": 1424323756.1333168,
+                                "size": 4096
+                            }
+                        },
+                        "python-debian (>= 0.1.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1333168,
+                                "perm": 16893,
+                                "mtime": 1424323756.1333168,
+                                "size": 4096
+                            }
+                        },
+                        "python-apt (>= 0.7.93.2)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1333168,
+                                "perm": 16893,
+                                "mtime": 1424323756.1333168,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1333168,
+                        "perm": 16893,
+                        "mtime": 1424323756.1333168,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323756.1333168,
+                "perm": 16893,
+                "mtime": 1424323756.1333168,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "polkit-1": {
+                            "file": {
+                                "actions": {
+                                    "file": {
+                                        "org.debian.aptxapianindex.policy": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/cef61a3f03e93d331b8cc3510741be04",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.181317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 783
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823865.0,
+                                "size": 4096
+                            }
+                        },
+                        "apt-xapian-index": {
+                            "file": {
+                                "plugins": {
+                                    "file": {
+                                        "aliases.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8111841d5b87a61c536b21e183556ebb",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.185317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 4587
+                                            }
+                                        },
+                                        "sizes.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/81cf42a2c30475353200447a0a84bbe2",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 4334
+                                            }
+                                        },
+                                        "translated-desc.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ac3ba59d46f43b5eb3e982bc69657ae5",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 5875
+                                            }
+                                        },
+                                        "app-install.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e35a120842a95a0231b9aa04bb0c918b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1933172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 9300
+                                            }
+                                        },
+                                        "debtags.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ff7c08ad61c9fe12c4dec60988204219",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 4715
+                                            }
+                                        },
+                                        "cataloged_time.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/929f15ccf44f0b976dafe07bad1364e8",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 4955
+                                            }
+                                        },
+                                        "sections.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a4f39511a3ef3007a41c65ec80a1c95b",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 3477
+                                            }
+                                        },
+                                        "relations.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6f1eeadfc4fc1c2c58b06508928831d3",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 5515
+                                            }
+                                        },
+                                        "template.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f8ef28f3bc55bcdf07e5b0a69b59bb38",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 3423
+                                            }
+                                        },
+                                        "descriptions.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8a714298344d68988dd03f8faf601b0a",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 4915
+                                            }
+                                        },
+                                        "apttags.py": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c52b5e970259c376dec482f7742342da",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1893172,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 5552
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "aliases": {
+                                    "file": {
+                                        "popular-apps": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/736e417e047f210048328921f473f351",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.185317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 219
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "update-apt-xapian-index-dbus": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/da162d596a495a1b929c591c21a84a3d",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.185317,
+                                        "perm": 33261,
+                                        "mtime": 1401823866.0,
+                                        "size": 3884
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        },
+                        "doc": {
+                            "file": {
+                                "apt-xapian-index": {
+                                    "file": {
+                                        "changelog.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f51e24becbadef433e989af10efe9666",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.165317,
+                                                "perm": 33188,
+                                                "mtime": 1401823869.0,
+                                                "size": 1762
+                                            }
+                                        },
+                                        "README": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/0e1b0b7e49c154ea889f08f7bd80698e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.169317,
+                                                "perm": 33188,
+                                                "mtime": 1393170105.0,
+                                                "size": 2140
+                                            }
+                                        },
+                                        "ACKNOWLEDGEMENTS": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c90fe38fc4ecdd6e60b253f6a0000b1a",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.169317,
+                                                "perm": 33188,
+                                                "mtime": 1393170105.0,
+                                                "size": 102
+                                            }
+                                        },
+                                        "examples": {
+                                            "file": {
+                                                "axi-query.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e1bb9ddc42af3b2bc6af8dbd153aff3f",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33261,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 3475
+                                                    }
+                                                },
+                                                "axi-query-pkgtype.py.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/702461f1b261781303a90e36ab388ad3",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 1912
+                                                    }
+                                                },
+                                                "axi-query-tags.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/469ef1f47792dca930b7b8b017868690",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33261,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 3186
+                                                    }
+                                                },
+                                                "axi-query-expand.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/24870a3d4562fc4b613bca3cb03757bc",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.169317,
+                                                        "perm": 33261,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 3935
+                                                    }
+                                                },
+                                                "axi-query-adaptivecutoff.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/2b669cac5ed960523ab440769426ec01",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.169317,
+                                                        "perm": 33261,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 2652
+                                                    }
+                                                },
+                                                "axi-searchasyoutype.py.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/23549d1fc0056a476f1d061ee80ef050",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.169317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 2565
+                                                    }
+                                                },
+                                                "axi-searchcloud.py.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/45abb9eb5c28e1c01c857f616126e13d",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.169317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 3329
+                                                    }
+                                                },
+                                                "README": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/e973de82fb103fa84542d3c2f3eebcdb",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 292
+                                                    }
+                                                },
+                                                "axi-query-similar.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/4e792f913d2194781e54a1076e33a53d",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.1773171,
+                                                        "perm": 33261,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 2967
+                                                    }
+                                                },
+                                                "ruby": {
+                                                    "file": {
+                                                        "axi-query.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/29898f3e1d07a4c55bb4e9c6e53df4d1",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.1773171,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 3200
+                                                            }
+                                                        },
+                                                        "axi-query-adaptivecutoff.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/4b14e73ee47230d35e40047f9a64c4dd",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.181317,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 2544
+                                                            }
+                                                        },
+                                                        "axi-query-expand.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ddc2fed453de49e9d3827dd630018e0a",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.1773171,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 3843
+                                                            }
+                                                        },
+                                                        "axi-query-simple.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/36926297266f3158873710b3d3d3ebde",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.181317,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 3572
+                                                            }
+                                                        },
+                                                        "axi-query-similar.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f0da34f3811a5b904124600a4954245a",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.181317,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 2414
+                                                            }
+                                                        },
+                                                        "aptxapianindex.rb.gz": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1fa275736754a01a8c6e3251a91e33c3",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.1773171,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 2103
+                                                            }
+                                                        },
+                                                        "axi-searchasyoutype.rb.gz": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/df0554240db8a8404ac10ad84b913f42",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.181317,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 2461
+                                                            }
+                                                        },
+                                                        "axi-query-tags.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3f3ef27854239e3a8536bf4017c0f07d",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.1773171,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 3140
+                                                            }
+                                                        },
+                                                        "axi-query-pkgtype.rb": {
+                                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c450ce7510f814a98f59022a8bd6869c",
+                                                            "deserializer": "url",
+                                                            "stat": {
+                                                                "uid": 0,
+                                                                "gid": 0,
+                                                                "ctime": 1424323756.1773171,
+                                                                "perm": 33188,
+                                                                "mtime": 1393170105.0,
+                                                                "size": 3573
+                                                            }
+                                                        }
+                                                    },
+                                                    "deserializer": "directory",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.1933172,
+                                                        "perm": 16877,
+                                                        "mtime": 1401823866.0,
+                                                        "size": 4096
+                                                    }
+                                                },
+                                                "aptxapianindex.py.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/66922e435234efa67ac1a9e83601a3c2",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 2246
+                                                    }
+                                                },
+                                                "axi-query-simple.py.gz": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/f8faf06302dd435b34fae427f039d44a",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.173317,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170105.0,
+                                                        "size": 2118
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1933172,
+                                                "perm": 16877,
+                                                "mtime": 1401823866.0,
+                                                "size": 4096
+                                            }
+                                        },
+                                        "copyright": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/75c490a4643ce95463a2f2c6b632a830",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.169317,
+                                                "perm": 33188,
+                                                "mtime": 1393170105.0,
+                                                "size": 1365
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        },
+                        "man": {
+                            "file": {
+                                "man8": {
+                                    "file": {
+                                        "update-apt-xapian-index.8.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f97710374775210080b211c7922f95c9",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.165317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 565
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                },
+                                "man1": {
+                                    "file": {
+                                        "axi-cache.1.gz": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/06cb56b2a5b603ebc8b71699ae5f1e44",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.165317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 899
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        },
+                        "python": {
+                            "file": {
+                                "runtime.d": {
+                                    "file": {
+                                        "apt-xapian-index.rtupdate": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bb5bdf0379c4098a30d61e3c04f14d0e",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.185317,
+                                                "perm": 33261,
+                                                "mtime": 1401823866.0,
+                                                "size": 173
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        },
+                        "dbus-1": {
+                            "file": {
+                                "system-services": {
+                                    "file": {
+                                        "org.debian.AptXapianIndex.service": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/22edb9396aeb22aeb9cc6424512b4399",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.185317,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 119
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823865.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                },
+                "sbin": {
+                    "file": {
+                        "update-apt-xapian-index": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/57de2d9a59df55717a0ca468d442aedf",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1613169,
+                                "perm": 33261,
+                                "mtime": 1401823866.0,
+                                "size": 3523
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "python2.7": {
+                            "file": {
+                                "dist-packages": {
+                                    "file": {
+                                        "apt_xapian_index-0.46.egg-info": {
+                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9a7be50c2c80a53748d408c9eccb4360",
+                                            "deserializer": "url",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1613169,
+                                                "perm": 33188,
+                                                "mtime": 1401823866.0,
+                                                "size": 266
+                                            }
+                                        },
+                                        "axi": {
+                                            "file": {
+                                                "__init__.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/3e04e6621e1a603da82283921c117f29",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.1613169,
+                                                        "perm": 33188,
+                                                        "mtime": 1393170106.0,
+                                                        "size": 2987
+                                                    }
+                                                },
+                                                "indexer.py": {
+                                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/f6bff32ff0542bf3c7142598af0dddde",
+                                                    "deserializer": "url",
+                                                    "stat": {
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1424323756.1613169,
+                                                        "perm": 33188,
+                                                        "mtime": 1401823858.0,
+                                                        "size": 33493
+                                                    }
+                                                }
+                                            },
+                                            "deserializer": "directory",
+                                            "stat": {
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1424323756.1933172,
+                                                "perm": 16877,
+                                                "mtime": 1401823866.0,
+                                                "size": 4096
+                                            }
+                                        }
+                                    },
+                                    "deserializer": "directory",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.1933172,
+                                        "perm": 16877,
+                                        "mtime": 1401823866.0,
+                                        "size": 4096
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                },
+                "bin": {
+                    "file": {
+                        "axi-cache": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/52d2715359e516625dfc29c3ba9fddc2",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.165317,
+                                "perm": 33261,
+                                "mtime": 1401823866.0,
+                                "size": 33509
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323756.1933172,
+                "perm": 16877,
+                "mtime": 1401823866.0,
+                "size": 4096
+            }
+        },
+        "etc": {
+            "file": {
+                "bash_completion.d": {
+                    "file": {
+                        "axi-cache": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/6422bf7b21cb4319e100625a0fcffe9f",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.153317,
+                                "perm": 33188,
+                                "mtime": 1393170105.0,
+                                "size": 1694
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                },
+                "cron.weekly": {
+                    "file": {
+                        "apt-xapian-index": {
+                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ed6e0c144a86d68700c7d94e162586d9",
+                            "deserializer": "url",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.157317,
+                                "perm": 33261,
+                                "mtime": 1401823866.0,
+                                "size": 730
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823866.0,
+                        "size": 4096
+                    }
+                },
+                "dbus-1": {
+                    "file": {
+                        "system.d": {
+                            "file": {
+                                "org.debian.AptXapianIndex.conf": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/b359f873abac01da9320401d24f6c445",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424323756.157317,
+                                        "perm": 33188,
+                                        "mtime": 1401823866.0,
+                                        "size": 705
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424323756.1933172,
+                                "perm": 16877,
+                                "mtime": 1401823866.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424323756.1933172,
+                        "perm": 16877,
+                        "mtime": 1401823865.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424323756.1933172,
+                "perm": 16877,
+                "mtime": 1401823866.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424323756.1933172,
+        "perm": 16877,
+        "mtime": 1401823866.0,
+        "size": 4096
+    }
+}

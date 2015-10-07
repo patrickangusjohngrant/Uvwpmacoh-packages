@@ -1,0 +1,164 @@
+{
+    "file": {
+        "control": {
+            "file": {
+                "packages": {
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424297089.8544898,
+                                "perm": 16893,
+                                "mtime": 1424297089.8544898,
+                                "size": 4096
+                            }
+                        },
+                        "gcc-4.9-base (= 4.9.1-16ubuntu6)": {
+                            "file": {},
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424297089.8544898,
+                                "perm": 16893,
+                                "mtime": 1424297089.8544898,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424297089.8544898,
+                        "perm": 16893,
+                        "mtime": 1424297089.8544898,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424297089.8544898,
+                "perm": 16893,
+                "mtime": 1424297089.8544898,
+                "size": 4096
+            }
+        },
+        "usr": {
+            "file": {
+                "share": {
+                    "file": {
+                        "doc": {
+                            "file": {
+                                "libatomic1": {
+                                    "file": "gcc-4.9-base",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424297089.86249,
+                                        "perm": 41471,
+                                        "mtime": 1424297089.86249,
+                                        "size": 12
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424297089.86249,
+                                "perm": 16877,
+                                "mtime": 1413028668.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424297089.86249,
+                        "perm": 16877,
+                        "mtime": 1413028668.0,
+                        "size": 4096
+                    }
+                },
+                "lib": {
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "file": {
+                                "libatomic.so.1": {
+                                    "file": "libatomic.so.1.1.0",
+                                    "deserializer": "symlink",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424297089.86249,
+                                        "perm": 41471,
+                                        "mtime": 1424297089.86249,
+                                        "size": 18
+                                    }
+                                },
+                                "libatomic.so.1.1.0": {
+                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/3af4acc5a70c560d6cb3f046d7ffda55",
+                                    "deserializer": "url",
+                                    "stat": {
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1424297089.8584898,
+                                        "perm": 33188,
+                                        "mtime": 1413028683.0,
+                                        "size": 26704
+                                    }
+                                }
+                            },
+                            "deserializer": "directory",
+                            "stat": {
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1424297089.86249,
+                                "perm": 16877,
+                                "mtime": 1413028683.0,
+                                "size": 4096
+                            }
+                        }
+                    },
+                    "deserializer": "directory",
+                    "stat": {
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1424297089.86249,
+                        "perm": 16877,
+                        "mtime": 1413028668.0,
+                        "size": 4096
+                    }
+                }
+            },
+            "deserializer": "directory",
+            "stat": {
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1424297089.86249,
+                "perm": 16877,
+                "mtime": 1413028668.0,
+                "size": 4096
+            }
+        }
+    },
+    "deserializer": "directory",
+    "stat": {
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1424297089.86249,
+        "perm": 16877,
+        "mtime": 1413028683.0,
+        "size": 4096
+    }
+}
