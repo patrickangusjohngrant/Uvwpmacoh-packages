@@ -1,0 +1,177 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.4072537,
+        "mtime": 1752985987.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.4032536,
+                "mtime": 1777906377.4032536,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.4032536,
+                        "mtime": 1777906377.4032536,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.4032536,
+                                "mtime": 1777906377.4032536,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.4072537,
+                "mtime": 1752985987.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.4072537,
+                        "mtime": 1752985987.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.4072537,
+                                "mtime": 1752985987.0,
+                                "size": 92
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdebconfclient.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.4032536,
+                                        "mtime": 1752985987.0,
+                                        "size": 14448
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/0cca78076210c1e54a15cdaceaf0334892ff89bebb366c2befb7a039c2d5e870"
+                                },
+                                "libdebconfclient.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.4072537,
+                                        "mtime": 1777906377.4072537,
+                                        "size": 25
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libdebconfclient.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.4072537,
+                        "mtime": 1752985987.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.4072537,
+                                "mtime": 1752985987.0,
+                                "size": 34
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdebconfclient0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.4072537,
+                                        "mtime": 1752985987.0,
+                                        "size": 42
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.4072537,
+                                                "mtime": 1752985987.0,
+                                                "size": 4510
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ace25b82e3ae31a661de19a917277b1e7acd6e33199f7de825926712fe9eff5d"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.4072537,
+                                                "mtime": 1676847375.0,
+                                                "size": 5856
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/cf63099896d1c0f6529c41b8d95738e6fea342ffba609187d339c4f38ce36ecc"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

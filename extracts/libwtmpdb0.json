@@ -1,0 +1,227 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906380.5554118,
+        "mtime": 1760985139.0,
+        "size": 26
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906380.5554118,
+                "mtime": 1777906380.5554118,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5554118,
+                        "mtime": 1777906380.5554118,
+                        "size": 76
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5554118,
+                                "mtime": 1777906380.5554118,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libsqlite3-0 (>= 3.5.9)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5554118,
+                                "mtime": 1777906380.5554118,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "etc": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906380.5554118,
+                "mtime": 1760985139.0,
+                "size": 22
+            },
+            "deserializer": "directory",
+            "file": {
+                "logrotate.d": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5554118,
+                        "mtime": 1760985139.0,
+                        "size": 12
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "wtmpdb": {
+                            "stat": {
+                                "perm": 33188,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5554118,
+                                "mtime": 1760983974.0,
+                                "size": 85
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/032c1bdf84cb429f95516428800da76084af717ccb09197ff5e87c149e41f7f4"
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906380.5554118,
+                "mtime": 1760985139.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5554118,
+                        "mtime": 1760985139.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5554118,
+                                "mtime": 1760985139.0,
+                                "size": 66
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libwtmpdb.so.0.73.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.5554118,
+                                        "mtime": 1760985139.0,
+                                        "size": 26616
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/280d7196730c9ea8fcb98ccf90785b55cfdbb0448aede6bc5922ab15a504f0b2"
+                                },
+                                "libwtmpdb.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.5554118,
+                                        "mtime": 1777906380.5554118,
+                                        "size": 19
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libwtmpdb.so.0.73.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5554118,
+                        "mtime": 1760985139.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5554118,
+                                "mtime": 1760985139.0,
+                                "size": 20
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libwtmpdb0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.5554118,
+                                        "mtime": 1760985139.0,
+                                        "size": 56
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5554118,
+                                                "mtime": 1760985139.0,
+                                                "size": 2607
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9c489e76ac1692af4409e011935c654cf9108790e81a375fa83c578de85d4610"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5554118,
+                                                "mtime": 1760053260.0,
+                                                "size": 2966
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/fbf1341834c9aedf2c25445b012d4038cfd74dc53ee5d7dda92112b8063a48a1"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

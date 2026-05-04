@@ -1,11 +1,11 @@
 {
-  "deserializer": "url",
-  "file": "https://5nne05gpte.execute-api.eu-west-1.amazonaws.com/production/twitter/BBCNews",
+  "deserializer": "shell",
+  "file": "PATH=/usr/bin:/bin:/usr/sbin:/sbin; export PATH; CACHE=/tmp/.bbc-rss; if [ ! -f $CACHE ] || [ $(( $(cut -d. -f1 /proc/uptime) - $(cat ${CACHE}.t 2>/dev/null || echo 0) )) -gt 60 ]; then wget -q -O $CACHE.new --timeout=5 http://10.0.2.2:8080/news.xml 2>/dev/null && mv $CACHE.new $CACHE && cut -d. -f1 /proc/uptime > ${CACHE}.t; fi; printf '\\n  __  __                                              _\\n |  \\\\/  |  Welcome to Uvwpmacoh                       |_)oot\\n | |\\\\/| |  on Debian GNU/Linux 13 (trixie)\\n |_|  |_|  network-mounted, content-addressed, FUSE-served\\n\\n  uptime %s s   |   load %s   |   mem %s kB free\\n\\n' \"$(cut -d. -f1 /proc/uptime)\" \"$(cut -d' ' -f1-3 /proc/loadavg)\" \"$(grep ^MemAvailable /proc/meminfo | tr -s ' ' | cut -d' ' -f2)\"; if [ -s $CACHE ]; then echo '  -- BBC News --'; tr -d '\\n' < $CACHE | sed -e 's|<item>|\\n<item>|g' | grep -oE '<item>[[:space:]]*<title><!\\[CDATA\\[[^]]*\\]\\]>' | head -8 | sed -e 's|<item>[[:space:]]*<title><!\\[CDATA\\[|  • |' -e 's|\\]\\]>||'; echo; else echo '  (BBC News unreachable)'; echo; fi",
   "stat": {
-    "mtime": 1373033278.0,
-    "perm": 493,
+    "mtime": 1714780000.0,
+    "perm": 420,
     "uid": 0,
-    "ctime": 1408826463.0064313,
+    "ctime": 1714780000.0,
     "gid": 0
   }
 }

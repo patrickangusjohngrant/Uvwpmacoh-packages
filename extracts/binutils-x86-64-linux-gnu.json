@@ -1,0 +1,2440 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.2392454,
+        "mtime": 1741035682.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.1792424,
+                "mtime": 1777906377.1792424,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.1792424,
+                        "mtime": 1777906377.1792424,
+                        "size": 364
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "binutils-common (= 2.44-3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libbinutils (= 2.44-3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libctf-nobfd0 (>= 2.36)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libctf0 (>= 2.36)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libjansson4 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libsframe1 (>= 2.41)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libzstd1 (>= 1.5.5)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1777906377.1792424,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.2392454,
+                "mtime": 1741035682.0,
+                "size": 22
+            },
+            "deserializer": "directory",
+            "file": {
+                "bin": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.2392454,
+                        "mtime": 1741035682.0,
+                        "size": 714
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu-addr2line": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1741035682.0,
+                                "size": 23776
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/3d7615834f5faf3d69dd7c31031b0bb787692528c91697aa53f7b3096eeaca66"
+                        },
+                        "x86_64-linux-gnu-ar": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1792424,
+                                "mtime": 1741035682.0,
+                                "size": 52480
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/f8fe09d485b40b1d47c534c96f5cbaaa9148e247aa0494c087104421f48ac5eb"
+                        },
+                        "x86_64-linux-gnu-as": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1872427,
+                                "mtime": 1741035682.0,
+                                "size": 795184
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/07dd8551ea0aa065975e4dddb8e1bb7dc308d12d54eca22c3858db79467c7cb9"
+                        },
+                        "x86_64-linux-gnu-c++filt": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1872427,
+                                "mtime": 1741035682.0,
+                                "size": 23128
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/7d54ea6797a5e8c69255f711b79577efd9934c3502c6edee4bc25b7dc7d97bd2"
+                        },
+                        "x86_64-linux-gnu-elfedit": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1872427,
+                                "mtime": 1741035682.0,
+                                "size": 35976
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/051d380d58c51d67649191cb9a30c25cb78ba282b42f91417d79c3119a1a0ad5"
+                        },
+                        "x86_64-linux-gnu-gprof": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.191243,
+                                "mtime": 1741035682.0,
+                                "size": 98736
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/f1799215b58da41a43b3e76e9e2cbd79fbc41648ede95b6781eabf68d5871c2f"
+                        },
+                        "x86_64-linux-gnu-ld.bfd": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1952431,
+                                "mtime": 1741035682.0,
+                                "size": 1861256
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/d2766988b6a1b1d1518cdc09242e726d1f24e151e16410ada3092b11ffd9081b"
+                        },
+                        "x86_64-linux-gnu-nm": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1952431,
+                                "mtime": 1741035682.0,
+                                "size": 45160
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/ddb55c0685721bf494aa2d090056b8b32a40614ad4464b305896f527d882c3c1"
+                        },
+                        "x86_64-linux-gnu-objcopy": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.1992433,
+                                "mtime": 1741035682.0,
+                                "size": 159568
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/403f90bbd5d26c8ab9a2ad51f56255b812e8858a83aa8740ee71791071ddb580"
+                        },
+                        "x86_64-linux-gnu-objdump": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2032435,
+                                "mtime": 1741035682.0,
+                                "size": 396336
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/96afb8521834982d0e711b5d6e9785252bf82129fb0106b93a6bd54d83fae11f"
+                        },
+                        "x86_64-linux-gnu-ranlib": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2032435,
+                                "mtime": 1741035682.0,
+                                "size": 52480
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/4610e832470b987c8c9d82d78c1c16e5e2bc9b8c64db455fad0cf63d420ec86e"
+                        },
+                        "x86_64-linux-gnu-readelf": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2112439,
+                                "mtime": 1741035682.0,
+                                "size": 777864
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/4a387d80a70e6e97ef940a666fab59d5c38e7cf19ff907192fa983cb8505a7de"
+                        },
+                        "x86_64-linux-gnu-size": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2112439,
+                                "mtime": 1741035682.0,
+                                "size": 27584
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/2473fd724ad11c56e8e4843061bf003d3356bb94bab8d30776f5035104e8394a"
+                        },
+                        "x86_64-linux-gnu-strings": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2112439,
+                                "mtime": 1741035682.0,
+                                "size": 31808
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/d9405e7958733955d2591a461cbbcc913608224da844b2a2050f4e9b844cae32"
+                        },
+                        "x86_64-linux-gnu-strip": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2112439,
+                                "mtime": 1741035682.0,
+                                "size": 159600
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/a97ae77cd5d88799edc0edb31caa2fc81d32eecaa9619d329bed890f6fd06e3a"
+                        },
+                        "x86_64-linux-gnu-ld": {
+                            "stat": {
+                                "perm": 41471,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2392454,
+                                "mtime": 1777906377.2392454,
+                                "size": 23
+                            },
+                            "deserializer": "symlink",
+                            "file": "x86_64-linux-gnu-ld.bfd"
+                        }
+                    }
+                },
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.2392454,
+                        "mtime": 1741035682.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2392454,
+                                "mtime": 1741035682.0,
+                                "size": 40
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "bfd-plugins": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1741035682.0,
+                                        "size": 18
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libdep.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2112439,
+                                                "mtime": 1741035682.0,
+                                                "size": 14456
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/18b1548c9c649a65d67934de8da5c024ec8319cff790848d6cedf50fb9331156"
+                                        }
+                                    }
+                                },
+                                "ldscripts": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1741035682.0,
+                                        "size": 3776
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "elf32_x86_64.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2112439,
+                                                "mtime": 1741035682.0,
+                                                "size": 11255
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/1c6f0651a2ec9b17517f95dbaf8b99f73df6db8f4a1b160ac65d93079d28d04a"
+                                        },
+                                        "elf32_x86_64.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2112439,
+                                                "mtime": 1741035682.0,
+                                                "size": 11058
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0c1abbd831512bba7ac9eb6776a496f3492d201534ac304aa17c52acf5cb024a"
+                                        },
+                                        "elf32_x86_64.xc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10901
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3da7eb4e6a2bb9f07760019a99866ff74feb9e75dd6f9eabdf3db1db1ccae794"
+                                        },
+                                        "elf32_x86_64.xce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11247
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/18fae7c11cf4250ac7dbea99545cc2e89a9f57ac43d9904503f2e68d54d0badc"
+                                        },
+                                        "elf32_x86_64.xcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11189
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6db14431a43174d4d24c405117a62892996e4f89eeacb6beb1dc4f6a6d5dd9d7"
+                                        },
+                                        "elf32_x86_64.xd": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11121
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f8b46ee00ffc508822d157cfaf7795cb6d9daacab88c66964219359ead0e4e88"
+                                        },
+                                        "elf32_x86_64.xdc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10802
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4d330902bc648de0120b5e4988d989f73516ac856ade5ec162585a1082d951ab"
+                                        },
+                                        "elf32_x86_64.xdce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11148
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6db164849b21613ab9f55a33e251a94c8ff020e0059c7b95851228b79032a5bd"
+                                        },
+                                        "elf32_x86_64.xdcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11090
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0e0a6acb8efafef5f0270599254ce375c2e8b96371dafaaead104d056e5e4419"
+                                        },
+                                        "elf32_x86_64.xde": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11467
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2433246fc035c85159d35bb7d8462b6fe951a0ab2093e827369165f2192f2c48"
+                                        },
+                                        "elf32_x86_64.xder": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11409
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b9440a7ee2a9922fd4ca8c9f760c2ef236dabf7e1d197e39ff264729f872135e"
+                                        },
+                                        "elf32_x86_64.xdw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10763
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5ed3c5172b9670639246dda7379984051f8251d7a55b8c65e150388c9d430957"
+                                        },
+                                        "elf32_x86_64.xdwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11109
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8439e062f82634f978fd743b020a45a7c4d103513882329f62a549ccaec2d172"
+                                        },
+                                        "elf32_x86_64.xdwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11051
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/13b2ccb816aaa9d6430130f639573884580aaa752f287e8684b2e973de1d06db"
+                                        },
+                                        "elf32_x86_64.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11566
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/93c4c89f6359653d86cb59035e8da0dbba0404d1154385cbbdcd230e2189e6ea"
+                                        },
+                                        "elf32_x86_64.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11508
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4b70f3e215d33decfaa0f7d35d362d576b0bb08dc1aa646bbb5626d8251b557f"
+                                        },
+                                        "elf32_x86_64.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11223
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/07eeb6e98c72c6b66e5964183b5a8b201d14ce5644847539b9f032cc5681fded"
+                                        },
+                                        "elf32_x86_64.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 6654
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4fee319f3e9230601195a107a1fda55c88fa4af552198a3ad884904dde2a126a"
+                                        },
+                                        "elf32_x86_64.xs": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10741
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5bf79345aa52db03b4805ad091d1e4632c540e31ab408a40547229f424f870d6"
+                                        },
+                                        "elf32_x86_64.xsc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10422
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/a62a0665b667110147a177b92bf5b19f89e5da6b6565d032d7c2e2f1c9ddc711"
+                                        },
+                                        "elf32_x86_64.xsce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10768
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8d03adfa16d36dde2791719eac4663571bc7d209057127334b51c3a0231f34e2"
+                                        },
+                                        "elf32_x86_64.xscer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10710
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5bd4cfef4aaa29ab91e0fc4daa5d6151c256575713c46205962d10328bdf756b"
+                                        },
+                                        "elf32_x86_64.xse": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11087
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/86366fa8ac4af090fb4d6b9ab91b7970631a27c0ebff0650cdc19cb41fc75860"
+                                        },
+                                        "elf32_x86_64.xser": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11029
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/acc8e82bbd3c01c6c7d2309ddf37ccc11ae6fdbd6ab604f1929d2a52ca72bf35"
+                                        },
+                                        "elf32_x86_64.xsw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10383
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/13d3528f0b257cdde23d5fcf7fa49f20245a9a1121686139393a2fed4e80bff0"
+                                        },
+                                        "elf32_x86_64.xswe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10729
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e6611b868a7c26497c5b4d88c0473a804c944d0006835019fd3f3b13348f370c"
+                                        },
+                                        "elf32_x86_64.xswer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10671
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7472cbf660019013dcb48a4ea5f1fb6bf9e17634f8faaf6293bd00801fa1e551"
+                                        },
+                                        "elf32_x86_64.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 6678
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b84fed490f1cc0ff8fe478d245109dc183d456df3a6a83ec8c500363eeaa4954"
+                                        },
+                                        "elf32_x86_64.xw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 10862
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3cd4d73eea49775594f2fd50b57912e43b77e6634273e61444a3617998103f3b"
+                                        },
+                                        "elf32_x86_64.xwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11208
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/38a9c1533f4689ab7874522caf9ac7de64411cb16c7598d8eebcd9c4ad9f7ee6"
+                                        },
+                                        "elf32_x86_64.xwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.215244,
+                                                "mtime": 1741035682.0,
+                                                "size": 11150
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/08a26e6ba147be954af44fb7d037e79d9217f987bd50cd89af1f4ea28044d231"
+                                        },
+                                        "elf_i386.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10512
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/784c4149a4604afa02b9ccf4ec36d7fe69b76b547ecc76c869c9683ad1ed3c20"
+                                        },
+                                        "elf_i386.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10315
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2f19dd5469a734a0f7101f5d6dbcfd3156ed9dd5b2b05d1d130e8549af72202f"
+                                        },
+                                        "elf_i386.xc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10292
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/fa984fb3657fd86e68ffe08d18a183805daceb58e870d84a4c32df2b5128cc7f"
+                                        },
+                                        "elf_i386.xce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10638
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/341cfcb6d915965feead79e131ee06a9b99faee296d96b5a85cd764f22306dd3"
+                                        },
+                                        "elf_i386.xcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10580
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6929d3e112622aa698380788a1df8301751fc886c9d5ec706e395bbfde87d54f"
+                                        },
+                                        "elf_i386.xd": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10376
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/19549644f7532a63ed70a26d4e38d2fd097e13112655d32c477935056b3ccbc4"
+                                        },
+                                        "elf_i386.xdc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10191
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b142f04e205080f00af78a6d1365ab3688117f7e2b834d0011e09619dd398a88"
+                                        },
+                                        "elf_i386.xdce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10537
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b785538b7621bc527db51442c2faff728cef8a9c3ba5dc98d7c4cfd2995365b4"
+                                        },
+                                        "elf_i386.xdcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10479
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ed385ecf61bbb74511995c3beaf1de10f90a710528092c09bec5802eaba6632d"
+                                        },
+                                        "elf_i386.xde": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10722
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e8687b4e3a02adf46f3b430086d416ca87ae5e0bbe1d7af59027baa93f0a3942"
+                                        },
+                                        "elf_i386.xder": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10664
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0a2e6d4df5e06503dcbc45186f020c629e02daa3cf6444e57cca87ae21be61c4"
+                                        },
+                                        "elf_i386.xdw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10152
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5ed5f6655cc25fbc1e2f0cd44b08fb510eb21283e5b93bd7bb7f72a2f93c0669"
+                                        },
+                                        "elf_i386.xdwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10498
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/380b450b86295b2f2887bec3b0080968cd4e6248594ac3dbcd87dce5942a2dc6"
+                                        },
+                                        "elf_i386.xdwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10440
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8342b0a44f949a47c92114b74397e3c1aa915f37942f6c7b0eaf5a398cd14a05"
+                                        },
+                                        "elf_i386.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10823
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/dcf46933e5208c7f60aeec8b6c1ec55e8958bc5132083b6fba0bb9cb269c0138"
+                                        },
+                                        "elf_i386.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10765
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2a86af8cf0494907ff5cdf1a227ccf940edc41845d7a08eaae5566115baebac0"
+                                        },
+                                        "elf_i386.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10480
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9e39054e2546e6ecadbc4069dc312acbbf66dd7815b9374b89fedd6f4318d86e"
+                                        },
+                                        "elf_i386.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 6389
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/154159d55220afccf5aafdfd0be7a016a414fcf41069f65e0e204d7a102da6dd"
+                                        },
+                                        "elf_i386.xs": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 9996
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7f8edc3eb8d5905609c2402307ee856697037e14ad8b2fc7909f2bebb5ef1764"
+                                        },
+                                        "elf_i386.xsc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 9811
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b32fbb0ecc2a856e73b16810d39eb883c95f7524ef1f90bd51f70d8d00aa8324"
+                                        },
+                                        "elf_i386.xsce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10157
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f3608663ddf6e9f2a4478180b528aa2274cae9c89a8c8d48fe467fdb510c8cf6"
+                                        },
+                                        "elf_i386.xscer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2192442,
+                                                "mtime": 1741035682.0,
+                                                "size": 10099
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6b3c74c8e6b611a74d677dc620fe871a6124d1b582f118ad861d8cee7a376338"
+                                        },
+                                        "elf_i386.xse": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10342
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/86bb7a2d0cdd2e55296c25c62e641df5fa6393321d1f76d622201b1bfef66f29"
+                                        },
+                                        "elf_i386.xser": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10284
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/93ef24a4f5a17fa1a87397b49f0186054f793acde7c8c9840c7d2fa78561a0b2"
+                                        },
+                                        "elf_i386.xsw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 9772
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2b2d326797e155bb3c6498459d470953035e2430b254bf21ce6e4a56c326a228"
+                                        },
+                                        "elf_i386.xswe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10118
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/90f49744f617c49b0577a974cd8ebbdb782bd89e66240334e475fe732eeaa801"
+                                        },
+                                        "elf_i386.xswer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10060
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/39ec15fe206acc3ee53394e725a3fd54bed25356e8c7ca052a2ae5d4b1ca18cb"
+                                        },
+                                        "elf_i386.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 6413
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f9fe141a0664542411b0947d84d15c263f2ca6eaacc0c5995f3e7aa7705a92aa"
+                                        },
+                                        "elf_i386.xw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10253
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f07149a13255261dc74451b55e38258a140b4be7f15a4643e7d8b72b6d510e17"
+                                        },
+                                        "elf_i386.xwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10599
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/294f200750e2f3575b0e5b6d2b4f44344376cc87df8d1164f49bb2e85a6fcb34"
+                                        },
+                                        "elf_i386.xwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10541
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/35cfdee26e4eee8ba3db938801a68b835d7cc29113f08c458d1d8c6ed75767fe"
+                                        },
+                                        "elf_iamcu.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10204
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2c2886f13d8cce166d72dbb03d2f7b5b8d83a8d37278241775e66678e92201d4"
+                                        },
+                                        "elf_iamcu.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10007
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3c2f461d6c941b943ae38b60b8b5ad7a5bc38c088fb430fafacef937506d321a"
+                                        },
+                                        "elf_iamcu.xc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 9984
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/bd7a2f5bfbd9a1fab3f154d50499aab2e9f5f9905148df3d0e4af034811809e6"
+                                        },
+                                        "elf_iamcu.xce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10330
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d5066a1d04a49555a43dfb1f67ab854f7e80da78cfa37dab5101dd6ff11e587d"
+                                        },
+                                        "elf_iamcu.xcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10272
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7d5ea7043bb758e6f6bb5633ed8897e189144610ba88b83625f0a2ae8622a06f"
+                                        },
+                                        "elf_iamcu.xd": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10068
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9fdc7f00364361b3a8d4069cabbe6242d907ae974ebc95e7e0e66ccc1e423975"
+                                        },
+                                        "elf_iamcu.xdc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 9883
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/019054adabdbb6c9f8bf83c109963694e31ac9e24fa3f178d0954b8193877b9d"
+                                        },
+                                        "elf_iamcu.xdce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10229
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e774e42749cc0f517a6ebea98f9b4fc5e2d6f47c017dd4eca0472126c3489501"
+                                        },
+                                        "elf_iamcu.xdcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2232444,
+                                                "mtime": 1741035682.0,
+                                                "size": 10171
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7058b1bcaef4ae6bf5e1eab3ec7066deb0366fa0126577899b42a1204d5d108f"
+                                        },
+                                        "elf_iamcu.xde": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10414
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2972fa8ef841e5c135dc4fb6de82f9116dc5a2e05e7607548b0acdde72dec7b8"
+                                        },
+                                        "elf_iamcu.xder": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10356
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4110c987ed397230aceda115bb764fb6ccfcd3483520a4f64fe5eeae9a555a1c"
+                                        },
+                                        "elf_iamcu.xdw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9844
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/12a8b0918cfb3e9de5393b357d2083750357d5964a3ed0f61e9df07966b4e36e"
+                                        },
+                                        "elf_iamcu.xdwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10190
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3432c7fa80695456725e7fc876db0ac9444add46cf0a14982c15928dbb78a5a5"
+                                        },
+                                        "elf_iamcu.xdwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10132
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f7aa60cb660d953aadb787508053470f8ab878b2c7f74542533f44e8e77e0a62"
+                                        },
+                                        "elf_iamcu.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10515
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0d3fec7c5423cc7e9118db302541251178989269b0518ebf090f610994b96401"
+                                        },
+                                        "elf_iamcu.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10457
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/811a33299e1f44435e70a7dad1643e155fda885ed29d72de12592258047edba7"
+                                        },
+                                        "elf_iamcu.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10172
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/821b16dbc3d934aad5848662d00c1528894cac264739b96a692abb967944f461"
+                                        },
+                                        "elf_iamcu.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 6328
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3dbac7e4028a227dfe465bce29f4418a320b1e85b6c20da10583f4e020c5d1a7"
+                                        },
+                                        "elf_iamcu.xs": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9688
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/da3e9b3204a1f41dc18ffc72dc42841524fd81cba82cbd2d0f682d1c7e774f05"
+                                        },
+                                        "elf_iamcu.xsc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9503
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/88df92b257b0dedf281689a380c2d2040e590a39a9872e2e2f47d83a5e1394b7"
+                                        },
+                                        "elf_iamcu.xsce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9849
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8f43c068ca12739951f33310961864fe92c6eb4ce4aa97b55ba7ae57a51c37c6"
+                                        },
+                                        "elf_iamcu.xscer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9791
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/624de7627ad55ad7a05c5ee4990a91961147338d0d132c5e6a3bc3d636b29e93"
+                                        },
+                                        "elf_iamcu.xse": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10034
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/db57064dc0a1fed868e8094ccbd7f3dfe24b6dd5735538c212ec44aa7eefe277"
+                                        },
+                                        "elf_iamcu.xser": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9976
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/951f81c1d6e91d0f59692a99d2abb02acdf55a521e77f360001d0bddca94f415"
+                                        },
+                                        "elf_iamcu.xsw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9464
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/bf9a72f342e5a6722ef1898bbd88fb94ad777047241e38b10a6ebbd1fcf401b3"
+                                        },
+                                        "elf_iamcu.xswe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9810
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7ed40437df31ba0f6d668334a780558bce94619182e210bd471d71eaa2fddc3c"
+                                        },
+                                        "elf_iamcu.xswer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9752
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/926587eb2022248228a3828152365f6577b6d657263929e7ef81f5493281db85"
+                                        },
+                                        "elf_iamcu.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 6352
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/135512481e013531494ae4448c75674d2d56838a5a3ff37b74383358b0552ae7"
+                                        },
+                                        "elf_iamcu.xw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 9945
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/1b85f2136747cf01fb580578dbe553a44f83ec5f6da8e2aa731a9eade4f61514"
+                                        },
+                                        "elf_iamcu.xwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10291
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0b2053a8a41fc147e7ea40b62c11325f66e0c3398ea3dfa7b973ff8458cfc070"
+                                        },
+                                        "elf_iamcu.xwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10233
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/82ce2149cd3352e8098ca0a7a23ff20a81c871de6b816d599e1706b2a9b01def"
+                                        },
+                                        "elf_x86_64.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 11122
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8e336d3bf98d9f3d0907c3877bc9e0de43d029972d73065c0277fb95ca519384"
+                                        },
+                                        "elf_x86_64.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10925
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/65655eafb0d97f1828499faa1d26876a5a3687f703d4424f9e3606adb51b2d6c"
+                                        },
+                                        "elf_x86_64.xc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10768
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/014db82f42f8c224ee1d38047a5b33c46d611e09a5d6be396b45073f8d365e33"
+                                        },
+                                        "elf_x86_64.xce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 11114
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d6e36472501b49b927810566c9f1d53e6a50796538292e4149fbc860417a0abf"
+                                        },
+                                        "elf_x86_64.xcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 11056
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/39a47067503ce5f2be89d5ac10031c59fc888a1e1afc1f63912665e137d36591"
+                                        },
+                                        "elf_x86_64.xd": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10988
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/948788058f3f8181b17d20a5cbf981e5556746aa4b61fc0177f69b761671a95a"
+                                        },
+                                        "elf_x86_64.xdc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10669
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9b5942076bf52844c3265fc8b6cceb2058040a06f60738589fde2a58dc0ef4a7"
+                                        },
+                                        "elf_x86_64.xdce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 11015
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e62878fa259f2b90e4869c8c8dc23f91071a676d1467ac3108c3ff9ac4d13781"
+                                        },
+                                        "elf_x86_64.xdcer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2272449,
+                                                "mtime": 1741035682.0,
+                                                "size": 10957
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/a3d54fd42725e1311fef7f03443aeaf2d147458e3b61a21160362d26ec0c2017"
+                                        },
+                                        "elf_x86_64.xde": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11334
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4dc9defd2aac10bd9c85869efafc5d4525f4a851fb40a220b51d2c17e24a1fe6"
+                                        },
+                                        "elf_x86_64.xder": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11276
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d6906b4e642b44ff6e70e4e32842691b24810fd4b51c7de78c7bc36209717cdd"
+                                        },
+                                        "elf_x86_64.xdw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10630
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c5f73ef0e167d7e14ab26067a994089ceb0102f3a63c2ba51b81d558f916b4e4"
+                                        },
+                                        "elf_x86_64.xdwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10976
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/91cfabb135e63c42396bbaa80ef830c156c2bad184c498db71ea5324ced3cab6"
+                                        },
+                                        "elf_x86_64.xdwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10918
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/1047c0fe7cf760b8e7665ce42bfecf978e1781baf84141f98e02dbfce9f54c27"
+                                        },
+                                        "elf_x86_64.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11433
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/637303f118377fb011219ff03f297b44960e7da220a25ea87e6a464f43d423be"
+                                        },
+                                        "elf_x86_64.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11375
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7b7396de9fd390e686933d6a9c1a87663fd52a829ba84d2e5b19c40f1a99516a"
+                                        },
+                                        "elf_x86_64.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11090
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/12803c4cb2ed5668794d52990293e2ba5abd8c0b7a0dd0e05b9e2cf28eabe07e"
+                                        },
+                                        "elf_x86_64.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 6654
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6b710017a9966449c85fde81a6d9d8c09c4902b2c0a7ddc9e76fab75816dc115"
+                                        },
+                                        "elf_x86_64.xs": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10608
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8308c684cf7fcc72de3602250a4ff04c8d5c51926f22d755adc57e1fb7c59d20"
+                                        },
+                                        "elf_x86_64.xsc": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10289
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/28438b630c8a2e2721123e85cd1b828c87cef886781db549afeb7342e353af5e"
+                                        },
+                                        "elf_x86_64.xsce": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10635
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/fd687a2a7b93e0fb0a51f89db2e9668bcddf08d2e6a13735783deda7f134696a"
+                                        },
+                                        "elf_x86_64.xscer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10577
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f7d0962fd15c5a30fc309017c4ddf48a74244e16bd0ac8269cd5d851e44ce8f0"
+                                        },
+                                        "elf_x86_64.xse": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10954
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/50e370cc4bc61f9addfe64f8d716cfca80bc5b58236aa947d6533a81321c84c3"
+                                        },
+                                        "elf_x86_64.xser": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10896
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d5364a0f96cc311351f63a36442f54c2c86c9867042838236c2dc1c94394a6b6"
+                                        },
+                                        "elf_x86_64.xsw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10250
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/80c3fe6f2bc7498d99d127669a29112ae7e9fff913f1eb0978ceeda2c7bae8c0"
+                                        },
+                                        "elf_x86_64.xswe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10596
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/dfc3172a45eaf426b6dc3d7eb041370800ad8c17ff9c4c3e9c79be8de6f85d68"
+                                        },
+                                        "elf_x86_64.xswer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10538
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/64511aa00811c1cede11352a4e74cd27a5d55f20f6ce222f0eda01b35663d550"
+                                        },
+                                        "elf_x86_64.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 6678
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/34707b4fdcc165d57224c8ad480959ffbe30200d88838a164e491c0974f4f520"
+                                        },
+                                        "elf_x86_64.xw": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10729
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c73ebcc92887adc975c749b0b39cf522b4142daf4a15c9da59459fb9b0bb8a2d"
+                                        },
+                                        "elf_x86_64.xwe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11075
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/bdea83002417e84f9045a2152e4842ba28c6a348b026387e7ab7fb94b54d31cf"
+                                        },
+                                        "elf_x86_64.xwer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 11017
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/24deb6e37dd8338999c0071126cc4bc849f60d6a9bf9c9b23438964b30a609c9"
+                                        },
+                                        "i386pe.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10739
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/13aff2268f1b2615d6fae284b425482138e9593cbb188ff62c6494f5f37ad5d3"
+                                        },
+                                        "i386pe.xa": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10725
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/52adcd0547520307e75653876d4fd2ffcf0ce847da35cd6ebea91d51d5bd40d7"
+                                        },
+                                        "i386pe.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10707
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5907ff03860adcffb2bbaec6703b2acece93fbd414840a7c15c26e9449485299"
+                                        },
+                                        "i386pe.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.231245,
+                                                "mtime": 1741035682.0,
+                                                "size": 10721
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/610d3e0ce6d81a246edbca02a1f63e6399d2aeb12355065fd49c6aa1c3022a22"
+                                        },
+                                        "i386pe.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 10733
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/966eb66c3a059943d64c8e503b8d31310f5c123ec62575dc75e5351bae373889"
+                                        },
+                                        "i386pe.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 10707
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/35b417785047118cea9c47b3e6b3ba6f061a7bc5fd657095f7eacfc934b38b05"
+                                        },
+                                        "i386pe.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 4680
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ef25e19452c7b62834d77be86ce9147885e6ba7b1b1998236443a78be7900431"
+                                        },
+                                        "i386pe.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 6156
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/1021674b47ed2c99a1c9331f262b38c14f47367a5d4ec52ed5dc0b4f074a20f2"
+                                        },
+                                        "i386pep.x": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11092
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/283b41ed8d9a553b941911fd083ede44344037d140b67b50bb32644e8ec7411b"
+                                        },
+                                        "i386pep.xa": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11078
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ec495165ef7f9d28859366ab0283daff4584029f4511560e83f4de5221be749f"
+                                        },
+                                        "i386pep.xbn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11060
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7dedc02729715b6b20d594412bd1de742b96ee1220b62b7142c5710a9db2f0fa"
+                                        },
+                                        "i386pep.xe": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11074
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/aef75634f78d6385593fa90fdd87bd01094c1498ab5f79e040a447bfe0b3fa91"
+                                        },
+                                        "i386pep.xer": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11086
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6744bfcd3cfd5d149e9fe5eefda81a39a94428f1969b0c6a77b54c0832e803ce"
+                                        },
+                                        "i386pep.xn": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 11060
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3be92cbe36d896383b081acf7dddcde87a2d84a76da6801403d991795648f5a4"
+                                        },
+                                        "i386pep.xr": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 4938
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/045c2cdd7f8f90287990c31464643f8e5865a4e5083d2b0721e8786bf2bda1a1"
+                                        },
+                                        "i386pep.xu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 6495
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/87c81e9e25ebe1c2e2a4a11a9b6ee8dd9cd6d4904b2154303be39a0f6183123d"
+                                        },
+                                        "stamp": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 0
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.2392454,
+                        "mtime": 1741035682.0,
+                        "size": 26
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2392454,
+                                "mtime": 1741035682.0,
+                                "size": 66
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "binutils": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1741035682.0,
+                                        "size": 42
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "test-summary-amd64.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 33458
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ef744882a1a4d2587017b02261b328e4d0922208d72a5ad5f8bcffe374608a4d"
+                                        }
+                                    }
+                                },
+                                "binutils-x86-64-linux-gnu": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1777906377.2392454,
+                                        "size": 11
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libbinutils"
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2392454,
+                                "mtime": 1741035682.0,
+                                "size": 18
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1741035682.0,
+                                        "size": 50
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "binutils-x86-64-linux-gnu": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2352452,
+                                                "mtime": 1741035682.0,
+                                                "size": 87
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/89d2d82e37fd07c1efefc3416b2a7b4e23dd75952687453360ef120024bdaba7"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "man": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2392454,
+                                "mtime": 1741035682.0,
+                                "size": 8
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "man1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.2392454,
+                                        "mtime": 1741035682.0,
+                                        "size": 874
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "x86_64-linux-gnu-addr2line.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 14
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "addr2line.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-ar.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 7
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "ar.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-as.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 7
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "as.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-c++filt.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "c++filt.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-elfedit.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "elfedit.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-gprof.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 10
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "gprof.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-ld.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 7
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "ld.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-ld.bfd.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 11
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "ld.bfd.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-nm.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 7
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "nm.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-objcopy.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "objcopy.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-objdump.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "objdump.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-ranlib.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 11
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "ranlib.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-readelf.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "readelf.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-size.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 9
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "size.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-strings.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 12
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "strings.1.gz"
+                                        },
+                                        "x86_64-linux-gnu-strip.1.gz": {
+                                            "stat": {
+                                                "perm": 41471,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.2392454,
+                                                "mtime": 1777906377.2392454,
+                                                "size": 10
+                                            },
+                                            "deserializer": "symlink",
+                                            "file": "strip.1.gz"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

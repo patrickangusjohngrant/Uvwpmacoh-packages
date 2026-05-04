@@ -1,0 +1,177 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.7673223,
+        "mtime": 1731606632.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.763322,
+                "mtime": 1777906378.763322,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.763322,
+                        "mtime": 1777906378.763322,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.763322,
+                                "mtime": 1777906378.763322,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7673223,
+                "mtime": 1731606632.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7673223,
+                        "mtime": 1731606632.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7673223,
+                                "mtime": 1731606632.0,
+                                "size": 104
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdebian-installer.so.4.0.8": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.763322,
+                                        "mtime": 1731606632.0,
+                                        "size": 62328
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/bd6097de688bdc555eedd2a2834df467c7558fece99586f2b1a9d0f8dc24902a"
+                                },
+                                "libdebian-installer.so.4": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7673223,
+                                        "mtime": 1777906378.7673223,
+                                        "size": 28
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libdebian-installer.so.4.0.8"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7673223,
+                        "mtime": 1731606632.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7673223,
+                                "mtime": 1731606632.0,
+                                "size": 40
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdebian-installer4": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7673223,
+                                        "mtime": 1731606632.0,
+                                        "size": 42
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7673223,
+                                                "mtime": 1731606632.0,
+                                                "size": 1165
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/52cf5a0756baeea3d8594212c77d7db7350c7be64556bebf3c6664acd13c6a8e"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7673223,
+                                                "mtime": 1714761416.0,
+                                                "size": 2323
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b975105af2caa3df36063d196bb7fdd540e566daf02ccc99599de6b00b96bbc0"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

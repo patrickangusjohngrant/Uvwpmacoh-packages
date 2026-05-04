@@ -1,0 +1,273 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.3632517,
+        "mtime": 1741035682.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.3352501,
+                "mtime": 1777906377.3352501,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3352501,
+                        "mtime": 1777906377.3352501,
+                        "size": 188
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libbinutils (= 2.44-3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3352501,
+                                "mtime": 1777906377.3352501,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3352501,
+                                "mtime": 1777906377.3352501,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libgcc-s1 (>= 3.3.1)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3352501,
+                                "mtime": 1777906377.3352501,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libstdc++6 (>= 14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3352501,
+                                "mtime": 1777906377.3352501,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3352501,
+                                "mtime": 1777906377.3352501,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.3632517,
+                "mtime": 1741035682.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3632517,
+                        "mtime": 1741035682.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3632517,
+                                "mtime": 1741035682.0,
+                                "size": 82
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "gprofng": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3632517,
+                                        "mtime": 1741035682.0,
+                                        "size": 162
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libgp-collector.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3432505,
+                                                "mtime": 1741035682.0,
+                                                "size": 1403552
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b2e399ec0264575402fa7dcd83e4db656741f69cccb2f63b15d6833abe121afe"
+                                        },
+                                        "libgp-collectorAPI.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3432505,
+                                                "mtime": 1741035682.0,
+                                                "size": 14456
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/da37cf3a67f26b44fbdae5f28ad690be452b521f03c6b014fe481c943bd58459"
+                                        },
+                                        "libgp-heap.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3432505,
+                                                "mtime": 1741035682.0,
+                                                "size": 14640
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/a9759d0648ed780573658965a4508f982964208494ac14ff64b8812deaf69c3e"
+                                        },
+                                        "libgp-iotrace.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3432505,
+                                                "mtime": 1741035682.0,
+                                                "size": 63728
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6766ce0150d66fa00f901518316938875a7fd49e5c5cffbcadc570d21718d81f"
+                                        },
+                                        "libgp-sync.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3432505,
+                                                "mtime": 1741035682.0,
+                                                "size": 26832
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/fc2487d5dd33f32f4595a70049875234e961ed70652bfe44dc46f31bfdd255e9"
+                                        }
+                                    }
+                                },
+                                "libgprofng.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3632517,
+                                        "mtime": 1741035682.0,
+                                        "size": 2452624
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/fc60ed23346dd936686ec4b77ddc9f54f1003c47b3b560ec927e42d3bd27dc16"
+                                },
+                                "libgprofng.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3632517,
+                                        "mtime": 1777906377.3632517,
+                                        "size": 19
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libgprofng.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3632517,
+                        "mtime": 1741035682.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3632517,
+                                "mtime": 1741035682.0,
+                                "size": 22
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libgprofng0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3632517,
+                                        "mtime": 1777906377.3632517,
+                                        "size": 11
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libbinutils"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

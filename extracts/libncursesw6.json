@@ -1,0 +1,236 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.91533,
+        "mtime": 1741276915.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.9113297,
+                "mtime": 1777906378.9113297,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.9113297,
+                        "mtime": 1777906378.9113297,
+                        "size": 86
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libtinfo6 (= 6.5+20250216-2)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.9113297,
+                                "mtime": 1777906378.9113297,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.9113297,
+                                "mtime": 1777906378.9113297,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.91533,
+                "mtime": 1741276915.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.91533,
+                        "mtime": 1741276915.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.91533,
+                                "mtime": 1741276915.0,
+                                "size": 240
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libformw.so.6.5": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.9113297,
+                                        "mtime": 1741276915.0,
+                                        "size": 81296
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/10b2e85c3e0ebb8ebc6ef72892260bbede80bfaa4a89ecee6019513d879a25de"
+                                },
+                                "libmenuw.so.6.5": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1741276915.0,
+                                        "size": 43416
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/3b2893222b8e5bb847a11162e0e24e6be523abbd575f1c5ce5ebc63ab9f360f4"
+                                },
+                                "libncursesw.so.6.5": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1741276915.0,
+                                        "size": 235520
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/ea1e3fea29b3d3f35e240f626e5e783885d1d17f7915e7840f2a1542058c154c"
+                                },
+                                "libpanelw.so.6.5": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1741276915.0,
+                                        "size": 22528
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/00fe6bd6cf946faace4dd2812b1afd7a7f2b6e578d436148dac5ba2c10ec74f5"
+                                },
+                                "libformw.so.6": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1777906378.91533,
+                                        "size": 15
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libformw.so.6.5"
+                                },
+                                "libmenuw.so.6": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1777906378.91533,
+                                        "size": 15
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libmenuw.so.6.5"
+                                },
+                                "libncursesw.so.6": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1777906378.91533,
+                                        "size": 18
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libncursesw.so.6.5"
+                                },
+                                "libpanelw.so.6": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1777906378.91533,
+                                        "size": 16
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libpanelw.so.6.5"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.91533,
+                        "mtime": 1741276915.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.91533,
+                                "mtime": 1741276915.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libncursesw6": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.91533,
+                                        "mtime": 1777906378.91533,
+                                        "size": 9
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libtinfo6"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

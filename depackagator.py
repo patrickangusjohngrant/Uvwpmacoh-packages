@@ -1,41 +1,60 @@
 #!/usr/bin/python3
+"""
+Walk every .deb in source.deb/, extract, and emit a JSON manifest per package
+into extracts/ describing the files. File contents are not embedded; instead
+each leaf file is copied to ./blobs/<sha256> and the JSON stores the
+*relative* URL "/blobs/<sha256>". The guest's web.ml prepends --http-server
+at runtime, so a local Python http.server can host this directory tree.
+
+This replaces the original S3/CloudFront upload path; everything is local.
+"""
 
 import debian.debfile
-debian.debfile.PART_EXTS += ['xz']
-
 from glob import glob
+import hashlib
 import json
 import os
-import pprint
 import shutil
 import sys
 import stat
-import lzma
-import re
 
-from boto.s3.key import Key
-import boto.s3.connection
 
-bucket = boto.s3.connection.S3Connection().get_bucket("uvwpmacoh")
-
+# Packages that exist as virtual/relationship targets only (no real .deb).
+# Originally Ubuntu-flavoured; now Debian trixie-flavoured.
 placeholders = [
-    "perlapi-5.18.1",
+    "awk",
+    "default-mta",
+    "mail-transport-agent",
+    "perl:any",
+    "perlapi-5.40.0",
     "python3:any",
-    "python:any",
-    "upstart-job",
-    "xorg-input-abi-19",
-    "xorg-input-abi-20",
-    "xorg-input-abi-21",
-    "xorg-video-abi-14",
-    "xorg-video-abi-15",
-    "xorg-video-abi-18",
 ]
+
 
 # Use fakeroot so that when the debs are extracted, the correct metadata is
 # preserved.
 if os.getuid() != 0:
     f = "/usr/bin/fakeroot"
     os.execv(f, [f] + sys.argv)
+
+
+BLOBS_DIR = "blobs"
+
+
+def store_blob(path):
+    """Copy `path` into BLOBS_DIR keyed by sha256 of its content; return a
+    relative URL ("/blobs/<sha256>") that the guest will resolve against
+    --http-server."""
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b""):
+            h.update(chunk)
+    digest = h.hexdigest()
+    os.makedirs(BLOBS_DIR, exist_ok=True)
+    target = os.path.join(BLOBS_DIR, digest)
+    if not os.path.exists(target):
+        shutil.copy2(path, target)
+    return f"/{target}"
 
 
 def packagator(extract, url, force_root=False):
@@ -45,12 +64,9 @@ def packagator(extract, url, force_root=False):
     """
     s = os.lstat(extract)
 
-    # TODO: use partialoverride for stat override?
     override = extract + ".stat-override.json"
     fileoverride = extract + ".file-override.json"
     partialoverride = extract + ".partial-override.json"
-    
-    print(fileoverride)
 
     if os.path.exists(fileoverride):
         return json.load(open(fileoverride))
@@ -94,18 +110,8 @@ def packagator(extract, url, force_root=False):
         ret["file"] = os.readlink(extract)
     else:
         ret["deserializer"] = "url"
+        ret["file"] = store_blob(extract)
 
-        # Upload to amazon
-        key = Key(bucket)
-        key.set_contents_from_filename(extract)
-        key.change_storage_class("REDUCED_REDUNDANCY")
-
-        # Um. Ssssh.
-        ret["file"] = key.generate_url(expires_in=0, query_auth=False).replace(
-            "https://uvwpmacoh.s3.amazonaws.com:443/",
-            "http://d1fhml1jgvxldu.cloudfront.net/"
-        )
- 
     if os.path.exists(partialoverride):
         overrides = json.load(open(partialoverride))
         for k, v in overrides.items():
@@ -115,9 +121,6 @@ def packagator(extract, url, force_root=False):
 
 
 def safe_mkdirs(path):
-    """
-    Same as os.makedirs except without throwing an exception if "path" exists.
-    """
     if not os.path.isdir(path):
         os.makedirs(path)
 
@@ -142,7 +145,6 @@ def depackage(source, destination, force=False, metadata_overrides={}):
     )
 
     if os.path.exists(json_file):
-        #print "Skipping " + metadata['debcontrol']['Package']
         return
 
     extract_dir = os.path.join(
@@ -162,21 +164,8 @@ def depackage(source, destination, force=False, metadata_overrides={}):
                 )
             )
 
-    # Don't look! "python-debian" doesn't support .xz files. This patches that
-    # up.
-    if source.data._DebPart__member.name.endswith("xz"):
-        import tempfile
-        import tarfile
-        t1 = tempfile.TemporaryFile(mode="rb+")
-        t1.write(source.data._DebPart__member.read())
-        t1.seek(0)
-        t2 = tempfile.NamedTemporaryFile(mode="rb+")
-        lz = lzma.LZMAFile(filename="/proc/%s/fd/%d" % (os.getpid(), t1.fileno()))
-        t2.write(lz.read())
-        t2.seek(0)
-        source.data._DebPart__tgz = tarfile.TarFile(fileobj=t2, mode='r')
-
-    # Extract the .tar
+    # python-debian on trixie handles .xz and .zst transparently, so the old
+    # private-attribute hack (._DebPart__tgz) is gone.
     source.data.tgz().extractall(extract_dir)
 
     # Add over the overlay stuff
@@ -197,7 +186,6 @@ def depackage(source, destination, force=False, metadata_overrides={}):
                 new_filename
             )
 
-    # And invert it
     package = packagator(
         extract_dir,
         os.path.join(
@@ -211,30 +199,23 @@ def depackage(source, destination, force=False, metadata_overrides={}):
         for f in filenames:
             f = os.path.join(dirpath, f)
             if not os.path.islink(f):
-                os.chmod(
-                    f,
-                    0o644
-                )
-   
-    # Aand write to disk.
+                os.chmod(f, 0o644)
+
     with open(json_file, "w") as f:
-        json.dump(
-            package,
-            f,
-            indent=4
-        )
+        json.dump(package, f, indent=4)
+
 
 def main(force=False):
     destination = "extracts/"
     if os.path.isdir(destination):
         if force:
             shutil.rmtree(destination)
+    safe_mkdirs(destination)
 
     for package in glob("source.deb/*.deb"):
         print("Processing " + package)
         debfile = debian.debfile.DebFile(package)
 
-        # dead code?
         json_overrides_file = \
             "source.json/%s.json" % debfile.debcontrol()['Package']
 

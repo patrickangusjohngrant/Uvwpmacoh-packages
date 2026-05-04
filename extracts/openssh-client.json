@@ -1,140 +1,202 @@
 {
     "stat": {
-        "uid": 0,
-        "mtime": 1412861343.0,
-        "size": 4096,
         "perm": 16877,
+        "uid": 0,
         "gid": 0,
-        "ctime": 1424381780.9789195
+        "ctime": 1777906376.5832121,
+        "mtime": 1775345360.0,
+        "size": 26
     },
     "deserializer": "directory",
     "file": {
         "control": {
             "stat": {
-                "uid": 0,
-                "mtime": 1424381780.8949192,
-                "size": 4096,
                 "perm": 16893,
+                "uid": 0,
                 "gid": 0,
-                "ctime": 1424381780.8949192
+                "ctime": 1777906376.5352097,
+                "mtime": 1777906376.5352097,
+                "size": 16
             },
             "deserializer": "directory",
             "file": {
                 "packages": {
                     "stat": {
-                        "uid": 0,
-                        "mtime": 1424381780.8949192,
-                        "size": 4096,
                         "perm": 16893,
+                        "uid": 0,
                         "gid": 0,
-                        "ctime": 1424381780.8949192
+                        "ctime": 1777906376.5352097,
+                        "mtime": 1777906376.5352097,
+                        "size": 390
                     },
                     "deserializer": "directory",
                     "file": {
-                        "libgssapi-krb5-2 (>= 1.12.1+dfsg-2)": {
+                        "adduser": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
                                 "perm": 16893,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.8949192
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
                             },
                             "deserializer": "directory",
                             "file": {}
                         },
-                        "dpkg (>= 1.7.0)": {
+                        "init-system-helpers (>= 1.66~)": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
                                 "perm": 16893,
-                                "gid": 0,
-                                "ctime": 1424381780.8949192
-                            },
-                            "deserializer": "directory",
-                            "file": {}
-                        },
-                        "libselinux1 (>= 1.32)": {
-                            "stat": {
                                 "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
-                                "perm": 16893,
                                 "gid": 0,
-                                "ctime": 1424381780.8949192
-                            },
-                            "deserializer": "directory",
-                            "file": {}
-                        },
-                        "libedit2 (>= 2.11-20080614)": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
-                                "perm": 16893,
-                                "gid": 0,
-                                "ctime": 1424381780.8949192
-                            },
-                            "deserializer": "directory",
-                            "file": {}
-                        },
-                        "zlib1g (>= 1:1.1.4)": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
-                                "perm": 16893,
-                                "gid": 0,
-                                "ctime": 1424381780.8949192
-                            },
-                            "deserializer": "directory",
-                            "file": {}
-                        },
-                        "libc6 (>= 2.17)": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
-                                "perm": 16893,
-                                "gid": 0,
-                                "ctime": 1424381780.8949192
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
                             },
                             "deserializer": "directory",
                             "file": {}
                         },
                         "passwd": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
                                 "perm": 16893,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.8949192
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
                             },
                             "deserializer": "directory",
                             "file": {}
                         },
-                        "libssl1.0.0 (>= 1.0.1)": {
+                        "libc6 (>= 2.38)": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
                                 "perm": 16893,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.8949192
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
                             },
                             "deserializer": "directory",
                             "file": {}
                         },
-                        "adduser (>= 3.10)": {
+                        "libedit2 (>= 2.11-20080614-0)": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.8949192,
-                                "size": 4096,
                                 "perm": 16893,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.8949192
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libfido2-1 (>= 1.8.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libgssapi-krb5-2 (>= 1.17)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libselinux1 (>= 3.1~)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libssl3t64 (>= 3.0.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1777906376.5352097,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "etc": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906376.5832121,
+                "mtime": 1775345360.0,
+                "size": 6
+            },
+            "deserializer": "directory",
+            "file": {
+                "ssh": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.5832121,
+                        "mtime": 1775345360.0,
+                        "size": 44
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "ssh_config": {
+                            "stat": {
+                                "perm": 33188,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5352097,
+                                "mtime": 1775345360.0,
+                                "size": 1668
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/2a6f95f82ff24c74627826953f3414ff856231235ca387c1bf60d08fa81ac77e"
+                        },
+                        "ssh_config.d": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 0
                             },
                             "deserializer": "directory",
                             "file": {}
@@ -145,355 +207,342 @@
         },
         "usr": {
             "stat": {
-                "uid": 0,
-                "mtime": 1412861341.0,
-                "size": 4096,
                 "perm": 16877,
+                "uid": 0,
                 "gid": 0,
-                "ctime": 1424381780.9789195
+                "ctime": 1777906376.5832121,
+                "mtime": 1775345360.0,
+                "size": 22
             },
             "deserializer": "directory",
             "file": {
-                "share": {
+                "bin": {
                     "stat": {
-                        "uid": 0,
-                        "mtime": 1412861345.0,
-                        "size": 4096,
                         "perm": 16877,
+                        "uid": 0,
                         "gid": 0,
-                        "ctime": 1424381780.9789195
+                        "ctime": 1777906376.5832121,
+                        "mtime": 1775345360.0,
+                        "size": 134
                     },
                     "deserializer": "directory",
                     "file": {
-                        "upstart": {
+                        "scp": {
                             "stat": {
+                                "perm": 33261,
                                 "uid": 0,
-                                "mtime": 1412861341.0,
-                                "size": 4096,
-                                "perm": 16877,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5392098,
+                                "mtime": 1775345360.0,
+                                "size": 227968
                             },
-                            "deserializer": "directory",
-                            "file": {
-                                "sessions": {
-                                    "stat": {
-                                        "uid": 0,
-                                        "mtime": 1412861341.0,
-                                        "size": 4096,
-                                        "perm": 16877,
-                                        "gid": 0,
-                                        "ctime": 1424381780.9789195
-                                    },
-                                    "deserializer": "directory",
-                                    "file": {
-                                        "ssh-agent.conf": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861341.0,
-                                                "size": 792,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/a4936a335c1eb026990bab030de50674"
-                                        }
-                                    }
-                                }
-                            }
+                            "deserializer": "url",
+                            "file": "/blobs/2ca4d549fef091084350fff8bcf6729f17e774fb183f32d0912a784505488de2"
                         },
-                        "man": {
+                        "sftp": {
                             "stat": {
+                                "perm": 33261,
                                 "uid": 0,
-                                "mtime": 1412861341.0,
-                                "size": 4096,
-                                "perm": 16877,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5392098,
+                                "mtime": 1775345360.0,
+                                "size": 240224
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/9f03d0889153914e1b9612834d06ab73b1b106ba808dd4935da048a472bd354a"
+                        },
+                        "ssh": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5512104,
+                                "mtime": 1775345360.0,
+                                "size": 1043488
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/6fa483e69c757f6cc7f9e1ba783412e772d3affb48fc36fe0ca42798013d6be2"
+                        },
+                        "ssh-add": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5552106,
+                                "mtime": 1775345360.0,
+                                "size": 444864
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/37db95f92d0a9263352a7e8ab72d131e0ee32cb6cf5b3496db43ec8f3eca10a1"
+                        },
+                        "ssh-agent": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5592108,
+                                "mtime": 1775345360.0,
+                                "size": 420224
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/b80c101841aece1a0163035894144cb85c6640903c0dafa2c6247b173529ef55"
+                        },
+                        "ssh-argv0": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5592108,
+                                "mtime": 1774783358.0,
+                                "size": 1455
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/fcf4ffdfab652a0882b7b2417a25265d07a936c4268e2d3f4dec14797a9e5734"
+                        },
+                        "ssh-copy-id": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5592108,
+                                "mtime": 1744182163.0,
+                                "size": 14170
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/d6666d3a3e50681936374efa7a3ae1000fffaffc57d597c6dfa7a75378927437"
+                        },
+                        "ssh-keygen": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.563211,
+                                "mtime": 1775345360.0,
+                                "size": 567744
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/4c417388aee4c71970270237ac5822c6da18460d3cb5201d1613e2242f8e9461"
+                        },
+                        "ssh-keyscan": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5672114,
+                                "mtime": 1775345360.0,
+                                "size": 584160
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/134dcd47f081e412dcf8d06851bff3a22bff8a1c15155baed07cff0591e41884"
+                        }
+                    }
+                },
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.5832121,
+                        "mtime": 1775345360.0,
+                        "size": 48
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "openssh": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 82
                             },
                             "deserializer": "directory",
                             "file": {
-                                "man1": {
+                                "ssh-keysign": {
                                     "stat": {
+                                        "perm": 35309,
                                         "uid": 0,
-                                        "mtime": 1412861346.0,
-                                        "size": 4096,
-                                        "perm": 16877,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5672114,
+                                        "mtime": 1775345360.0,
+                                        "size": 494144
                                     },
-                                    "deserializer": "directory",
-                                    "file": {
-                                        "ssh.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 14377,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bd6fe995eae9aa839d61e737d4ed6fe9"
-                                        },
-                                        "ssh-add.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 2777,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c844e26b5746c4fe94094ce2ee897291"
-                                        },
-                                        "slogin.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1424381780.9789195,
-                                                "size": 8,
-                                                "perm": 41471,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9789195
-                                            },
-                                            "deserializer": "symlink",
-                                            "file": "ssh.1.gz"
-                                        },
-                                        "sftp.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 5284,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/88465cb0c4819c3101d06d8e098a823b"
-                                        },
-                                        "ssh-keyscan.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 2020,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5403bfc41e9ccc23f174355404d4f44c"
-                                        },
-                                        "ssh-copy-id.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 2871,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d9fa0fdcef96b32c63c92187a9e563f2"
-                                        },
-                                        "ssh-keygen.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 8782,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/eabb188754c56f5b79ddcd7870cd07ee"
-                                        },
-                                        "scp.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 2200,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bbd94fc20426b6c716e204d063bd0d30"
-                                        },
-                                        "ssh-agent.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 3257,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5e19ad1e896bcc85907695b14f337fca"
-                                        },
-                                        "ssh-argv0.1.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 721,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/30ad92fee303b792a84d25ce7a282d85"
-                                        }
-                                    }
+                                    "deserializer": "url",
+                                    "file": "/blobs/c88e43829a224325fc5012659160555bab01d05016022488dc09eb13937dd420"
                                 },
-                                "man5": {
+                                "ssh-pkcs11-helper": {
                                     "stat": {
+                                        "perm": 33261,
                                         "uid": 0,
-                                        "mtime": 1412861345.0,
-                                        "size": 4096,
-                                        "perm": 16877,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5712116,
+                                        "mtime": 1775345360.0,
+                                        "size": 395632
                                     },
-                                    "deserializer": "directory",
-                                    "file": {
-                                        "ssh_config.5.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 13883,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/43bdd52552084f32f6d32cee8e2887de"
-                                        },
-                                        "moduli.5.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 1801,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b3cce9472de613cc6cb967aa63a7e28f"
-                                        }
-                                    }
+                                    "deserializer": "url",
+                                    "file": "/blobs/fef51837fe577884bdadf857f31848e6916c71ccdfe61253514fc4282bed2d5b"
                                 },
-                                "man8": {
+                                "ssh-sk-helper": {
                                     "stat": {
+                                        "perm": 33261,
                                         "uid": 0,
-                                        "mtime": 1412861345.0,
-                                        "size": 4096,
-                                        "perm": 16877,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5712116,
+                                        "mtime": 1775345360.0,
+                                        "size": 387440
                                     },
-                                    "deserializer": "directory",
-                                    "file": {
-                                        "ssh-keysign.8.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 1457,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/2e4b0b138cda24d4638b84a619ebf9b4"
-                                        },
-                                        "ssh-pkcs11-helper.8.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861343.0,
-                                                "size": 810,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9669194
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9d6e0de0de9ce4b443460461d7dd01e9"
-                                        }
-                                    }
+                                    "deserializer": "url",
+                                    "file": "/blobs/47cd2bb19f7f32d561d4d2076a870818d771e65880ea872075eea16120e0a739"
                                 }
                             }
                         },
-                        "lintian": {
+                        "systemd": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1412861345.0,
-                                "size": 4096,
                                 "perm": 16877,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 8
                             },
                             "deserializer": "directory",
                             "file": {
-                                "overrides": {
+                                "user": {
                                     "stat": {
-                                        "uid": 0,
-                                        "mtime": 1412861345.0,
-                                        "size": 4096,
                                         "perm": 16877,
+                                        "uid": 0,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 134
                                     },
                                     "deserializer": "directory",
                                     "file": {
-                                        "openssh-client": {
+                                        "graphical-session-pre.target.wants": {
                                             "stat": {
+                                                "perm": 16877,
                                                 "uid": 0,
-                                                "mtime": 1404092812.0,
-                                                "size": 73,
-                                                "perm": 33188,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5832121,
+                                                "mtime": 1775345360.0,
+                                                "size": 34
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "ssh-agent.service": {
+                                                    "stat": {
+                                                        "perm": 41471,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906376.579212,
+                                                        "mtime": 1777906376.579212,
+                                                        "size": 20
+                                                    },
+                                                    "deserializer": "symlink",
+                                                    "file": "../ssh-agent.service"
+                                                }
+                                            }
+                                        },
+                                        "ssh-agent.service": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5712116,
+                                                "mtime": 1775343286.0,
+                                                "size": 409
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b2c459e950958267de036871c8e1ca75"
+                                            "file": "/blobs/1a6b0d395a9d8186d3fa02618bd9e5619aeb8d36005d3653e3f26741648526c5"
+                                        },
+                                        "ssh-agent.socket": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5712116,
+                                                "mtime": 1775343286.0,
+                                                "size": 355
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d832c5044298c90a3245565708e516fa35e5e5c77cf680ad39829ccbdcf5a94b"
                                         }
                                     }
                                 }
                             }
                         },
+                        "tmpfiles.d": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 38
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "openssh-client.conf": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.5712116,
+                                        "mtime": 1775343286.0,
+                                        "size": 13
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/b424e86e7fe590f50a5e7c2a83bb760335ee60ebb69beb2834d7cdf6ec36b1ae"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.5832121,
+                        "mtime": 1775345360.0,
+                        "size": 38
+                    },
+                    "deserializer": "directory",
+                    "file": {
                         "apport": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1412861341.0,
-                                "size": 4096,
                                 "perm": 16877,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 26
                             },
                             "deserializer": "directory",
                             "file": {
                                 "package-hooks": {
                                     "stat": {
-                                        "uid": 0,
-                                        "mtime": 1412861341.0,
-                                        "size": 4096,
                                         "perm": 16877,
+                                        "uid": 0,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 34
                                     },
                                     "deserializer": "directory",
                                     "file": {
                                         "openssh-client.py": {
                                             "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861341.0,
-                                                "size": 1165,
                                                 "perm": 33188,
+                                                "uid": 0,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5712116,
+                                                "mtime": 1775345360.0,
+                                                "size": 1213
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f773304999ece4e5e1f4618c67816a3e"
+                                            "file": "/blobs/a468f4fdaf805098fce63451bc771c8f9a0c8545e7bad40bb715b27f6b39523f"
                                         }
                                     }
                                 }
@@ -501,370 +550,383 @@
                         },
                         "doc": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1412861342.0,
-                                "size": 4096,
                                 "perm": 16877,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 28
                             },
                             "deserializer": "directory",
                             "file": {
                                 "openssh-client": {
                                     "stat": {
-                                        "uid": 0,
-                                        "mtime": 1412861368.0,
-                                        "size": 4096,
                                         "perm": 16877,
+                                        "uid": 0,
                                         "gid": 0,
-                                        "ctime": 1424381780.9789195
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 220
                                     },
                                     "deserializer": "directory",
                                     "file": {
-                                        "copyright": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861238.0,
-                                                "size": 18356,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/8abea0c2ab4b3aaf6716b700835b9a32"
-                                        },
-                                        "README.tun.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1143807051.0,
-                                                "size": 1854,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/f97f577d044b6b188c7d3777b7f0b6ed"
-                                        },
                                         "NEWS.Debian.gz": {
                                             "stat": {
-                                                "uid": 0,
-                                                "mtime": 1399019725.0,
-                                                "size": 975,
                                                 "perm": 33188,
+                                                "uid": 0,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5712116,
+                                                "mtime": 1775345360.0,
+                                                "size": 7255
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e1c94571cc7eb88b840a3232c6bf8f49"
-                                        },
-                                        "changelog.Debian.gz": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1412861368.0,
-                                                "size": 2292,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/3ced50d677f08926b2637769a34ba858"
-                                        },
-                                        "faq.html": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1399019725.0,
-                                                "size": 46002,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/911e44f9aad76def412966e643a9de44"
-                                        },
-                                        "README.dns": {
-                                            "stat": {
-                                                "uid": 0,
-                                                "mtime": 1066198074.0,
-                                                "size": 1607,
-                                                "perm": 33188,
-                                                "gid": 0,
-                                                "ctime": 1424381780.9709196
-                                            },
-                                            "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/b95152df73c12915c6515e1ebd5ebc4a"
+                                            "file": "/blobs/10d81b14b0f5f8525d45062e93f626b8be53a4e3e7478b369de0de67239e1235"
                                         },
                                         "OVERVIEW.gz": {
                                             "stat": {
-                                                "uid": 0,
-                                                "mtime": 1154745579.0,
-                                                "size": 2720,
                                                 "perm": 33188,
+                                                "uid": 0,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1744182163.0,
+                                                "size": 2564
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/98348161f36e876f31cca949e7cb445e"
+                                            "file": "/blobs/b8d143d9361c1327159a0c75678919fe6c0af2434e510473f29e154f3464bd11"
                                         },
                                         "README": {
                                             "stat": {
-                                                "uid": 0,
-                                                "mtime": 1393542233.0,
-                                                "size": 2715,
                                                 "perm": 33188,
+                                                "uid": 0,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1744182163.0,
+                                                "size": 2014
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/1cb1bb803c86265cea5b89e88a460d00"
+                                            "file": "/blobs/e958b8e442cda0f01f3c79a296a7390b83b7e2470ca1597cd2a4806a18b728e4"
                                         },
                                         "README.Debian.gz": {
                                             "stat": {
-                                                "uid": 0,
-                                                "mtime": 1404092812.0,
-                                                "size": 3828,
                                                 "perm": 33188,
+                                                "uid": 0,
                                                 "gid": 0,
-                                                "ctime": 1424381780.9709196
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1775343286.0,
+                                                "size": 4781
                                             },
                                             "deserializer": "url",
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9f6ca17f3ed607212c43e8daa27aafea"
+                                            "file": "/blobs/010c4f07d63b795d12d0ce3f91e2350e33c7683b79ca71083b03b469d0199f0a"
+                                        },
+                                        "README.dns": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1744182163.0,
+                                                "size": 1615
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e1aed1364b3c5fee3d204acd43cdc0a0bbd0a015d01843645ede1fb0ea76bc7c"
+                                        },
+                                        "README.tun.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1744182163.0,
+                                                "size": 1854
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/16cbd1334e2e0db83f5c6ec0442c2b9d06368f1a1a6d069b317b5fad83bc2f53"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1775345360.0,
+                                                "size": 39139
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e605a311f0cce3c1e690df381d24f0eb47dd740993f68705948bcda73d4b67a2"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1744182163.0,
+                                                "size": 90964
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4fb15d7fc7e5e60fc0a45dade1e7d14500d188ba50d681e11d4d3dda2f703abe"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1775343286.0,
+                                                "size": 10973
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/af946edbe423f2af7cb2297e68ed177748461b3c8ecee9884ea087bea7b06f92"
                                         }
                                     }
                                 }
                             }
-                        }
-                    }
-                },
-                "bin": {
-                    "stat": {
-                        "uid": 0,
-                        "mtime": 1412861356.0,
-                        "size": 4096,
-                        "perm": 16877,
-                        "gid": 0,
-                        "ctime": 1424381780.9789195
-                    },
-                    "deserializer": "directory",
-                    "file": {
-                        "sftp": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 129416,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9749196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d1962f786ead724b7130978820564633"
                         },
-                        "ssh-copy-id": {
+                        "lintian": {
                             "stat": {
-                                "uid": 0,
-                                "mtime": 1370436525.0,
-                                "size": 9325,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9749196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/5ca9ed4378459b01a795289a54323940"
-                        },
-                        "ssh-agent": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 288912,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9749196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/9bad9170f3bad9cba3afa23975ee6b99"
-                        },
-                        "ssh-argv0": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1404092820.0,
-                                "size": 1456,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9709196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/bb40f6cb60ce75974b8738bc02b30809"
-                        },
-                        "ssh-add": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 329864,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9749196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/454c47c33696e746d5524620b59f90ae"
-                        },
-                        "slogin": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1424381780.9789195,
-                                "size": 3,
-                                "perm": 41471,
-                                "gid": 0,
-                                "ctime": 1424381780.9789195
-                            },
-                            "deserializer": "symlink",
-                            "file": "ssh"
-                        },
-                        "ssh-keygen": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 412000,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9789195
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/165c8dc941009a600a02d47acbcd6776"
-                        },
-                        "scp": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 71816,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9789195
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ad83e686603147dd5434eecee6e15d65"
-                        },
-                        "ssh-keyscan": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 420120,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9749196
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/eef2d388f4d9ae26858351d7c59bab1f"
-                        },
-                        "ssh": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 653992,
-                                "perm": 33261,
-                                "gid": 0,
-                                "ctime": 1424381780.9789195
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/c45633fb1bd37964863d8bee2615c636"
-                        }
-                    }
-                },
-                "lib": {
-                    "stat": {
-                        "uid": 0,
-                        "mtime": 1412861341.0,
-                        "size": 4096,
-                        "perm": 16877,
-                        "gid": 0,
-                        "ctime": 1424381780.9789195
-                    },
-                    "deserializer": "directory",
-                    "file": {
-                        "openssh": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861356.0,
-                                "size": 4096,
                                 "perm": 16877,
+                                "uid": 0,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 18
                             },
                             "deserializer": "directory",
                             "file": {
-                                "ssh-pkcs11-helper": {
+                                "overrides": {
                                     "stat": {
+                                        "perm": 16877,
                                         "uid": 0,
-                                        "mtime": 1412861356.0,
-                                        "size": 276576,
-                                        "perm": 33261,
                                         "gid": 0,
-                                        "ctime": 1424381780.9669194
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 28
                                     },
-                                    "deserializer": "url",
-                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/4962ac229b7d9a44fdf907454807e9ec"
-                                },
-                                "ssh-keysign": {
-                                    "stat": {
-                                        "uid": 0,
-                                        "mtime": 1412861356.0,
-                                        "size": 444552,
-                                        "perm": 35309,
-                                        "gid": 0,
-                                        "ctime": 1424381780.9669194
-                                    },
-                                    "deserializer": "url",
-                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/c1b9d7b2bf18cc192f2aec5fb87af3b5"
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "openssh-client": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1774783358.0,
+                                                "size": 81
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0e56ca3436ee6f195b8fc745e100ee8af5a5a2d125dc827d629d99d5dda6a981"
+                                        }
+                                    }
                                 }
                             }
-                        }
-                    }
-                }
-            }
-        },
-        "etc": {
-            "stat": {
-                "uid": 0,
-                "mtime": 1412861341.0,
-                "size": 4096,
-                "perm": 16877,
-                "gid": 0,
-                "ctime": 1424381780.9789195
-            },
-            "deserializer": "directory",
-            "file": {
-                "ssh": {
-                    "stat": {
-                        "uid": 0,
-                        "mtime": 1412861342.0,
-                        "size": 4096,
-                        "perm": 16877,
-                        "gid": 0,
-                        "ctime": 1424381780.9789195
-                    },
-                    "deserializer": "directory",
-                    "file": {
-                        "ssh_config": {
-                            "stat": {
-                                "uid": 0,
-                                "mtime": 1412861342.0,
-                                "size": 1690,
-                                "perm": 33188,
-                                "gid": 0,
-                                "ctime": 1424381780.9789195
-                            },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/7c3fc0754c5a373bac7b09d9d4f6e403"
                         },
-                        "moduli": {
+                        "man": {
                             "stat": {
+                                "perm": 16877,
                                 "uid": 0,
-                                "mtime": 1412861342.0,
-                                "size": 242091,
-                                "perm": 33188,
                                 "gid": 0,
-                                "ctime": 1424381780.9789195
+                                "ctime": 1777906376.5832121,
+                                "mtime": 1775345360.0,
+                                "size": 24
                             },
-                            "deserializer": "url",
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/07d36dec51c06b538f196fcea2c8707c"
+                            "deserializer": "directory",
+                            "file": {
+                                "man1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 224
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "scp.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.5752118,
+                                                "mtime": 1775345360.0,
+                                                "size": 3646
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/f990168e35166dc0fa0fd1f959c194ed4349b41e1db56424ff36a9633184f54f"
+                                        },
+                                        "sftp.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 6331
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/14866f5f918982483f7bfa5d4c53fcc2662ab0d86db6d7113309fbc5a5dc53e0"
+                                        },
+                                        "ssh-add.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 4258
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2500fef18bcf6ceeca2ab7e083fd339b7cf4b947e3cf535acd30de4addf2ddf0"
+                                        },
+                                        "ssh-agent.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 4056
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4b68ac7b8dd8219979da78d31e74da82a297253460ab196f3502712613d445dc"
+                                        },
+                                        "ssh-argv0.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 720
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d2863449b093ce069436b0f5c005c657f8313a7afe8f1a9347879fb731f3baaf"
+                                        },
+                                        "ssh-copy-id.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 3240
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/621a8c7fa884fcaf78d01f2ccf11946d38192c08ac3a95469087f7898eb87986"
+                                        },
+                                        "ssh-keygen.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 13125
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4187847363a21c971eb05638d12db87f09ed94cea857e4a7c5c874b09cd598e4"
+                                        },
+                                        "ssh-keyscan.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 2296
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9853bddce174b54203038fc07a8efe432cb52891e456d31eab6ff58984f3dadc"
+                                        },
+                                        "ssh.1.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 15310
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/78a8c50b4eecf26228707878018ca314aea3008c87caef6724030fc856e50481"
+                                        }
+                                    }
+                                },
+                                "man5": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 30
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "ssh_config.5.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 20937
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/69fdda035c4f205313ec19f7e81e7cf7ffea805103a41ccaf2e18cfcd083d616"
+                                        }
+                                    }
+                                },
+                                "man8": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.5832121,
+                                        "mtime": 1775345360.0,
+                                        "size": 112
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "ssh-keysign.8.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 1429
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8983fe7c1b2927b57f4fa2e4a9fdf7a1cf528b6501e9ac21e3bac9e5bf7170cd"
+                                        },
+                                        "ssh-pkcs11-helper.8.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 1024
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/04ce20dfe9f3aa890f6ecd48f65049748db89604ce7e2446f6ad370fb1327640"
+                                        },
+                                        "ssh-sk-helper.8.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.579212,
+                                                "mtime": 1775345360.0,
+                                                "size": 1025
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/22b69f69f49d2a7a3edf451fcb37f4c1dbff092b37800f1b724a0c163ab05e30"
+                                        }
+                                    }
+                                }
+                            }
                         }
                     }
                 }

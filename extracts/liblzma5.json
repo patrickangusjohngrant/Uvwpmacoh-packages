@@ -1,0 +1,225 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906380.5634122,
+        "mtime": 1743714178.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906380.559412,
+                "mtime": 1777906380.559412,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.559412,
+                        "mtime": 1777906380.559412,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.559412,
+                                "mtime": 1777906380.559412,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906380.5634122,
+                "mtime": 1743714178.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5634122,
+                        "mtime": 1743714178.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5634122,
+                                "mtime": 1743714178.0,
+                                "size": 56
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "liblzma.so.5.8.1": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.559412,
+                                        "mtime": 1743714178.0,
+                                        "size": 198832
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/b35963d122e850c48dc42be640731f4a48c963938229c8b0b159d7d2b7f2fd3e"
+                                },
+                                "liblzma.so.5": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.5634122,
+                                        "mtime": 1777906380.5634122,
+                                        "size": 16
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "liblzma.so.5.8.1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906380.5634122,
+                        "mtime": 1743714178.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906380.5634122,
+                                "mtime": 1743714178.0,
+                                "size": 16
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "liblzma5": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906380.5634122,
+                                        "mtime": 1743714178.0,
+                                        "size": 126
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "AUTHORS": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743714178.0,
+                                                "size": 2146
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/01e6df90d71d591f4307db3f397a5a4fac93b18533f5a3862156f1a0a7dc8610"
+                                        },
+                                        "NEWS.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743714178.0,
+                                                "size": 32760
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c95a95ced5e7905e9c6dd3bc902b4905f440fe35405c64b53f5df57ef3881b8b"
+                                        },
+                                        "THANKS.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743714178.0,
+                                                "size": 2432
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/31723deeeb5156ffb3e2300bd6b3ddefc39d4f657c210c91c3948af5f3f33c26"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743714178.0,
+                                                "size": 2309
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/b28a5ee99d0704593874917d09b88e7c6256f5e77fb1ba14a07031df9060fcc1"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743680215.0,
+                                                "size": 173193
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/cfeb7c17e12e439554198249fbc8be5bef92c4625196f9991f3c8a6449e162e0"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906380.5634122,
+                                                "mtime": 1743713895.0,
+                                                "size": 11875
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/d755588e2d89d7845d0d4e718ac45d49ae9fc53cec4540af105963c20598f9d7"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.33125,
+        "mtime": 1741035682.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.3272498,
+                "mtime": 1777906377.3272498,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3272498,
+                        "mtime": 1777906377.3272498,
+                        "size": 112
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libbinutils (= 2.44-3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3272498,
+                                "mtime": 1777906377.3272498,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.33)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3272498,
+                                "mtime": 1777906377.3272498,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.2.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3272498,
+                                "mtime": 1777906377.3272498,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.33125,
+                "mtime": 1741035682.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.33125,
+                        "mtime": 1741035682.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.33125,
+                                "mtime": 1741035682.0,
+                                "size": 52
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libctf.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.33125,
+                                        "mtime": 1741035682.0,
+                                        "size": 220288
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/bdcd09af9314ef2a40dd137882523e7cb5944189220980257c5ebcc1fe0c9b5b"
+                                },
+                                "libctf.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.33125,
+                                        "mtime": 1777906377.33125,
+                                        "size": 15
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libctf.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.33125,
+                        "mtime": 1741035682.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.33125,
+                                "mtime": 1741035682.0,
+                                "size": 14
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libctf0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.33125,
+                                        "mtime": 1777906377.33125,
+                                        "size": 11
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libbinutils"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

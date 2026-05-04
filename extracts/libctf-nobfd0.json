@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.3232496,
+        "mtime": 1741035682.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.3192494,
+                "mtime": 1777906377.3192494,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3192494,
+                        "mtime": 1777906377.3192494,
+                        "size": 68
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3192494,
+                                "mtime": 1777906377.3192494,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.2.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3192494,
+                                "mtime": 1777906377.3192494,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.3232496,
+                "mtime": 1741035682.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3232496,
+                        "mtime": 1741035682.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3232496,
+                                "mtime": 1741035682.0,
+                                "size": 76
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libctf-nobfd.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3232496,
+                                        "mtime": 1741035682.0,
+                                        "size": 215992
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/69e10bcecd3c354805887f5d848c5dc8e15f36fc6e36b91de62063c12db3bf7b"
+                                },
+                                "libctf-nobfd.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3232496,
+                                        "mtime": 1777906377.3232496,
+                                        "size": 21
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libctf-nobfd.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.3232496,
+                        "mtime": 1741035682.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.3232496,
+                                "mtime": 1741035682.0,
+                                "size": 26
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libctf-nobfd0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3232496,
+                                        "mtime": 1741035682.0,
+                                        "size": 56
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3232496,
+                                                "mtime": 1741035682.0,
+                                                "size": 64746
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2f44738161cc69806e9545548fc892d289816b68881c97767508070f0b79957b"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.3232496,
+                                                "mtime": 1741035682.0,
+                                                "size": 1795
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/20a9818b14f941467bcc0f459a1b1951e3bfecc1cc259e5004f8b9a80d7dc804"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

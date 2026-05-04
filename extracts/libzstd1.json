@@ -1,0 +1,189 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.8753278,
+        "mtime": 1741903135.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.8673275,
+                "mtime": 1777906378.8673275,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.8673275,
+                        "mtime": 1777906378.8673275,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.8673275,
+                                "mtime": 1777906378.8673275,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.8753278,
+                "mtime": 1741903135.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.8753278,
+                        "mtime": 1741903135.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.8753278,
+                                "mtime": 1741903135.0,
+                                "size": 56
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libzstd.so.1.5.7": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.8753278,
+                                        "mtime": 1741903135.0,
+                                        "size": 825336
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/27f07c9a49c2c956bcfb64cd4712976586a66facbf15fc7f09bc37413b5f2b21"
+                                },
+                                "libzstd.so.1": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.8753278,
+                                        "mtime": 1777906378.8753278,
+                                        "size": 16
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libzstd.so.1.5.7"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.8753278,
+                        "mtime": 1741903135.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.8753278,
+                                "mtime": 1741903135.0,
+                                "size": 16
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libzstd1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.8753278,
+                                        "mtime": 1741903135.0,
+                                        "size": 80
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8753278,
+                                                "mtime": 1741903135.0,
+                                                "size": 5498
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7b0d4a55026eb5dfbccbb2ebeac75db9f848679958f6b50ac94192d35e424c75"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8753278,
+                                                "mtime": 1739923464.0,
+                                                "size": 18222
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9d9bc4945d1802ffe12cca4e3c5013839550cf95cfc53ddeaa0280827d45fc6f"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8753278,
+                                                "mtime": 1740391691.0,
+                                                "size": 5332
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5cec9fef4d3fa7e0371fbef4ec3fc416e0105dc2a9922117f84e825cb11f50f8"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

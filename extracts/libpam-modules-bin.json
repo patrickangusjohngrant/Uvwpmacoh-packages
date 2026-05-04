@@ -1,0 +1,385 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906379.0953388,
+        "mtime": 1751218846.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0913386,
+                "mtime": 1777906379.0913386,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0913386,
+                        "mtime": 1777906379.0913386,
+                        "size": 244
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libaudit1 (>= 1:2.2.1)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libcrypt1 (>= 1:4.3.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libpam0g (>= 0.99.7.1)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libselinux1 (>= 3.1~)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libsystemd0 (>= 254)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1777906379.0913386,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0953388,
+                "mtime": 1751218846.0,
+                "size": 24
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0953388,
+                        "mtime": 1751218846.0,
+                        "size": 14
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "systemd": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0953388,
+                                "mtime": 1751218846.0,
+                                "size": 12
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "system": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0953388,
+                                        "mtime": 1751218846.0,
+                                        "size": 42
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "pam_namespace.service": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0913386,
+                                                "mtime": 1751218846.0,
+                                                "size": 331
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/260c2fecb726b0345692939f8ac5812342d440ccd4e75b7abcecb35d390ba1bd"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "sbin": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0953388,
+                        "mtime": 1751218846.0,
+                        "size": 202
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "faillock": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 22776
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/0de4117cfe694991ca6748391f715693f8414ba2ab1aa690d0e7d8ef48e8a1d4"
+                        },
+                        "mkhomedir_helper": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 14600
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/9162194dad1e3c41a2c8b9a0ec6812ceaf06950f1aff0557cfeb068f9516d4e3"
+                        },
+                        "pam_namespace_helper": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 467
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/b0ff59c7a906621eca1869f9f93c79ba1dc52fdaeed482e55c81aeda148764c0"
+                        },
+                        "pam_timestamp_check": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 14584
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/57858f4696540b4f1fb53cc4df57ebd12519a6465b85991d0cddb5a716d9d980"
+                        },
+                        "pwhistory_helper": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 22776
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/aeb1eac8304cb8da085b4279c2577797f5a6551cf7324194b75fc565f503f04c"
+                        },
+                        "unix_chkpwd": {
+                            "stat": {
+                                "perm": 34285,
+                                "uid": 0,
+                                "gid": 42,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 43256
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/bc46bfe74e6eb2b884982f59458c3471bb17351836647f63f1d2513c2cf2a5a1"
+                        },
+                        "unix_update": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0913386,
+                                "mtime": 1751218846.0,
+                                "size": 43256
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/11209748619367c025975d13fd58594dfd92ef5855f50897a84ae6ecfcca083a"
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0953388,
+                        "mtime": 1751218846.0,
+                        "size": 20
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0953388,
+                                "mtime": 1751218846.0,
+                                "size": 36
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpam-modules-bin": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0953388,
+                                        "mtime": 1751218846.0,
+                                        "size": 80
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0953388,
+                                                "mtime": 1751218846.0,
+                                                "size": 7442
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3aac1add941cc923156cf96487e9e8bb506540434faa931de372542b76440fe0"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0953388,
+                                                "mtime": 1729756800.0,
+                                                "size": 7383
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6308fb23a46115c6388ab90baa8e69245236b7addfb89669406faf34bb3eba88"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0953388,
+                                                "mtime": 1751218846.0,
+                                                "size": 9727
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6b11ef9ab5429d9618cc72e8dfd4efefde363165ef174be0549918e0c44f5dcb"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0953388,
+                                "mtime": 1751218846.0,
+                                "size": 18
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0953388,
+                                        "mtime": 1751218846.0,
+                                        "size": 36
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libpam-modules-bin": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0953388,
+                                                "mtime": 1751218846.0,
+                                                "size": 132
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8014dba6b408c0a61466fa7975c839653193be7cde0d48e526dba0bb4aef5a32"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

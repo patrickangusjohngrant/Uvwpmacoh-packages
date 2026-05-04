@@ -1,0 +1,238 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.311249,
+        "mtime": 1741035682.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.2952483,
+                "mtime": 1777906377.2952483,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.2952483,
+                        "mtime": 1777906377.2952483,
+                        "size": 178
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2952483,
+                                "mtime": 1777906377.2952483,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libsframe1": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2952483,
+                                "mtime": 1777906377.2952483,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libzstd1 (>= 1.5.5)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2952483,
+                                "mtime": 1777906377.2952483,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.2.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2952483,
+                                "mtime": 1777906377.2952483,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "binutils-common (= 2.44-3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.2952483,
+                                "mtime": 1777906377.2952483,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.311249,
+                "mtime": 1741035682.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.311249,
+                        "mtime": 1741035682.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.311249,
+                                "mtime": 1741035682.0,
+                                "size": 92
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libbfd-2.44-system.so": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.3072488,
+                                        "mtime": 1741035682.0,
+                                        "size": 1463360
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/7a27acdd82e38dbddd8568d54de0df4358e71a3c387d5c1d999d369450c1bf6a"
+                                },
+                                "libopcodes-2.44-system.so": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.311249,
+                                        "mtime": 1741035682.0,
+                                        "size": 968912
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/cb1058299d816464aef357aaf0d6b7a0dcf1b071c84ab4495c2b00f7bb9246f1"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.311249,
+                        "mtime": 1741035682.0,
+                        "size": 20
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.311249,
+                                "mtime": 1741035682.0,
+                                "size": 22
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libbinutils": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.311249,
+                                        "mtime": 1777906377.311249,
+                                        "size": 15
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "binutils-common"
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.311249,
+                                "mtime": 1741035682.0,
+                                "size": 18
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.311249,
+                                        "mtime": 1741035682.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libbinutils": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.311249,
+                                                "mtime": 1741035682.0,
+                                                "size": 210
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0858783b4e17dcdf7326135a394015b2a784cca9d24eaf5c7ca6a16aa86a1021"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777923067.9950633,
+        "mtime": 1742256272.0,
+        "size": 12
+    },
+    "deserializer": "directory",
+    "file": {
+        "etc": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777923067.9950633,
+                "mtime": 1742256272.0,
+                "size": 18
+            },
+            "deserializer": "directory",
+            "file": {
+                "netconfig": {
+                    "stat": {
+                        "perm": 33188,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777923067.9950633,
+                        "mtime": 1742256272.0,
+                        "size": 767
+                    },
+                    "deserializer": "url",
+                    "file": "/blobs/86ee43cde79ed4afdbcc697d74fe80cb3d9b261feab550f45beeedfba7ff9fbd"
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777923067.9950633,
+                "mtime": 1742256272.0,
+                "size": 10
+            },
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777923067.9950633,
+                        "mtime": 1742256272.0,
+                        "size": 12
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777923067.9950633,
+                                "mtime": 1742256272.0,
+                                "size": 30
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libtirpc-common": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777923067.9950633,
+                                        "mtime": 1742256272.0,
+                                        "size": 108
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "NEWS.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777923067.9950633,
+                                                "mtime": 1742256272.0,
+                                                "size": 277
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c67bed1e3abb7facf25463f389e334013ca6feeda64bac8849748c351d85eab7"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777923067.9950633,
+                                                "mtime": 1742256272.0,
+                                                "size": 1601
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6917406175ad06a4e4f424f8c93ef95accee0da9fd74c328c26abc5e27ba71aa"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777923067.9950633,
+                                                "mtime": 1729151455.0,
+                                                "size": 2914
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/09625a3570ba3eca3ab53e975af97d8ffe9507f3228121229ed9b25915a29804"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777923067.9950633,
+                                                "mtime": 1742256272.0,
+                                                "size": 13121
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/62dace47736a4373ec5b19af67e82518ef43b243e9e87f753421213c5f1688df"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "man": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777923067.9950633,
+                                "mtime": 1742256272.0,
+                                "size": 8
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "man5": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777923067.9950633,
+                                        "mtime": 1742256272.0,
+                                        "size": 28
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "netconfig.5.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777923067.9950633,
+                                                "mtime": 1742256272.0,
+                                                "size": 1195
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7aa6eb9112f86f136fadebd2b05f4ad764cbd373ed98de89bbb90a6f76f099ea"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

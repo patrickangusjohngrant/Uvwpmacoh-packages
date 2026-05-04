@@ -1,0 +1,3216 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906379.0073345,
+        "mtime": 1743518606.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.9833333,
+                "mtime": 1777906378.9833333,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.9833333,
+                        "mtime": 1777906378.9833333,
+                        "size": 70
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.9833333,
+                                "mtime": 1777906378.9833333,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libslang2 (>= 2.2.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.9833333,
+                                "mtime": 1777906378.9833333,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0073345,
+                "mtime": 1743518606.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0073345,
+                        "mtime": 1743518606.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0073345,
+                                "mtime": 1743518606.0,
+                                "size": 66
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libnewt.so.0.52.25": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.9873335,
+                                        "mtime": 1743518606.0,
+                                        "size": 106400
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/8716730aa591cc9ddaaa45b9237aa1377662eccb010265f82d9459f962d61187"
+                                },
+                                "libnewt.so.0.52": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1777906379.0033343,
+                                        "size": 18
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libnewt.so.0.52.25"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0073345,
+                        "mtime": 1743518606.0,
+                        "size": 18
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0073345,
+                                "mtime": 1743518606.0,
+                                "size": 22
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libnewt0.52": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 80
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.9873335,
+                                                "mtime": 1743518606.0,
+                                                "size": 1390
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8ae02e4f588ef474628a7ce92dd9a12c9e3a77c359712940c22673df370db923"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.9873335,
+                                                "mtime": 1741944205.0,
+                                                "size": 5763
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/2c2ebfa766d86907a53fabeeef8461e386981a52a94a1fb3882551be6111e62e"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.9873335,
+                                                "mtime": 1743518606.0,
+                                                "size": 2393
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ccb582abd7b511b64b011726587d0c934374c4e0cdb5d67b8809190434006305"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "locale": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0073345,
+                                "mtime": 1743518606.0,
+                                "size": 358
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "ar": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 622
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/18706ab8878fd0d2363af958b1ecf386e861571219990c9b6ace0ed7a20d4ee4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "as": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 511
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/9b0900b09e63aa784e551e66598b7e3205d6300291f9fbcd3b70389e506bcaea"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ast": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 526
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/30ffbcf714c4654b4dd44bd391f6382d84ce2c0c4718f82d8c1452f95a5b32d9"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bal": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 555
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/7eb910d1101a30404336868cb94d1c947cbe32b3c5cde70702de915d5cb0cd72"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "be": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 566
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/dba0e04c0bd46c3238418501133b2b4ebd06d431510f645e7af0ff71118a2d5d"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bg": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 540
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/3875c38c8e3b2771b7efc74e5851c956ac6db4c1d4e46ee04047531cd178620a"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bn": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 565
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/9005cc2b5f5c8045cecde7e87a33b5d89e766d3fb46c3db1072b1a078da0b669"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bn_IN": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 589
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/11699fdb388a7ba59456428a0a485e43854f512313f380bb2979a4ebdf1f3724"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bs": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 611
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/171b67817711f60a85a092e0466b690a3bd4972667acbfe3f8c492855236fc44"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ca": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 552
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/dac8aa7b5f46f2d5a13e9c064c136c9e1f8b66bf18bfb08cf9805d0b798bb2ad"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "cs": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9873335,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 529
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/bcb10f11cb7b5a741fbaf5335bb69795cc26a8f8f2e82f87aad7dfc73842f92b"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "cy": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 580
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/253b0a920ce1eefc96b4281717b1db4d0b2dc3c9e96370da860f9272542a07b4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "da": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 523
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/0a3f64c7654b773cb6e5a62fc4adff7c7d25d87deaea5fd5af45ea82975edb23"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "de": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 528
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ca01e897fab84d5259fcae1e81254c06a7efeae11e8b232076686fd5089f915c"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "dz": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 517
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ef13236a702a7bb6f078357dbe8a6124dfe95a3cbbde76217820f3e815e96478"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "el": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 577
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ec246b590e5b6ca074ae4abdd95f189c16d884d13d8efb43e99aa9176da3e840"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "eo": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 619
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/64b31e5d32fbc3e210fcdba7f78545d8799cf9cc957ff9db153795aebcbff982"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "es": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 532
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/edd1f25ae4cda1487969bfb8a17d8c41be25f1727785125a55cabbb3f05a7961"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "et": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 586
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/c93f75fd4b3316aba21f879fcf34fd383759ad7d01b8a573ce1d35f004a27977"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "eu": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 537
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/3d2b02312367ba180b99323a890a2c2ca26b454aee16a6b3e649df21512aef8e"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "fa": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 598
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/34e3cc0e8f70a8cd8ebb3ba2c90ffeea7d7d95f3c246a0796cb685b5704cba18"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "fi": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 549
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/cfe6b1b0ee8444bcaadd259889ce50824c549d0bfe16eeae6dd931773925ceb1"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "fr": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 534
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ee936765ca46c4055102f806be80eea52e2026a331f541c525f8e1505444e96c"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ga": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 582
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/749e50af052daaf0cbb7da9099243619d6f4a5bd1619335bec64267a032e2c9d"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "gl": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 537
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/3e0459082704a21ec1f11f415bb4c0f228967e1ae9856121c7221a9e5b9007f2"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "gu": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 537
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/cc1007f0de4e9f130afa4ecd64956969e61f6a10d952d1de90f536e0ccf7d665"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "he": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 508
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/f2ad530e8de05b4cfeedb8dbe681c0dc6463f54a527387ae1af331aaf3a34029"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "hi": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 611
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/0f1147390be49e02939d1dba6baabd7684756436e26a6331a16f92f5ea8c6d07"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "hr": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 610
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/89b2e88753609472e4cf5ebedec58f912396a8abd30dfdf645a4f4fa9506b867"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "hu": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 503
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ac23568f5c1749eff9619395efc73e8493b9caff10617f2128cdde75f4961470"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ia": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 545
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/7cfb4126f56352bb92ebb1803d6986a463abb50c7fe8f91d17b3661add3517bb"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "id": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 539
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/1745d98a77addf27f382ec1bcba1fca9b28d8a981b782432ca9f4771af37fba4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "is": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0073345,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0073345,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.9913337,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 490
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/72badd14b6562d445a668cb0bd285338e9319673ec2dab9ef51172680d6616e8"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "it": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 555
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/4ac726c4bebd72d432225e04349f9e75b5911038cec56917d8efc5e0ba0ea985"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ja": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 541
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/9b0f254834bb11b8eaf39996d573a115deca63d55eaadb4d392cffd39385c471"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ka": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 587
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/d9f0378574b796fe8a5e8c012823e3c29f60caf9761dd159e06ceec9f290445e"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "kk": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 569
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/03900d99571ad70f35cdf1557ec658c5413b1cfa184521e1e3c3119161022747"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "km": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 576
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/b55041d66e8262284e0e979b6b2db284c3a190725431d09ec09de576a4a62b33"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "kn": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 574
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/d168299ff6a0d5cff9c19c232dc27f833252dbf48beab61c60f41379432ab302"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ko": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 525
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/a22a1582717781f8eb66caf4d1327e30b2983ab24f0ec78836b279ae3f2ff906"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ku": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 471
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/b499b0d8699ff9259b7b68a9be983890bf2ccdd683892067b7aa22022a0ea93c"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "lt": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 615
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8b0a9a32946159c18c7f2f8e7ebb24ecd4d2291ba9f82b6e0b657b155ddcbd51"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "lv": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 611
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/cc8df780371eb96a5ac17df55cc4b7037e22e350f67d958ecbb6fad874232b3e"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "mg": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 469
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e6476473e8e1f39bf832399b83e360d3d266cf2383e915dcae50e1eb88f8c545"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "mk": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 567
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8574bf1072289018e42ba739ec8f0edee81ad53db883fb654e107582272e491f"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ml": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 698
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/46efa7d8c49448b93cf9773a51816d67c9eb74b7ebb2215177ef3233cd912005"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "mr": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 598
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8940741ba0c2c0b50185d05b0942e8ec520c005c08f9cde6843ac24a1099d02c"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ms": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 560
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/34edffeaa29110c667a054c5266fa39fb55889158e6753e6efd0586e1c3712a4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "nb": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 544
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8991a780c062c13b5ef8d81a539506ea3a94b0d329a02aa0c857fe9a47931381"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "nds": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 561
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/7ab79659b0675b4cb39f05eb1c3b6bc897a79cee58e397d8d1a12be6c5674be5"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ne": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 590
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/16166bcb1fcd41d6692d5b0e0bc2a709d458d5319bdf28672fb54c3bf7fae0a3"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "nl": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 553
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/387ad2a85c5996804ad8a0334e90b14f447ac4b9b985ea14300aa47f66c531d3"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "nn": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 523
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/9c7ae30a4814462d8313b701efae309b5a87be9c8169e4ad1127430d6197804b"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "pa": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.995334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 584
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e83d139e933470c119326edc5660350fe610caf9644e877c7a877a690a02d28a"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "pl": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 575
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/018149cd7bbabeac07e601a47af79f6ca0b348c57a482d8e54bc213b1e05159d"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "pt": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 551
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/0661f88eed2d52c972d207ed5cf8df62178ee7bd57ddab639d292d5e943eac36"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "pt_BR": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 570
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/6c0d8b794453b3b524e3335acb29c86d8ca9a0d69c2f536e1743b72985b8171a"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ro": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 535
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8857de6d34fd006e486ad5d42c205fe13ec5c213d13a174b34f34c3abb115008"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ru": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 642
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/0be4c132946c8fe17eff1b96c18b2d8e6ca1519b3a0cd0ed2a94ac793e43345b"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "si": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 489
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/650fd0bb34a8d522b687b61a02e4422544931abcafec66b7efd28ec8eedbf42f"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sk": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 567
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/6d6497afce3a9d708e0ad3c7d23626dd6bf57bf289185d1111d2846710de1b0f"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sl": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 585
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/acf1550c11aa09da2df00f6a662ddcb684515c7c849c9c236601e43fc77ce072"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sq": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 553
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/b5249581621b5eb24c765acdd8667d97784b7daca2311e68dc220a9ed1279107"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sr": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 634
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/ee6faca6587f4f41cdd09730bddd5d9a1c9068b0465c72d93195fd30c505a02f"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sr@latin": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 626
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/85257c046aafca4feb69ac0ceda3f6879b1e56125fbddea52a7836a60453eb1d"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "sv": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 525
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/796f69d3d212907b5cc14a4e69176cf184ef6c850ca239719de097c51a29cf1d"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ta": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 582
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/c3b18f17c41d4ba3673b0b3eb67524a9e1a441266a4bdc145cb0bdcee9c11be4"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "te": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 584
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/af56c989a055065f809189ad877a53793fcc2f94a62f046bec616b74f8dfdee2"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "tg": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 598
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e03ffecb309a437ba63f663764ee9755eed7df8981b260b8f4de5ba270cec696"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "th": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 563
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/2d764ae08f46647e7c9ef60651f3370ee35f6acb948ebbe05e4c4aba3eadc439"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "tl": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 466
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e9712f339c7a3783c17386b1b1a52163eb07e7e13bd60699ed234363dd292d17"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "tr": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 550
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/615168abc1bd6a257bc520546c2af989f5bfd55795c812343fc43060f3c00c19"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "ug": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 501
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/86bf9a4df77bc851906c18801d1f6511bdcf580ee4637f66e7fdfcb15446eb67"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "uk": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 617
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/49cc73f9b57915eb02924dddcdbaf38fe1b2a2233ee1277bedba278fb5864ef6"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "vi": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 533
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e4e01a43ec2e75ad1fa9ec4af924103c09a3e724557b89fee9647fb93c438023"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "wo": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906378.999334,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 482
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/e30a60a7a903ab1346dca9885b9db337fa6dfcda5b8fedc5337a3c00cb5bea49"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "xh": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906379.0033343,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 467
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/0432e5ad2fd8436b27fabda7e7f25c3ffd20892e431b7285081631c60162fd9a"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "zh_CN": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906379.0033343,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 560
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/70f9a41028cade7fd7b171734bb7f652f0111029e9cc931012f69c5c6269e439"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "zh_TW": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0033343,
+                                        "mtime": 1743518606.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "LC_MESSAGES": {
+                                            "stat": {
+                                                "perm": 16877,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0033343,
+                                                "mtime": 1743518606.0,
+                                                "size": 14
+                                            },
+                                            "deserializer": "directory",
+                                            "file": {
+                                                "newt.mo": {
+                                                    "stat": {
+                                                        "perm": 33188,
+                                                        "uid": 0,
+                                                        "gid": 0,
+                                                        "ctime": 1777906379.0033343,
+                                                        "mtime": 1743518606.0,
+                                                        "size": 567
+                                                    },
+                                                    "deserializer": "url",
+                                                    "file": "/blobs/8a08b07d1ad400ca84802d97e3199215c8850659246d6d755e40153767749cdc"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

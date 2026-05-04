@@ -1,0 +1,237 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.7833233,
+        "mtime": 1730155627.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.779323,
+                "mtime": 1777906378.779323,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.779323,
+                        "mtime": 1777906378.779323,
+                        "size": 190
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.779323,
+                                "mtime": 1777906378.779323,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libcbor0.10 (>= 0.10.2)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.779323,
+                                "mtime": 1777906378.779323,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libssl3t64 (>= 3.0.0)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.779323,
+                                "mtime": 1777906378.779323,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libudev1 (>= 183)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.779323,
+                                "mtime": 1777906378.779323,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "zlib1g (>= 1:1.1.4)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.779323,
+                                "mtime": 1777906378.779323,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7833233,
+                "mtime": 1730155627.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7833233,
+                        "mtime": 1730155627.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7833233,
+                                "mtime": 1730155627.0,
+                                "size": 62
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libfido2.so.1.15.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7833233,
+                                        "mtime": 1730155627.0,
+                                        "size": 227232
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/b4f139c99cc99cf285591d534aaa39dc484082207d1a535440bf58d50b70c6e7"
+                                },
+                                "libfido2.so.1": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7833233,
+                                        "mtime": 1777906378.7833233,
+                                        "size": 18
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libfido2.so.1.15.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7833233,
+                        "mtime": 1730155627.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7833233,
+                                "mtime": 1730155627.0,
+                                "size": 20
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libfido2-1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7833233,
+                                        "mtime": 1730155627.0,
+                                        "size": 106
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.amd64.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7833233,
+                                                "mtime": 1730155627.0,
+                                                "size": 235
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/3e7c1b36e686a5481f6d2b5c28624e2a55d74e741579519008ed227d94da37ac"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7833233,
+                                                "mtime": 1730155627.0,
+                                                "size": 1374
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ff031754a168fdddf27f5fd5aa59670bc8d314b64c61cee9cc64ec9c5da4a78d"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7833233,
+                                                "mtime": 1718624035.0,
+                                                "size": 3626
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c05201a77c4ac0cab4b8abd8daded4dbaeb460b393d44fed45da7fd4e5ad8652"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

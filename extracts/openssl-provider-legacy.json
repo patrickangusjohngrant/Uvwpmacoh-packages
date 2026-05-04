@@ -1,0 +1,202 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.291248,
+        "mtime": 1775210732.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.287248,
+                "mtime": 1777906377.287248,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.287248,
+                        "mtime": 1777906377.287248,
+                        "size": 72
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.14)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.287248,
+                                "mtime": 1777906377.287248,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "libssl3t64 (>= 3.0.3)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.287248,
+                                "mtime": 1777906377.287248,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.291248,
+                "mtime": 1775210732.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.291248,
+                        "mtime": 1775210732.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.291248,
+                                "mtime": 1775210732.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "ossl-modules": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.291248,
+                                        "mtime": 1775210732.0,
+                                        "size": 18
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "legacy.so": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.291248,
+                                                "mtime": 1775210732.0,
+                                                "size": 141224
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/a4a416b474909be5485cc9705afe18e96956c68233e5651982f493d428f862dd"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.291248,
+                        "mtime": 1775210732.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.291248,
+                                "mtime": 1775210732.0,
+                                "size": 46
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "openssl-provider-legacy": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.291248,
+                                        "mtime": 1775210732.0,
+                                        "size": 80
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.291248,
+                                                "mtime": 1775210732.0,
+                                                "size": 6666
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e7c1994d587c0e4fa4f8de35301535a32202a3913d93189c3b6655012a3c711d"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.291248,
+                                                "mtime": 1775210732.0,
+                                                "size": 267669
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/96f254358e813735c69a887d3c8c68cec900a3f89e0d64edaeae8230a3c776b0"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.291248,
+                                                "mtime": 1775203747.0,
+                                                "size": 2543
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6a7da622fe0637a334d2a8fc470852d2ffb77d9a2b2f930f854e32a41ad6ef35"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

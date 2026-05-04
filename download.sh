@@ -5,12 +5,8 @@ set -x
 
 PACKAGES=$@
 
+mkdir -p source.deb
 cd source.deb
-aptitude download $PACKAGES
+apt-get download $PACKAGES
 cd ..
 ./depackagator.py
-
-git add extracts/*.json
-git commit extracts/ -m "Adding packages $PACKAGES"
-git push origin master
-

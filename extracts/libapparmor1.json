@@ -1,177 +1,177 @@
 {
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906376.6672163,
+        "mtime": 1744297585.0,
+        "size": 20
+    },
+    "deserializer": "directory",
     "file": {
         "control": {
-            "file": {
-                "packages": {
-                    "file": {
-                        "libc6 (>= 2.14)": {
-                            "file": {},
-                            "deserializer": "directory",
-                            "stat": {
-                                "uid": 0,
-                                "gid": 0,
-                                "ctime": 1424320596.0149372,
-                                "perm": 16893,
-                                "mtime": 1424320596.0149372,
-                                "size": 4096
-                            }
-                        }
-                    },
-                    "deserializer": "directory",
-                    "stat": {
-                        "uid": 0,
-                        "gid": 0,
-                        "ctime": 1424320596.0149372,
-                        "perm": 16893,
-                        "mtime": 1424320596.0149372,
-                        "size": 4096
-                    }
-                }
-            },
-            "deserializer": "directory",
             "stat": {
+                "perm": 16893,
                 "uid": 0,
                 "gid": 0,
-                "ctime": 1424320596.0149372,
-                "perm": 16893,
-                "mtime": 1424320596.0149372,
-                "size": 4096
+                "ctime": 1777906376.663216,
+                "mtime": 1777906376.663216,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.663216,
+                        "mtime": 1777906376.663216,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.663216,
+                                "mtime": 1777906376.663216,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
             }
         },
         "usr": {
-            "file": {
-                "share": {
-                    "file": {
-                        "doc": {
-                            "file": {
-                                "libapparmor1": {
-                                    "file": {
-                                        "changelog.Debian.gz": {
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/02c3c4b19c41bfb60615571701ed8c7f",
-                                            "deserializer": "url",
-                                            "stat": {
-                                                "uid": 0,
-                                                "gid": 0,
-                                                "ctime": 1424320596.0349374,
-                                                "perm": 33188,
-                                                "mtime": 1412923862.0,
-                                                "size": 3438
-                                            }
-                                        },
-                                        "copyright": {
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ac5b0ee124f72a4c1622f6aca084d16f",
-                                            "deserializer": "url",
-                                            "stat": {
-                                                "uid": 0,
-                                                "gid": 0,
-                                                "ctime": 1424320596.0349374,
-                                                "perm": 33188,
-                                                "mtime": 1411069303.0,
-                                                "size": 5217
-                                            }
-                                        }
-                                    },
-                                    "deserializer": "directory",
-                                    "stat": {
-                                        "uid": 0,
-                                        "gid": 0,
-                                        "ctime": 1424320596.0349374,
-                                        "perm": 16877,
-                                        "mtime": 1412923834.0,
-                                        "size": 4096
-                                    }
-                                }
-                            },
-                            "deserializer": "directory",
-                            "stat": {
-                                "uid": 0,
-                                "gid": 0,
-                                "ctime": 1424320596.0349374,
-                                "perm": 16877,
-                                "mtime": 1412923832.0,
-                                "size": 4096
-                            }
-                        }
-                    },
-                    "deserializer": "directory",
-                    "stat": {
-                        "uid": 0,
-                        "gid": 0,
-                        "ctime": 1424320596.0349374,
-                        "perm": 16877,
-                        "mtime": 1412923832.0,
-                        "size": 4096
-                    }
-                },
-                "lib": {
-                    "file": {
-                        "x86_64-linux-gnu": {
-                            "file": {
-                                "libapparmor.so.1.1.0": {
-                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/bfa7bcf51e72c966732abadf7d3e084b",
-                                    "deserializer": "url",
-                                    "stat": {
-                                        "uid": 0,
-                                        "gid": 0,
-                                        "ctime": 1424320596.0309374,
-                                        "perm": 33188,
-                                        "mtime": 1412923843.0,
-                                        "size": 52144
-                                    }
-                                },
-                                "libapparmor.so.1": {
-                                    "file": "libapparmor.so.1.1.0",
-                                    "deserializer": "symlink",
-                                    "stat": {
-                                        "uid": 0,
-                                        "gid": 0,
-                                        "ctime": 1424320596.0349374,
-                                        "perm": 41471,
-                                        "mtime": 1424320596.0349374,
-                                        "size": 20
-                                    }
-                                }
-                            },
-                            "deserializer": "directory",
-                            "stat": {
-                                "uid": 0,
-                                "gid": 0,
-                                "ctime": 1424320596.0349374,
-                                "perm": 16877,
-                                "mtime": 1412923843.0,
-                                "size": 4096
-                            }
-                        }
-                    },
-                    "deserializer": "directory",
-                    "stat": {
-                        "uid": 0,
-                        "gid": 0,
-                        "ctime": 1424320596.0349374,
-                        "perm": 16877,
-                        "mtime": 1412923832.0,
-                        "size": 4096
-                    }
-                }
-            },
-            "deserializer": "directory",
             "stat": {
+                "perm": 16877,
                 "uid": 0,
                 "gid": 0,
-                "ctime": 1424320596.0349374,
-                "perm": 16877,
-                "mtime": 1412923832.0,
-                "size": 4096
+                "ctime": 1777906376.6672163,
+                "mtime": 1744297585.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.6672163,
+                        "mtime": 1744297585.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.6672163,
+                                "mtime": 1744297585.0,
+                                "size": 74
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libapparmor.so.1.24.2": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.663216,
+                                        "mtime": 1744297585.0,
+                                        "size": 84728
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/41334e9dd17faab58a35332cea20ea6e9d117f6aafc84aed54f26ef13ee38e7e"
+                                },
+                                "libapparmor.so.1": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.6672163,
+                                        "mtime": 1777906376.6672163,
+                                        "size": 21
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libapparmor.so.1.24.2"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.6672163,
+                        "mtime": 1744297585.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.6672163,
+                                "mtime": 1744297585.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libapparmor1": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.6672163,
+                                        "mtime": 1744297585.0,
+                                        "size": 56
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.663216,
+                                                "mtime": 1744297585.0,
+                                                "size": 10567
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/cf119ef2ea3a9f2ba3d7682ffa978afb8baeab2e3e599e7217a3f102439da2b5"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.6672163,
+                                                "mtime": 1744297585.0,
+                                                "size": 6065
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/52b7cf37d674ca47296cf6270a95ecda0ecbef976cc090d702acbd741e36b3b4"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
             }
         }
-    },
-    "deserializer": "directory",
-    "stat": {
-        "uid": 0,
-        "gid": 0,
-        "ctime": 1424320596.0349374,
-        "perm": 16877,
-        "mtime": 1412923833.0,
-        "size": 4096
     }
 }

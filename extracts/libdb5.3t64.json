@@ -1,0 +1,215 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906377.667267,
+        "mtime": 1728992415.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.647266,
+                "mtime": 1777906377.647266,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.647266,
+                        "mtime": 1777906377.647266,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.647266,
+                                "mtime": 1777906377.647266,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906377.667267,
+                "mtime": 1728992415.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.667267,
+                        "mtime": 1728992415.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.667267,
+                                "mtime": 1728992415.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdb-5.3.so": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.667267,
+                                        "mtime": 1728992415.0,
+                                        "size": 1864304
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/cd87ddcf60a6e62ab0dedee64a4292c783e0e991de3329d959fac1ef2dc389af"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906377.667267,
+                        "mtime": 1728992415.0,
+                        "size": 20
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.667267,
+                                "mtime": 1728992415.0,
+                                "size": 22
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libdb5.3t64": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.667267,
+                                        "mtime": 1728992415.0,
+                                        "size": 106
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "build_signature_amd64.txt": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.667267,
+                                                "mtime": 1728992415.0,
+                                                "size": 9
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9bcc6b8dda7b5ef9fd43c0ab7580d3a91d87fcd6a988b22dc4d39549be61fb83"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.667267,
+                                                "mtime": 1728992415.0,
+                                                "size": 1550
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e10a04ac12a0b46af446a135e5bc586d2e68b790a927a950b8e2823e8939d53e"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.667267,
+                                                "mtime": 1728552685.0,
+                                                "size": 17177
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/8b53da37d73289d9df7317b3a2dbe16491f1fa9fec8b77b86d69704b40ce2c26"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906377.667267,
+                                "mtime": 1728992415.0,
+                                "size": 18
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906377.667267,
+                                        "mtime": 1728992415.0,
+                                        "size": 22
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "libdb5.3t64": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906377.667267,
+                                                "mtime": 1728552685.0,
+                                                "size": 134
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/bd6da8460178e9ecfdee8f049fa14b46c208c8581c94d9979c0071b8af49d182"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

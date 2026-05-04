@@ -1,0 +1,225 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.7513216,
+        "mtime": 1740600375.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7513216,
+                "mtime": 1777906378.7513216,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7513216,
+                        "mtime": 1777906378.7513216,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.38)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7513216,
+                                "mtime": 1777906378.7513216,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7513216,
+                "mtime": 1740600375.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7513216,
+                        "mtime": 1740600375.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7513216,
+                                "mtime": 1740600375.0,
+                                "size": 152
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libcap-ng.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7513216,
+                                        "mtime": 1740600375.0,
+                                        "size": 30632
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/6b5be42df1bed00b8ea1f52e9412dce5ed500c29a6dd22b31e72f5dab5a3a575"
+                                },
+                                "libdrop_ambient.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7513216,
+                                        "mtime": 1740600375.0,
+                                        "size": 14256
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/01f97bc0f56ded766f3b1ad6f0114287d660cd0227c5b5173ef3e5c64c5d323a"
+                                },
+                                "libcap-ng.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7513216,
+                                        "mtime": 1777906378.7513216,
+                                        "size": 18
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libcap-ng.so.0.0.0"
+                                },
+                                "libdrop_ambient.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7513216,
+                                        "mtime": 1777906378.7513216,
+                                        "size": 24
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libdrop_ambient.so.0.0.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7513216,
+                        "mtime": 1740600375.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7513216,
+                                "mtime": 1740600375.0,
+                                "size": 20
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libcap-ng0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7513216,
+                                        "mtime": 1740600375.0,
+                                        "size": 130
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.amd64.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7513216,
+                                                "mtime": 1740600375.0,
+                                                "size": 233
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4b93bd59fd81e468c1e10b3233b39da2f8fb1b74e04d486b0455f1c23ff87208"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7513216,
+                                                "mtime": 1740600375.0,
+                                                "size": 2183
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4221229647fb89f94839348d33a33d5e53792b03d42184284ca7668977ee87d3"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7513216,
+                                                "mtime": 1712697073.0,
+                                                "size": 2650
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/9b1af1d914137d5515979efb1527216eda317e81ddf6744c35ab28c2988390e7"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7513216,
+                                                "mtime": 1732740415.0,
+                                                "size": 1621
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/567997de097e3738564c90e6fe13343b2daae21a7926d6fb161df41322c1840b"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

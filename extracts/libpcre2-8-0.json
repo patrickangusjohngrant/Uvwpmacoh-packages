@@ -1,0 +1,201 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906379.2113447,
+        "mtime": 1756366998.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.1993442,
+                "mtime": 1777906379.1993442,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.1993442,
+                        "mtime": 1777906379.1993442,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.1993442,
+                                "mtime": 1777906379.1993442,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.2113447,
+                "mtime": 1756366998.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.2113447,
+                        "mtime": 1756366998.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.2113447,
+                                "mtime": 1756366998.0,
+                                "size": 70
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpcre2-8.so.0.14.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.2073445,
+                                        "mtime": 1756366998.0,
+                                        "size": 711216
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/8ee551e7f9645d6212c017df0938062ba046608a5378aab7d7c01c47b81a9f50"
+                                },
+                                "libpcre2-8.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.2113447,
+                                        "mtime": 1777906379.2113447,
+                                        "size": 20
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libpcre2-8.so.0.14.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.2113447,
+                        "mtime": 1756366998.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.2113447,
+                                "mtime": 1756366998.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libpcre2-8-0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.2113447,
+                                        "mtime": 1756366998.0,
+                                        "size": 106
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "README.Debian": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.2073445,
+                                                "mtime": 1756366998.0,
+                                                "size": 458
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/c8b10fd8a13c4913ce6d9640636276de05f285cd63f3b18bf123f3ff9d66672d"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.2073445,
+                                                "mtime": 1756366998.0,
+                                                "size": 1771
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/6f61a772b9651d97189df45f0e3d97e5771205ee9474aeb4a3071d4669ea60e3"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.2073445,
+                                                "mtime": 1756303965.0,
+                                                "size": 54675
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/52c11eab22666fa717acf029f956b3233dd1795a17ee8a10765fee3e28be43b5"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.2113447,
+                                                "mtime": 1756366998.0,
+                                                "size": 6627
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/e915cde4251f96ec6af107ecd2e194440a4e69440893b0c982802f8a1e4ae40a"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

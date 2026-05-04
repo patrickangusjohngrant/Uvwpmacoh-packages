@@ -1,198 +1,198 @@
 {
-    "deserializer": "directory",
     "stat": {
         "perm": 16877,
-        "mtime": 1412861343.0,
-        "size": 4096,
-        "ctime": 1424381761.9308453,
         "uid": 0,
-        "gid": 0
+        "gid": 0,
+        "ctime": 1777906376.9072285,
+        "mtime": 1775345360.0,
+        "size": 20
     },
+    "deserializer": "directory",
     "file": {
-        "usr": {
-            "deserializer": "directory",
+        "control": {
             "stat": {
-                "perm": 16877,
-                "mtime": 1412861341.0,
-                "size": 4096,
-                "ctime": 1424381761.9308453,
+                "perm": 16893,
                 "uid": 0,
-                "gid": 0
+                "gid": 0,
+                "ctime": 1777906376.9032283,
+                "mtime": 1777906376.9032283,
+                "size": 16
             },
+            "deserializer": "directory",
             "file": {
-                "lib": {
-                    "deserializer": "directory",
+                "packages": {
                     "stat": {
-                        "perm": 16877,
-                        "mtime": 1412861345.0,
-                        "size": 4096,
-                        "ctime": 1424381761.9308453,
+                        "perm": 16893,
                         "uid": 0,
-                        "gid": 0
+                        "gid": 0,
+                        "ctime": 1777906376.9032283,
+                        "mtime": 1777906376.9032283,
+                        "size": 104
                     },
-                    "file": {
-                        "openssh": {
-                            "deserializer": "directory",
-                            "stat": {
-                                "perm": 16877,
-                                "mtime": 1412861356.0,
-                                "size": 4096,
-                                "ctime": 1424381761.9308453,
-                                "uid": 0,
-                                "gid": 0
-                            },
-                            "file": {
-                                "sftp-server": {
-                                    "deserializer": "url",
-                                    "stat": {
-                                        "perm": 33261,
-                                        "mtime": 1412861356.0,
-                                        "size": 81056,
-                                        "ctime": 1424381761.9268453,
-                                        "uid": 0,
-                                        "gid": 0
-                                    },
-                                    "file": "http://d1fhml1jgvxldu.cloudfront.net/f03c9ca34291c577f8f4b1fedb4bffad"
-                                }
-                            }
-                        },
-                        "sftp-server": {
-                            "deserializer": "symlink",
-                            "stat": {
-                                "perm": 41471,
-                                "mtime": 1424381761.9268453,
-                                "size": 19,
-                                "ctime": 1424381761.9268453,
-                                "uid": 0,
-                                "gid": 0
-                            },
-                            "file": "openssh/sftp-server"
-                        }
-                    }
-                },
-                "share": {
                     "deserializer": "directory",
-                    "stat": {
-                        "perm": 16877,
-                        "mtime": 1412861342.0,
-                        "size": 4096,
-                        "ctime": 1424381761.9308453,
-                        "uid": 0,
-                        "gid": 0
-                    },
                     "file": {
-                        "doc": {
-                            "deserializer": "directory",
+                        "openssh-client (= 1:10.0p1-7+deb13u2)": {
                             "stat": {
-                                "perm": 16877,
-                                "mtime": 1412861345.0,
-                                "size": 4096,
-                                "ctime": 1424381761.9308453,
+                                "perm": 16893,
                                 "uid": 0,
-                                "gid": 0
+                                "gid": 0,
+                                "ctime": 1777906376.9032283,
+                                "mtime": 1777906376.9032283,
+                                "size": 0
                             },
-                            "file": {
-                                "openssh-sftp-server": {
-                                    "deserializer": "symlink",
-                                    "stat": {
-                                        "perm": 41471,
-                                        "mtime": 1424381761.9268453,
-                                        "size": 14,
-                                        "ctime": 1424381761.9268453,
-                                        "uid": 0,
-                                        "gid": 0
-                                    },
-                                    "file": "openssh-client"
-                                }
-                            }
+                            "deserializer": "directory",
+                            "file": {}
                         },
-                        "man": {
-                            "deserializer": "directory",
+                        "libc6 (>= 2.38)": {
                             "stat": {
-                                "perm": 16877,
-                                "mtime": 1412861341.0,
-                                "size": 4096,
-                                "ctime": 1424381761.9308453,
+                                "perm": 16893,
                                 "uid": 0,
-                                "gid": 0
+                                "gid": 0,
+                                "ctime": 1777906376.9032283,
+                                "mtime": 1777906376.9032283,
+                                "size": 0
                             },
-                            "file": {
-                                "man8": {
-                                    "deserializer": "directory",
-                                    "stat": {
-                                        "perm": 16877,
-                                        "mtime": 1412861346.0,
-                                        "size": 4096,
-                                        "ctime": 1424381761.9308453,
-                                        "uid": 0,
-                                        "gid": 0
-                                    },
-                                    "file": {
-                                        "sftp-server.8.gz": {
-                                            "deserializer": "url",
-                                            "stat": {
-                                                "perm": 33188,
-                                                "mtime": 1412861343.0,
-                                                "size": 2390,
-                                                "ctime": 1424381761.9268453,
-                                                "uid": 0,
-                                                "gid": 0
-                                            },
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/ca35d9c0078f17779fb81dff46051a36"
-                                        }
-                                    }
-                                }
-                            }
+                            "deserializer": "directory",
+                            "file": {}
                         }
                     }
                 }
             }
         },
-        "control": {
-            "deserializer": "directory",
+        "usr": {
             "stat": {
-                "perm": 16893,
-                "mtime": 1424381761.9148452,
-                "size": 4096,
-                "ctime": 1424381761.9148452,
+                "perm": 16877,
                 "uid": 0,
-                "gid": 0
+                "gid": 0,
+                "ctime": 1777906376.9072285,
+                "mtime": 1775345360.0,
+                "size": 16
             },
+            "deserializer": "directory",
             "file": {
-                "packages": {
-                    "deserializer": "directory",
+                "lib": {
                     "stat": {
-                        "perm": 16893,
-                        "mtime": 1424381761.9148452,
-                        "size": 4096,
-                        "ctime": 1424381761.9148452,
+                        "perm": 16877,
                         "uid": 0,
-                        "gid": 0
+                        "gid": 0,
+                        "ctime": 1777906376.9072285,
+                        "mtime": 1775345360.0,
+                        "size": 36
                     },
+                    "deserializer": "directory",
                     "file": {
-                        "libc6 (>= 2.17)": {
-                            "deserializer": "directory",
+                        "openssh": {
                             "stat": {
-                                "perm": 16893,
-                                "mtime": 1424381761.9148452,
-                                "size": 4096,
-                                "ctime": 1424381761.9148452,
+                                "perm": 16877,
                                 "uid": 0,
-                                "gid": 0
+                                "gid": 0,
+                                "ctime": 1777906376.9072285,
+                                "mtime": 1775345360.0,
+                                "size": 22
                             },
-                            "file": {}
+                            "deserializer": "directory",
+                            "file": {
+                                "sftp-server": {
+                                    "stat": {
+                                        "perm": 33261,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.9032283,
+                                        "mtime": 1775345360.0,
+                                        "size": 162000
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/bfb3bca7b8ac552b2b92c4db7e52638c1341f7467999299e27bfc5616ae9fc86"
+                                }
+                            }
                         },
-                        "openssh-client (= 1:6.6p1-8)": {
-                            "deserializer": "directory",
+                        "sftp-server": {
                             "stat": {
-                                "perm": 16893,
-                                "mtime": 1424381761.9148452,
-                                "size": 4096,
-                                "ctime": 1424381761.9148452,
+                                "perm": 41471,
                                 "uid": 0,
-                                "gid": 0
+                                "gid": 0,
+                                "ctime": 1777906376.9072285,
+                                "mtime": 1777906376.9072285,
+                                "size": 19
                             },
-                            "file": {}
+                            "deserializer": "symlink",
+                            "file": "openssh/sftp-server"
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906376.9072285,
+                        "mtime": 1775345360.0,
+                        "size": 12
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.9072285,
+                                "mtime": 1775345360.0,
+                                "size": 38
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "openssh-sftp-server": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.9072285,
+                                        "mtime": 1777906376.9072285,
+                                        "size": 14
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "openssh-client"
+                                }
+                            }
+                        },
+                        "man": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906376.9072285,
+                                "mtime": 1775345360.0,
+                                "size": 8
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "man8": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906376.9072285,
+                                        "mtime": 1775345360.0,
+                                        "size": 32
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "sftp-server.8.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906376.9072285,
+                                                "mtime": 1775345360.0,
+                                                "size": 2402
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/05912669cb5eeca1c053daeee8044d724bc36b35f6441b57188c11b17e24ba48"
+                                        }
+                                    }
+                                }
+                            }
                         }
                     }
                 }

@@ -1,165 +1,165 @@
 {
     "stat": {
         "perm": 16877,
-        "ctime": 1424381354.2771018,
-        "mtime": 1400875175.0,
         "uid": 0,
-        "size": 4096,
-        "gid": 0
+        "gid": 0,
+        "ctime": 1777906378.8073244,
+        "mtime": 1742111172.0,
+        "size": 12
     },
+    "deserializer": "directory",
     "file": {
-        "usr": {
-            "stat": {
-                "perm": 16877,
-                "ctime": 1424381354.2771018,
-                "mtime": 1400875169.0,
-                "uid": 0,
-                "size": 4096,
-                "gid": 0
-            },
-            "file": {
-                "share": {
-                    "stat": {
-                        "perm": 16877,
-                        "ctime": 1424381354.2771018,
-                        "mtime": 1400875170.0,
-                        "uid": 0,
-                        "size": 4096,
-                        "gid": 0
-                    },
-                    "file": {
-                        "doc": {
-                            "stat": {
-                                "perm": 16877,
-                                "ctime": 1424381354.2771018,
-                                "mtime": 1400875170.0,
-                                "uid": 0,
-                                "size": 4096,
-                                "gid": 0
-                            },
-                            "file": {
-                                "libsemanage-common": {
-                                    "stat": {
-                                        "perm": 16877,
-                                        "ctime": 1424381354.2771018,
-                                        "mtime": 1400875171.0,
-                                        "uid": 0,
-                                        "size": 4096,
-                                        "gid": 0
-                                    },
-                                    "file": {
-                                        "copyright": {
-                                            "stat": {
-                                                "perm": 33188,
-                                                "ctime": 1424381354.2771018,
-                                                "mtime": 1400250442.0,
-                                                "uid": 0,
-                                                "size": 1828,
-                                                "gid": 0
-                                            },
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/919bbe4fa9518ab75dba4f05293b027e",
-                                            "deserializer": "url"
-                                        },
-                                        "changelog.Debian.gz": {
-                                            "stat": {
-                                                "perm": 33188,
-                                                "ctime": 1424381354.2771018,
-                                                "mtime": 1400875180.0,
-                                                "uid": 0,
-                                                "size": 1517,
-                                                "gid": 0
-                                            },
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/d630877ce30bfdf2f46e368ac43d392b",
-                                            "deserializer": "url"
-                                        }
-                                    },
-                                    "deserializer": "directory"
-                                }
-                            },
-                            "deserializer": "directory"
-                        },
-                        "man": {
-                            "stat": {
-                                "perm": 16877,
-                                "ctime": 1424381354.2771018,
-                                "mtime": 1400875169.0,
-                                "uid": 0,
-                                "size": 4096,
-                                "gid": 0
-                            },
-                            "file": {
-                                "man5": {
-                                    "stat": {
-                                        "perm": 16877,
-                                        "ctime": 1424381354.2771018,
-                                        "mtime": 1400875171.0,
-                                        "uid": 0,
-                                        "size": 4096,
-                                        "gid": 0
-                                    },
-                                    "file": {
-                                        "semanage.conf.5.gz": {
-                                            "stat": {
-                                                "perm": 33188,
-                                                "ctime": 1424381354.2731018,
-                                                "mtime": 1400875170.0,
-                                                "uid": 0,
-                                                "size": 1643,
-                                                "gid": 0
-                                            },
-                                            "file": "http://d1fhml1jgvxldu.cloudfront.net/56fd92779491fc840cb25fde25a5aa62",
-                                            "deserializer": "url"
-                                        }
-                                    },
-                                    "deserializer": "directory"
-                                }
-                            },
-                            "deserializer": "directory"
-                        }
-                    },
-                    "deserializer": "directory"
-                }
-            },
-            "deserializer": "directory"
-        },
         "etc": {
             "stat": {
                 "perm": 16877,
-                "ctime": 1424381354.2771018,
-                "mtime": 1400875169.0,
                 "uid": 0,
-                "size": 4096,
-                "gid": 0
+                "gid": 0,
+                "ctime": 1777906378.8073244,
+                "mtime": 1742111172.0,
+                "size": 14
             },
+            "deserializer": "directory",
             "file": {
                 "selinux": {
                     "stat": {
                         "perm": 16877,
-                        "ctime": 1424381354.2771018,
-                        "mtime": 1400875169.0,
                         "uid": 0,
-                        "size": 4096,
-                        "gid": 0
+                        "gid": 0,
+                        "ctime": 1777906378.8073244,
+                        "mtime": 1742111172.0,
+                        "size": 26
                     },
+                    "deserializer": "directory",
                     "file": {
                         "semanage.conf": {
                             "stat": {
                                 "perm": 33188,
-                                "ctime": 1424381354.2731018,
-                                "mtime": 1400875169.0,
                                 "uid": 0,
-                                "size": 1888,
-                                "gid": 0
+                                "gid": 0,
+                                "ctime": 1777906378.8033242,
+                                "mtime": 1742111172.0,
+                                "size": 2065
                             },
-                            "file": "http://d1fhml1jgvxldu.cloudfront.net/e69d42a4d98a93c3b8e201bdda367c55",
-                            "deserializer": "url"
+                            "deserializer": "url",
+                            "file": "/blobs/920e2adfc551a81617764f0f07ae25919b53f48556bf83e82fb909bc96d73921"
                         }
-                    },
-                    "deserializer": "directory"
+                    }
                 }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.8033242,
+                "mtime": 1742111172.0,
+                "size": 10
             },
-            "deserializer": "directory"
+            "deserializer": "directory",
+            "file": {
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.8033242,
+                        "mtime": 1742111172.0,
+                        "size": 12
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.8033242,
+                                "mtime": 1742111172.0,
+                                "size": 36
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libsemanage-common": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.8033242,
+                                        "mtime": 1742111172.0,
+                                        "size": 56
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8033242,
+                                                "mtime": 1742111172.0,
+                                                "size": 1970
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5bb6c1eda4aadeb50a0a13973eb80bd46b8c2e2eea15b9b97937b89b8eb21860"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8033242,
+                                                "mtime": 1724405050.0,
+                                                "size": 1921
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/fe5876a94047cafbeb8b164fd98304912d94b6028e19415f08b7a8a2f90645fe"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "man": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.8033242,
+                                "mtime": 1742111172.0,
+                                "size": 8
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "man5": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.8033242,
+                                        "mtime": 1742111172.0,
+                                        "size": 36
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "semanage.conf.5.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.8033242,
+                                                "mtime": 1742111172.0,
+                                                "size": 2673
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/795f316f993ac44e4f79cbf89fcc016766ff045c52a18b8317906f930ddc3946"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
-    },
-    "deserializer": "directory"
+    }
 }

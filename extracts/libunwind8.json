@@ -1,0 +1,273 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.859327,
+        "mtime": 1735058931.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.855327,
+                "mtime": 1777906378.855327,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.855327,
+                        "mtime": 1777906378.855327,
+                        "size": 96
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.34)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.855327,
+                                "mtime": 1777906378.855327,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        },
+                        "liblzma5 (>= 5.1.1alpha+20110809)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.855327,
+                                "mtime": 1777906378.855327,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.859327,
+                "mtime": 1735058931.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.859327,
+                        "mtime": 1735058931.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.859327,
+                                "mtime": 1735058931.0,
+                                "size": 348
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libunwind-coredump.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1735058931.0,
+                                        "size": 26552
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/8ec0540ab03737dc8b9fe93d1c1d83867f90845ccc75380319c183c0334104e8"
+                                },
+                                "libunwind-ptrace.so.0.0.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1735058931.0,
+                                        "size": 18752
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/4ee27f69f3097980f79fa22ca54f533d3dded0e8c9ca11ce8f67be241ee6dc61"
+                                },
+                                "libunwind-x86_64.so.8.1.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1735058931.0,
+                                        "size": 80184
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/16e5e304811046269edc71fadea00ded923d0d7c8cfac2ce4a5e1fe8447d0012"
+                                },
+                                "libunwind.so.8.1.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1735058931.0,
+                                        "size": 72088
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/2da9fe641c4824df74830606e6e6b6642ed9fb530ed7a67c4aff54afa08dfa45"
+                                },
+                                "libunwind-coredump.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1777906378.855327,
+                                        "size": 27
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libunwind-coredump.so.0.0.0"
+                                },
+                                "libunwind-ptrace.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.855327,
+                                        "mtime": 1777906378.855327,
+                                        "size": 25
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libunwind-ptrace.so.0.0.0"
+                                },
+                                "libunwind-x86_64.so.8": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.859327,
+                                        "mtime": 1777906378.859327,
+                                        "size": 25
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libunwind-x86_64.so.8.1.0"
+                                },
+                                "libunwind.so.8": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.859327,
+                                        "mtime": 1777906378.859327,
+                                        "size": 18
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libunwind.so.8.1.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.859327,
+                        "mtime": 1735058931.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.859327,
+                                "mtime": 1735058931.0,
+                                "size": 20
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libunwind8": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.859327,
+                                        "mtime": 1735058931.0,
+                                        "size": 80
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.855327,
+                                                "mtime": 1735058931.0,
+                                                "size": 1028
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/7a80ea45094fb8e1cd2fb9f202705a03a7000585627000ce9df90d020cfba9f8"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.855327,
+                                                "mtime": 1708458891.0,
+                                                "size": 111
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/79fdb358ea8f24e0b15d080220c2d80e22966bbb01bd822ae4d25a8f115240ab"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.855327,
+                                                "mtime": 1735058931.0,
+                                                "size": 3613
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/977d981f5677652884b09cccef6b62f992aa9c74b7a748bfe9863a703f5aed58"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

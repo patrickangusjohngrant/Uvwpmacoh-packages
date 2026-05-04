@@ -1,0 +1,328 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906379.0473366,
+        "mtime": 1750869126.0,
+        "size": 26
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0433364,
+                "mtime": 1777906379.0433364,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0433364,
+                        "mtime": 1777906379.0433364,
+                        "size": 12
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "passwd": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0433364,
+                                "mtime": 1777906379.0433364,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "etc": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0473366,
+                "mtime": 1750869126.0,
+                "size": 12
+            },
+            "deserializer": "directory",
+            "file": {
+                "init.d": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0473366,
+                        "mtime": 1750869126.0,
+                        "size": 24
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "opensysusers": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0433364,
+                                "mtime": 1750869126.0,
+                                "size": 1082
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/0022719e017e92042fb593bc9156678c03bf15cece44e06853515df6af543225"
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906379.0473366,
+                "mtime": 1750869126.0,
+                "size": 22
+            },
+            "deserializer": "directory",
+            "file": {
+                "bin": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0473366,
+                        "mtime": 1750869126.0,
+                        "size": 74
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "opensysusers-sysusers": {
+                            "stat": {
+                                "perm": 33261,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1750869126.0,
+                                "size": 5817
+                            },
+                            "deserializer": "url",
+                            "file": "/blobs/9edaa1398fc6fc9232f90b5af684f0867631a0384f4b1d0d92c2d7ff14711a27"
+                        },
+                        "systemd-sysusers": {
+                            "stat": {
+                                "perm": 41471,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1777906379.0473366,
+                                "size": 21
+                            },
+                            "deserializer": "symlink",
+                            "file": "opensysusers-sysusers"
+                        }
+                    }
+                },
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0473366,
+                        "mtime": 1750869126.0,
+                        "size": 20
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "sysusers.d": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1750869126.0,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906379.0473366,
+                        "mtime": 1750869126.0,
+                        "size": 26
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1750869126.0,
+                                "size": 24
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "opensysusers": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0473366,
+                                        "mtime": 1750869126.0,
+                                        "size": 56
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0473366,
+                                                "mtime": 1750869126.0,
+                                                "size": 1367
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/a6cd87ac4beb1ef4086e2bc1f560014c0050d382f91ac778d6da8dc03861bb53"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0473366,
+                                                "mtime": 1750869126.0,
+                                                "size": 2811
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/0d96cb9f22d5d71a920e2f4b4f84c9078b4e3b7091148de43c38b992d010fde4"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "lintian": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1750869126.0,
+                                "size": 18
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "overrides": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0473366,
+                                        "mtime": 1750869126.0,
+                                        "size": 24
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "opensysusers": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0473366,
+                                                "mtime": 1750869126.0,
+                                                "size": 534
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/84b9d1ae858b9bde5ebc379cce68a0d49ec3c851a27b91cb0e409dec2becfe78"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "man": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906379.0473366,
+                                "mtime": 1750869126.0,
+                                "size": 16
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "man5": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0473366,
+                                        "mtime": 1750869126.0,
+                                        "size": 38
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "opensysusers.d.5.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0473366,
+                                                "mtime": 1750869126.0,
+                                                "size": 4066
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4b158a144df4d486afa7a8f6d83e49d5566f4be7da3095b7d8e10e2d554014a3"
+                                        }
+                                    }
+                                },
+                                "man8": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906379.0473366,
+                                        "mtime": 1750869126.0,
+                                        "size": 52
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "opensysusers-sysusers.8.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906379.0473366,
+                                                "mtime": 1750869126.0,
+                                                "size": 3053
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/14f1b345f5744d18dbf45518743d50660d93f410091362063493c2da073e7f87"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

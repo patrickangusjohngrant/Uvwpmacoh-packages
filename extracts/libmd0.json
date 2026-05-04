@@ -1,0 +1,201 @@
+{
+    "stat": {
+        "perm": 16877,
+        "uid": 0,
+        "gid": 0,
+        "ctime": 1777906378.7913237,
+        "mtime": 1730160148.0,
+        "size": 20
+    },
+    "deserializer": "directory",
+    "file": {
+        "control": {
+            "stat": {
+                "perm": 16893,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7873235,
+                "mtime": 1777906378.7873235,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "packages": {
+                    "stat": {
+                        "perm": 16893,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7873235,
+                        "mtime": 1777906378.7873235,
+                        "size": 30
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "libc6 (>= 2.33)": {
+                            "stat": {
+                                "perm": 16893,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7873235,
+                                "mtime": 1777906378.7873235,
+                                "size": 0
+                            },
+                            "deserializer": "directory",
+                            "file": {}
+                        }
+                    }
+                }
+            }
+        },
+        "usr": {
+            "stat": {
+                "perm": 16877,
+                "uid": 0,
+                "gid": 0,
+                "ctime": 1777906378.7913237,
+                "mtime": 1730160148.0,
+                "size": 16
+            },
+            "deserializer": "directory",
+            "file": {
+                "lib": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7913237,
+                        "mtime": 1730160148.0,
+                        "size": 32
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "x86_64-linux-gnu": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7913237,
+                                "mtime": 1730160148.0,
+                                "size": 48
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libmd.so.0.1.0": {
+                                    "stat": {
+                                        "perm": 33188,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7873235,
+                                        "mtime": 1730160148.0,
+                                        "size": 59472
+                                    },
+                                    "deserializer": "url",
+                                    "file": "/blobs/1c8c51474c0eb67dabd9f1605097eb58195cdabef64427ae17cfcd2053c37479"
+                                },
+                                "libmd.so.0": {
+                                    "stat": {
+                                        "perm": 41471,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7913237,
+                                        "mtime": 1777906378.7913237,
+                                        "size": 14
+                                    },
+                                    "deserializer": "symlink",
+                                    "file": "libmd.so.0.1.0"
+                                }
+                            }
+                        }
+                    }
+                },
+                "share": {
+                    "stat": {
+                        "perm": 16877,
+                        "uid": 0,
+                        "gid": 0,
+                        "ctime": 1777906378.7913237,
+                        "mtime": 1730160148.0,
+                        "size": 6
+                    },
+                    "deserializer": "directory",
+                    "file": {
+                        "doc": {
+                            "stat": {
+                                "perm": 16877,
+                                "uid": 0,
+                                "gid": 0,
+                                "ctime": 1777906378.7913237,
+                                "mtime": 1730160148.0,
+                                "size": 12
+                            },
+                            "deserializer": "directory",
+                            "file": {
+                                "libmd0": {
+                                    "stat": {
+                                        "perm": 16877,
+                                        "uid": 0,
+                                        "gid": 0,
+                                        "ctime": 1777906378.7913237,
+                                        "mtime": 1730160148.0,
+                                        "size": 130
+                                    },
+                                    "deserializer": "directory",
+                                    "file": {
+                                        "changelog.Debian.amd64.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7913237,
+                                                "mtime": 1730160148.0,
+                                                "size": 229
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/ff9c87cb95698dcee056549951e6f1f9bf17e53690a8ad2a444b11c05e229824"
+                                        },
+                                        "changelog.Debian.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7913237,
+                                                "mtime": 1730160148.0,
+                                                "size": 1394
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/89d208a1ea137de24a5697ea74fd64e023874af31b83cb25d1ae3868cd9a8452"
+                                        },
+                                        "changelog.gz": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7913237,
+                                                "mtime": 1686693077.0,
+                                                "size": 9589
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/5aa2b99c59f8b772b29cbee6967477c6411aae230e6c4328c16a2c6a2d9d3abe"
+                                        },
+                                        "copyright": {
+                                            "stat": {
+                                                "perm": 33188,
+                                                "uid": 0,
+                                                "gid": 0,
+                                                "ctime": 1777906378.7913237,
+                                                "mtime": 1608578457.0,
+                                                "size": 8018
+                                            },
+                                            "deserializer": "url",
+                                            "file": "/blobs/4365ef6255ad553fce69dd4bc0e093472c5d0e41b8ea493a545cc926ce171aa6"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
